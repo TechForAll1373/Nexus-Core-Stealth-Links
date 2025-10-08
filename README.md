@@ -3,8 +3,6 @@
 > **The definitive link portal of the CafePersians ecosystem**  
 > All URLs hidden. All names human-readable. One file. Zero dependencies.
 
-![Nexus Core](https://via.placeholder.com/800x400/090c1f/0ff?text=Nexus+Core+Live)
-
 ---
 
 ## 🔗 Complete Link Directory
