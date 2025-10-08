@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Nexus Core – Stealth Links</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:system-ui,-apple-system,'Segoe UI',sans-serif}
+body{background:#020410;color:#eafaff;min-height:100vh;display:grid;place-items:center;padding:16px}
+.container{width:100%;max-width:840px;background:#090c1f;border-radius:22px;box-shadow:0 0 0 1px #121833,0 0 50px rgba(80,100,255,0.15);padding:28px}
+h1{font-size:1.6rem;text-align:center;margin-bottom:22px;font-weight:800;letter-spacing:1px;background:linear-gradient(90deg,#0ff,#8f8);-webkit-background-clip:text;background-clip:text;color:transparent;text-shadow:0 0 14px rgba(0,255,255,0.4)}
+.search{width:100%;padding:12px 18px;margin-bottom:24px;background:#0d112a;border:1px solid #1e2545;border-radius:14px;color:#fff;font-size:1rem;outline:none;transition:all 0.3s}
+.search::placeholder{color:#6a7cb0}
+.search:focus{border-color:#0ff;box-shadow:0 0 0 3px rgba(0,255,255,0.25)}
+.category{margin-bottom:24px}
+.category h2{font-size:1.15rem;margin-bottom:14px;color:#4df;font-weight:700;display:flex;align-items:center;gap:10px}
+.category h2::before{content:"◆";color:#0ff;font-size:1.4rem;opacity:0.8}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
+.card{position:relative;padding:16px;background:#0f142f;border:1px solid #222c55;border-radius:14px;cursor:pointer;transition:all 0.35s cubic-bezier(0.25,0.8,0.25,1);overflow:hidden}
+.card::before{content:'';position:absolute;top:0;left:-100%;width:200%;height:100%;background:linear-gradient(90deg,transparent,rgba(0,255,255,0.12),transparent);transition:0.7s}
+.card:hover{transform:translateY(-4px);border-color:#0ff;box-shadow:0 8px 20px rgba(0,180,255,0.25)}
+.card:hover::before{left:100%}
+.card h3{font-size:0.98rem;font-weight:600;color:#fff;word-break:break-word}
+@media(max-width:580px){.cards{grid-template-columns:1fr}.container{padding:20px}h1{font-size:1.3rem}}
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Nexus Core – Stealth Links</h1>
+  <input type="text" class="search" id="q" placeholder="Search by name (e.g. Nobitex, WhatsApp, Support...)">
+  <div id="out"></div>
+</div>
+<script>
+const items=[
+{url:"https://techforall1373.github.io/cafepersians.io.lib/",name:"CafePersians Library"},
+{url:"https://panel.tagsino.com/auth/login?referral=AAJDA",name:"Tagsino Panel"},
+{url:"https://my.tlyn.ir/register?referral=RZMRGV",name:"Tlyn Register"},
+{url:"https://talasea.ir/onboarding/?r=ENqbdgri",name:"Talasea Onboarding"},
+{url:"https://noghresea.ir/onboarding/?r=YXnepCnN",name:"NoghreSea Onboarding"},
+{url:"https://ok-ex.io?refer=1818372",name:"OK-EX Exchange"},
+{url:"https://nobitex.ir/signup/?refcode=9553724",name:"Nobitex Signup A"},
+{url:"https://nobitex.ir/signup/?refcode=AA02BB1",name:"Nobitex Signup B"},
+{url:"https://wallex.ir/signup?ref=cmesrp1",name:"Wallex Signup"},
+{url:"https://tabdeal.org/auth/register-req?refcode=1er1sw",name:"Tabdeal Auth"},
+{url:"https://tabdeal.org/install-app?refcode=1er1sw",name:"Tabdeal App"},
+{url:"https://sarmayex.com/authentication/init?reagent_code=480132887",name:"Sarmayex Auth"},
+{url:"https://abantether.com/register?code=23UQR",name:"AbanTether A"},
+{url:"https://abantether.com/register?code=rScM",name:"AbanTether B"},
+{url:"https://onefinex.com/login?ref=o1eo8osb4l",name:"OneFinex Login"},
+{url:"https://panel.invex.ir/auth/register?referral_code=CSAORIUD",name:"Invex Panel"},
+{url:"https://exnovin.io/app/register?ref=1581831747",name:"Exnovin Register"},
+{url:"https://kifpool.me/member_v2/register?referral=Y5aw5xPz3AML",name:"Kifpool Register"},
+{url:"https://changekon.ir?ref=CAP_82957718",name:"ChangeKon A"},
+{url:"https://changekon.ir?ref=44938819",name:"ChangeKon B"},
+{url:"https://takl.ink/cafepersians.git/",name:"Git Repo"},
+{url:"https://takl.ink/cafepersians.Support/",name:"Support Portal"},
+{url:"https://takl.ink/Cafepersians.io/",name:"Main Domain"},
+{url:"https://takl.ink/CafePersia/",name:"CafePersia Short"},
+{url:"https://takl.ink/Cafepersian/",name:"Cafepersian Short"},
+{url:"https://takl.ink/azkiSeller/",name:"Azki Seller"},
+{url:"https://takl.ink/Charisman/",name:"Charisman"},
+{url:"https://takl.ink/Workstation/",name:"Workstation"},
+{url:"https://takl.ink/HamNava/",name:"HamNava"},
+{url:"https://techforall1373.github.io/Cafepersians.io/",name:"Official Site"},
+{url:"https://techforall1373.github.io/CafePersians/",name:"CafePersians Hub"},
+{url:"https://techforall1373.github.io/cafe-persians-password-gen/",name:"Password Generator"},
+{url:"https://techforall1373.github.io/PersiaNexus/",name:"PersiaNexus"},
+{url:"https://techforall1373.github.io/CafePersians-Official/",name:"Official Portal"},
+{url:"https://techforall1373.github.io/CafePersians-Portal/",name:"User Portal"},
+{url:"https://techforall1373.github.io/Nexus-of-Lumina/",name:"Nexus of Lumina"},
+{url:"https://techforall1373.github.io/lumina-crypto-portal/",name:"Lumina Crypto"},
+{url:"https://techforall1373.github.io/cafepersian-support-portal/",name:"Support Portal v2"},
+{url:"https://techforall1373.github.io/persian-digital-nexus/",name:"Digital Nexus"},
+{url:"https://whatsapp.com/channel/0029VbBA6O26RGJCCAPcpM3H",name:"WhatsApp Channel A"},
+{url:"https://whatsapp.com/channel/0029VazXKZPL2ATzkbqfge2G",name:"WhatsApp Channel B"},
+{url:"https://donito.me/cafepersians",name:"Donito Donation"},
+{url:"https://paylink.payment4.com/en/cafepersians/a43a45c4-e7b6-42f0-bcf8-8f850cd3b239",name:"Payment Link A"},
+{url:"https://paylink.payment4.com/en/cafepersians/01e9f9b6-590f-44e9-874f-7d5a5a50355d",name:"Payment Link B"},
+{url:"https://www.coffeete.ir/Cafepersians",name:"Coffeete Page"},
+{url:"https://hamibash.com/cafepersians",name:"Hamibash Profile"}
+];
+
+const groups=[
+{title:"Exchanges",keys:["Nobitex","Wallex","OK-EX","Sarmayex","AbanTether","OneFinex","Exnovin","Kifpool","ChangeKon","Tabdeal"]},
+{title:"Authentication & Panels",keys:["Panel","Auth","Register","Login","Onboarding"]},
+{title:"Support & Docs",keys:["Support","Git","Password","Portal","Nexus","Lumina","Digital"]},
+{title:"Social & Channels",keys:["WhatsApp"]},
+{title:"Payments",keys:["Donito","Payment"]},
+{title:"Shortlinks & Misc",keys:["Short","Coffeete","Hamibash","Main Domain","Official"]}
+];
+
+const C=document.getElementById("out"),Q=document.getElementById("q");
+function render(q=""){C.innerHTML="";const f=q.toLowerCase();const buckets={};items.forEach(i=>{if(f&&!i.name.toLowerCase().includes(f))return;let g="Uncategorized";for(let gr of groups){if(gr.keys.some(k=>i.name.includes(k))){g=gr.title;break;}}(buckets[g]=buckets[g]||[]).push(i)});Object.entries(buckets).forEach(([t,list])=>{if(list.length){const sec=document.createElement("div");sec.className="category";sec.innerHTML=`<h2>${t}</h2><div class='cards'></div>`;const grid=sec.querySelector(".cards");list.forEach(i=>{const card=document.createElement("div");card.className="card";card.innerHTML=`<h3>${i.name}</h3>`;card.onclick=()=>window.open(i.url,"_blank");grid.appendChild(card)});C.appendChild(sec)}})}
+Q.addEventListener("input",e=>render(e.target.value));
+render();
+</script>
+</body>
+</html>
