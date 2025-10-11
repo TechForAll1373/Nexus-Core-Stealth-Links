@@ -39,7 +39,7 @@ AI-driven comparisons across 20+ insurers • Instant e-policy issuance • 24/7
 **Peace of mind starts with one smart decision.**  
 Secure your tomorrow — today.
 
-✅ This project is maintained by **Pouya Rezatabar Balanaghibi** — certified partner of Azki, charisma, and Bimeh Bazar.  
+✅ This project is maintained by **CafePersians** — certified partner of Azki, charisma, and Bimeh Bazar.  
 💛 Support our mission by sharing our services with those who need them.
 
 # Knowledge Base
@@ -59,7 +59,7 @@ Integrate **WebSocket API** for real-time sync, **Service Worker** for offline r
 
   ## 🌟 Join the Future of Insurance
 
-You’ve been personally invited by **Pouya Rezatabar Balanaghibi** to become an official partner of **BimehBazar** — Iran’s leading digital insurance platform.
+You’ve been personally invited by **CafePersians** to become an official partner of **BimehBazar** — Iran’s leading digital insurance platform.
 
 Unlock **maximum commissions**, real-time policy issuance, and a scalable income stream from day one.
 
@@ -82,6 +82,19 @@ Click below, sign up, and use referral code **`a332918`** to unlock your exclusi
 👉 [**Get Started with Cafenetman Now!**](http://app.cafenetman.com/s/33bKz/nw)  
 
 *Your digital life, simplified.* 💫
+
+✨ **You’ve Been Invited!** ✨  
+
+You’re cordially invited by **CafePersians** 🎀 to join **Dastiar** – your all-in-one digital sidekick for everyday life!  
+
+Dastiar is a powerful **mobile app & browser extension** designed to simplify, automate, and beautify your digital routines. From quick tasks to smart workflows, Dastiar’s got your back!  
+
+🎁 **Don’t forget your exclusive gift!**  
+Use referral code **`DAS-0018KK`** during sign-up to unlock special perks just for you.  
+
+👉 [**Install Dastiar Now – Your Digital Life, Upgraded!**](https://dastiar.com)  
+
+*Work smarter. Live easier. Be magical.* 💫
 
 ## 🔗 Complete Link Directory
 
