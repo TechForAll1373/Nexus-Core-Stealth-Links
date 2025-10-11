@@ -3,7 +3,6 @@
 > **The definitive link portal of the CafePersians ecosystem**  
 > All URLs hidden. All names human-readable. One file. Zero dependencies.
 
----
 ![Banner](https://mizbanfa.net/wp-content/uploads/2020/10/468x60-1.png)
 ![Banner](https://mizbanfa.net/wp-content/uploads/2020/10/600x300-1.png)
 ![Banner](https://mizbanfa.net/wp-content/uploads/2020/10/125x400-1.png)
