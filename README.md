@@ -29,7 +29,7 @@ We’re not just a service provider; we’re your trusted partner in building a 
 
 ## ✨ Core Offerings
 
-- **Digital Insurance**: Instant coverage via **Bimeh Bazar**, **Azki**, and **Karizma** — including auto, travel, health, life, fire, commercial, and specialty policies.  
+- **Digital Insurance**: Instant coverage via **Bimeh Bazar**, **Azki**, and **Charisma** — including auto, travel, health, life, fire, commercial, and specialty policies.  
 - **Real Estate Collaboration**: Pre-sales partnerships with builders and property consultants across Babol, Babolsar, and Amirkola.  
 - **Automotive Solutions**: Traffic fine checks, insurance, and trusted buy/sell/exchange support.  
 - **Digital Marketing**: Strategic promotion on **Sheypoor**, **Divar**, **Pindo**, and curated Telegram/Instagram/WhatsApp ad groups by topic.  
