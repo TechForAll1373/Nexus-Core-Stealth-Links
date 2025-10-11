@@ -72,6 +72,16 @@ https://shoraka.net/register?referral_code=09115682541
 Turn your network into opportunity.  
 Your journey as a top-tier insurance partner starts with one click.
 
+✨ **Say Goodbye to Physical Cafés!** ✨  
+
+Introducing **Cafenetman** – Iran’s **first fully remote service platform**, bringing **120+ digital services** right to your pocket! 📱 Whether you need quick support, seamless transactions, or exclusive perks, Cafenetman is your 24/7 virtual companion.  
+
+🎁 **Special Welcome Gift Just for You!**  
+Click below, sign up, and use referral code **`a332918`** to unlock your exclusive bonus!  
+
+👉 [**Get Started with Cafenetman Now!**](http://app.cafenetman.com/s/33bKz/nw)  
+
+*Your digital life, simplified.* 💫
 
 ## 🔗 Complete Link Directory
 
