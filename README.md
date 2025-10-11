@@ -39,7 +39,7 @@ AI-driven comparisons across 20+ insurers • Instant e-policy issuance • 24/7
 **Peace of mind starts with one smart decision.**  
 Secure your tomorrow — today.
 
-✅ This project is maintained by **Pouya Rezatabar Balanaghibi** — certified partner of Azki, Karizma, and Bimeh Bazar.  
+✅ This project is maintained by **Pouya Rezatabar Balanaghibi** — certified partner of Azki, charisma, and Bimeh Bazar.  
 💛 Support our mission by sharing our services with those who need them.
 
 ## 🔗 Complete Link Directory
