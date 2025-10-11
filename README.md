@@ -4,7 +4,7 @@
 > All URLs hidden. All names human-readable. One file. Zero dependencies.
 
 ---
-https://mizbanfa.net/wp-content/uploads/2020/10/468x60-1.png
+![Banner](https://mizbanfa.net/wp-content/uploads/2020/10/468x60-1.png)
 
 ## 🔗 Complete Link Directory
 
