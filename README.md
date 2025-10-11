@@ -96,6 +96,19 @@ Use referral code **`DAS-0018KK`** during sign-up to unlock special perks just f
 
 *Work smarter. Live easier. Be magical.* 💫
 
+### 🌐 **Join Pooleno – Iran’s Trusted Digital Asset Exchange**  
+
+Discover **Pooleno**, a secure and user-friendly platform for buying, selling, and managing **digital currencies** with confidence. Built for both beginners and advanced users, Pooleno offers real-time trading, transparent fees, and robust security—so you can focus on what matters: growing your crypto journey.  
+
+🎁 **Get Started with an Exclusive Bonus!**  
+You’ve been invited to join Pooleno’s beta platform. Sign up using the link below and enjoy early-access benefits:  
+
+👉 [**Sign Up on Pooleno Now**](https://beta.pooleno.ir/auth/register?referral=dtt3iv)  
+
+*Trade smarter. Stay secure. Embrace the future of finance.* 💰✨  
+
+> ℹ️ *Pooleno is a licensed digital asset exchange in Iran, committed to regulatory compliance, user protection, and seamless crypto experiences.*  
+
 ## 🔗 Complete Link Directory
 
 ### 📦 Core Projects
