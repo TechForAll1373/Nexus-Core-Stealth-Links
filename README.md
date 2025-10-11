@@ -57,6 +57,21 @@ Integrate **WebSocket API** for real-time sync, **Service Worker** for offline r
 - 🧩 **Simplly** — Experimental publishing interface (invite-only)  
   https://simplly.site/?r=1673
 
+  ## 🌟 Join the Future of Insurance
+
+You’ve been personally invited by **Pouya Rezatabar Balanaghibi** to become an official partner of **BimehBazar** — Iran’s leading digital insurance platform.
+
+Unlock **maximum commissions**, real-time policy issuance, and a scalable income stream from day one.
+
+👉 **Get started now**:  
+
+https://shoraka.net/register?referral_code=09115682541
+
+**Referral Code**: `09115682541`
+
+Turn your network into opportunity.  
+Your journey as a top-tier insurance partner starts with one click.
+
 
 ## 🔗 Complete Link Directory
 
