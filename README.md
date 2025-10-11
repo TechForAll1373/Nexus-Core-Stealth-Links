@@ -42,6 +42,22 @@ Secure your tomorrow — today.
 ✅ This project is maintained by **Pouya Rezatabar Balanaghibi** — certified partner of Azki, charisma, and Bimeh Bazar.  
 💛 Support our mission by sharing our services with those who need them.
 
+# Knowledge Base
+
+The definitive, centralized library of all official CafePersians portals, tools, and resources.
+
+## ✨ Expand Your Experience  
+Integrate **WebSocket API** for real-time sync, **Service Worker** for offline resilience, or extend with **modular micro-frontends**.
+
+## 🔗 Partner Portals (Affiliate)
+
+- 🌐 **See5** — Affiliate gateway for digital service routing  
+  https://see5.net/?r=1673
+
+- 🧩 **Simplly** — Experimental publishing interface (invite-only)  
+  https://simplly.site/?r=1673
+
+
 ## 🔗 Complete Link Directory
 
 ### 📦 Core Projects
