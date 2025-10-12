@@ -116,7 +116,71 @@ You’ve been invited to join Pooleno’s beta platform. Sign up using the link 
 
 *Trade smarter. Stay secure. Embrace the future of finance.* 💰✨  
 
-> ℹ️ *Pooleno is a licensed digital asset exchange in Iran, committed to regulatory compliance, user protection, and seamless crypto experiences.*  
+> ℹ️ *Pooleno is a licensed digital asset exchange in Iran, committed to regulatory compliance, user protection, and seamless crypto experiences.*
+
+# 🏟️ The Arena – Next-Gen SocialFi Platform
+
+[![The Arena – SocialFi Redefined](https://arena.social/images/hero-2.jpeg)](https://arena.social/termuxisland)
+
+> **Connect • Engage • Monetize**  
+> **Your social presence. Your digital economy.**
+
+[**✨ Enter The Arena**](https://arena.social/termuxisland)
+
+---
+
+## 🔥 What is The Arena?
+
+**The Arena** is a **Web3-native SocialFi ecosystem** that redefines how users interact, create, and earn in decentralized social spaces. Built at the intersection of **social networking** and **decentralized finance (DeFi)**, The Arena empowers creators, communities, and contributors to:
+
+- **Own their data** and digital identity  
+- **Monetize engagement** through tokenized interactions  
+- **Participate in governance** and platform evolution  
+- **Seamlessly onboard**—even without an X (Twitter) account (email login supported!)
+
+Unlike traditional social platforms that extract value from users, **The Arena returns value to its participants** through transparent, incentive-aligned mechanics powered by blockchain.
+
+---
+
+## 💡 Why SocialFi?
+
+SocialFi (Social + Finance) is the future of online interaction—where **attention = equity**, and **engagement = income**. In The Arena:
+
+- Every like, comment, share, or post can carry **real economic weight**  
+- Communities co-own their spaces via **DAO-like structures**  
+- Creators earn **directly from their audience**, without intermediaries  
+- Privacy, portability, and permissionless participation are **core by design**
+
+This isn’t just another social app—it’s a **user-owned social economy**.
+
+---
+
+## 🚀 Get Started
+
+Ready to step into the future of social?
+
+👉 [**Enter The Arena Now**](https://arena.social/termuxisland)
+
+*No wallet? No problem.*  
+The Arena supports **email-based onboarding** for frictionless Web3 adoption.
+
+---
+
+## 🌐 Join the Movement
+
+- **Website**: [arena.social](https://arena.social)  
+- **SocialFi Vision**: Decentralized, fair, and rewarding digital interaction  
+- **Built for**: Creators • Builders • Community Leaders • Web3 Enthusiasts
+
+---
+
+> **"In The Arena, you don’t just scroll—you stake, shape, and succeed."**
+
+---
+
+*The Arena is live. Are you in?* 💎
+
+---
 
 ## 🔗 Complete Link Directory
 
