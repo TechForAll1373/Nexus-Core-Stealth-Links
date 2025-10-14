@@ -246,6 +246,42 @@ The Arena supports **email-based onboarding** for frictionless Web3 adoption.
 
 ---
 
+# 🌐 Support Our Mission — Power the Future with Crypto
+
+We’re building **open, private, and unstoppable tools** for a decentralized tomorrow — and we can’t do it alone.  
+Every line of code, every hidden link, every breakthrough starts with **your support**.
+
+## 🔐 Official & Secure Crypto Donation Hub
+
+We maintain **verified, immutable wallet addresses** across **15+ blockchains** — from Bitcoin and Ethereum to Monero, Solana, Litecoin, and beyond.  
+✅ All addresses are **authentic**, **manually reviewed**, and **never altered**.  
+✅ Your donation goes **directly** to development, privacy research, and open-source innovation.
+
+🔗 **👉 [Donate Securely Now](https://techforall1373.github.io/CryptoDonation-Hub/) 👈**
+
+---
+
+## 🛠️ Why Your Support Matters
+
+- 💡 **Fuel Innovation**: Help us build stealth tools that protect digital freedom.
+- 🌱 **Grow the Ecosystem**: Your contribution empowers open-source projects used by thousands.
+- 🕊️ **Stay Private & Decentralized**: Crypto donations ensure no middlemen, no censorship, no tracking.
+- 🤝 **Join a Global Movement**: You’re not just donating — you’re becoming part of a community reshaping the web.
+
+> “**Code is law. Privacy is power. And you? You’re the catalyst.**”
+
+---
+
+✨ **Even 0.001 BTC or a few cents in DOGE can ignite real change.**  
+Don’t wait — be the spark that keeps freedom alive in the digital age.
+
+🪙 **[Visit Our Official Donation Hub →](https://techforall1373.github.io/CryptoDonation-Hub/)**
+
+---
+
+*Thank you for believing in a freer, fairer, and more private internet.*  
+*Together, we code the future — one block at a time.*
+
 ## 🧠 Features
 
 - 🔒 **Stealth Mode**: Real URLs hidden from DOM
@@ -267,3 +303,4 @@ See [`LICENSE`](./LICENSE)
 <a href="http://www.coffeete.ir/Cafepersians">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
+
