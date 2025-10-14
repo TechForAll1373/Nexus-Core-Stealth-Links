@@ -275,7 +275,7 @@ We maintain **verified, immutable wallet addresses** across **15+ blockchains** 
 ✨ **Even 0.001 BTC or a few cents in DOGE can ignite real change.**  
 Don’t wait — be the spark that keeps freedom alive in the digital age.
 
-🪙 **[Visit Our Official Donation Hub →](https://techforall1373.github.io/CryptoDonation-Hub/)**
+👉 **[Visit Our Official Donation Hub →](https://techforall1373.github.io/CryptoDonation-Hub/)**
 
 ---
 
