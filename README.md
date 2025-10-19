@@ -1,5 +1,36 @@
 # 🌌 Nexus Core – Stealth Links
 
+<p align="center">
+  <a href="http://app.cafenetman.com/s/33bKz/nw" target="_blank" rel="noopener">
+    <img 
+      src="https://s.cafebazaar.ir/aparat/avt/50644187-2940-l__9300.jpg?width=900&quality=90&secret=z15m3fyXfkDWYkpm1DYdzg" 
+      alt="CafeNetMan – Your Smart Internet & WiFi Manager" 
+      width="600"
+    >
+  </a>
+</p>
+
+<h3 align="center">☕ Unlock Faster, Smarter, and Cheaper Internet with CafeNetMan!</h3>
+
+<p align="center">
+  <a href="http://app.cafenetman.com/s/33bKz/nw" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Get_Started_Free_Today-FF6F00?style=for-the-badge&logo=android&logoColor=white" alt="Install CafeNetMan">
+  </a>
+</p>
+
+> 💡 **What is CafeNetMan?**  
+> CafeNetMan is Iran’s smartest app for managing **WiFi, internet packages, and cafe/co-working hotspot access**—all in one place!  
+> ✅ Instant login to thousands of hotspots  
+> ✅ Buy affordable data & internet bundles  
+> ✅ Monitor usage in real-time  
+> ✅ Seamless payment via local gateways  
+> ✅ Perfect for students, freelancers, and digital nomads!
+
+🚀 **No more hunting for passwords or overpaying for data.**  
+👉 [Join thousands of smart users—tap to install now!](http://app.cafenetman.com/s/33bKz/nw)
+
+*Your internet, simplified.*
+
 > **The definitive link portal of the CafePersians ecosystem**  
 > All URLs hidden. All names human-readable. One file. Zero dependencies.
 
