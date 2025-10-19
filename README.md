@@ -490,16 +490,16 @@ Click the badge above to post your ad now!
 *Your campaigns deserve clarity. Your data deserves power. Start with Tagsino.*
 
 <p align="center">
-  <a href="https://divar.ir/" target="_blank" rel="noopener" style="margin-right: 30px; display: inline-block;">
+  <a href="https://divar.ir/" target="_blank" rel="noopener" style="margin-right: 30px; display: inline-block; text-decoration: none;">
     <img 
-      src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0E2MjYyNiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOC4zODYgMTQuNjE3SDguMjhhLjcxMi43MTIgMCAwIDEtLjU5NS0uODA2Yy40NzMtMy4xMTcuNjMtOC4wOTIuNjMtOC4xMjcuMDM1LS4zODYuMzMzLS43LjczNi0uNjgzYS43MTUuNzE1IDAgMCAxIC42ODMuNzE4YzAgLjIxLS4xNzUgNS4wOTctLjY0OCA4LjMwM2EuNy43IDAgMCAxLS43LjU5NVptMTAuMDM3IDEuMjk2YS42OTMuNjkzIDAgMCAxLS42NjYtLjQ5LjY4OC42ODggMCAwIDEgLjQ1NS0uODc2YzMuMzEtMS4wNSAzLjM2My0xLjg1NyAzLjM4MS0yLjI5NS4wMzUtLjY4My0uNDktMS41NTgtLjctMS44NTZhLjcwMS43MDEgMCAxIDEgMS4xMzgtLjgyNGMuMTA1LjE0IDEuMDUgMS40NTQuOTYzIDIuNzY4LS4wODcgMS41OTQtMS4zMTQgMi41NzUtNC4zNjEgMy41NTZhLjg0NS44NDUgMCAwIDAtLjEwNS4wMDljLS4wMzUuMDA0LS4wNy4wMDktLjEwNS4wMDlabS05LjUxMiAyLjQ3YS42NTYuNjU2IDAgMCAxLS41NDMtLjI2Mi42ODMuNjgzIDAgMCAxIC4xMjMtLjk4MWMxLjQzNi0xLjEzOSAyLjQtMi4xNTUgMy4wMy0zLjA0OC0uMzUtLjE3NS0uNzE4LS40MzgtLjkxLS44NzYtLjE3Ni0uNDAzLS4yODEtMS4wNjkuMzMyLTEuOTYyLjg3Ni0xLjI5NiAxLjc1Mi0xLjU5NCAyLjA4NC0xLjY2NGEuODcxLjg3MSAwIDAgMSAxLjAxNi42MTNjLjA4OC4zMTUuMjk4IDEuMzE0LS4zMzIgMi44MzguODQtLjAxOCAxLjUwNi0uMjQ1IDIuMDE0LS42NjYuOTgtLjc4OCAxLjAzMy0yLjEyIDEuMDMzLTIuMTM3YS43MTUuNzE1IDAgMCAxIC43MTktLjY4My43MTUuNzE1IDAgMCAxIC42ODMuNzE4YzAgLjA3LS4wNyAxLjk0NC0xLjUyNCAzLjE3LS45MTEuNzcxLTIuMTU1IDEuMTA0LTMuNjYxLjk4Mi0uNzE4IDEuMTAzLTEuODU3IDIuNC0zLjYyNiAzLjhhLjcwOC43MDggMCAwIDEtLjQzOC4xNThabTMuODAxLTcuMDc2YTMuMTM0IDMuMTM0IDAgMCAwLS42My43MzVjLS4yMjguMzUtLjI0Ni41NDMtLjIyOC41OTYuMDM1LjA4OC4yMS4xNzUuMzg1LjI0NS4zMzMtLjY2NS40MzgtMS4xOTEuNDczLTEuNTc2Wm0uMTc1IDQuOTIyYS43MS43MSAwIDAgMCAuNy42ODNoLjAzNmMuMDUzIDAgMS4yMjYtLjAzNSAyLjkwOC0uNDJhLjcwMi43MDIgMCAwIDAgLjU0My0uODQxLjcwMi43MDIgMCAwIDAtLjg0MS0uNTQzYy0xLjU2LjMzMi0yLjY2My4zODUtMi42OC4zODVhLjcwNC43MDQgMCAwIDAtLjY2Ni43MzZaTTEuMTM0IDE4LjEwM2MuMTIyLjE3NS4zNS4yOC41Ni4yOC4xNCAwIC4yOC0uMDM1LjQyLS4xMjIgNC40NS0zLjI0IDQuNjI1LTcuNDggNC42MjUtNy42NTUgMC0uMzg1LS4yOTgtLjctLjY4My0uNzE4LS4zODYtLjAxOC0uNy4yOTgtLjcxOC42ODMgMCAuMTQtLjE3NiAzLjczMS00LjA0NyA2LjU1MWEuNzAxLjcwMSAwIDAgMC0uMTU3Ljk4MVoiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Divar_logo.svg/256px-Divar_logo.svg.png" 
       alt="Divar – Iran's #1 Peer-to-Peer Marketplace" 
       width="180"
     >
   </a>
-  <a href="https://www.sheypoor.com/users/3XVxMN" target="_blank" rel="noopener" style="display: inline-block;">
+  <a href="https://www.sheypoor.com/" target="_blank" rel="noopener" style="display: inline-block;">
     <img 
-      src="https://www.sheypoor.com/_next/static/media/logo.6b1399a2.svg?w=128&q=undefined" 
+      src="https://www.sheypoor.com/_next/static/media/logo.6b1399a2.svg" 
       alt="Sheypoor – Buy & Sell Anything in Iran" 
       width="180"
     >
@@ -513,8 +513,8 @@ Click the badge above to post your ad now!
     <img src="https://img.shields.io/badge/✨_Browse_Divar_Free-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Divar">
   </a>
   &nbsp;
-  <a href="https://www.sheypoor.com/users/3XVxMN" target="_blank">
-    <img src="https://img.shields.io/badge/🛍️_View_My_Sheypoor_Listings-FF6F00?style=for-the-badge&logo=shopify&logoColor=white" alt="Visit My Sheypoor Profile">
+  <a href="https://www.sheypoor.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🛍️_Browse_Sheypoor_Free-FF6F00?style=for-the-badge&logo=shopify&logoColor=white" alt="Visit Sheypoor">
   </a>
 </p>
 
@@ -527,9 +527,10 @@ Click the badge above to post your ad now!
 > ✅ **Localized by city** – find deals near you instantly  
 
 ✨ **Whether you're clearing out your closet or launching a side hustle—your next deal is one click away.**  
-👉 [Explore Divar](https://divar.ir/) • [See My Sheypoor Ads](https://www.sheypoor.com/users/3XVxMN)
+👉 [Explore Divar](https://divar.ir/) • [Browse Sheypoor](https://www.sheypoor.com/)
 
 *Turn unused items into cash. Turn needs into finds. All without leaving your phone.*
+
 
 <p align="center">
   <a href="https://www.pindo.ir/" target="_blank" rel="noopener">
