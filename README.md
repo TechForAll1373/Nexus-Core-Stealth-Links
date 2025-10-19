@@ -292,6 +292,27 @@ Click the badge above to post your ad now!
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.azki.com/" target="_blank" rel="noopener">
+    <img src="https://www.azki.com/blog/wp-content/uploads/2021/08/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%A8%DB%8C%D9%85%D9%87-780x470.jpg" alt="Azki – Smart Insurance, Simplified" width="780">
+  </a>
+</p>
+
+<h3 align="center">✨ Your Gateway to Smarter, Faster, and Free-of-Worry Insurance in Iran</h3>
+
+<p align="center">
+  <a href="https://www.azki.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Compare_&_Buy_Online-24%2F7-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Azki">
+  </a>
+</p>
+
+> 💡 **Why Azki?**  
+> Compare 20+ insurance types—from car & home to travel & health—in seconds.  
+> Buy online, pay in installments (up to 10 months, **zero interest**), and get your policy delivered—**fast, secure, and officially licensed** by Iran’s Central Insurance.  
+> Plus: automatic renewal reminders, 24/7 support, and nationwide coverage across 400+ cities!
+
+🚀 **Trusted by thousands. Built for peace of mind.**  
+👉 [Start your smart insurance journey now →](https://www.azki.com/)
 
 *Thank you for believing in a freer, fairer, and more private internet.*  
 *Together, we code the future — one block at a time.*
