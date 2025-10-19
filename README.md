@@ -358,7 +358,16 @@ The Arena supports **email-based onboarding** for frictionless Web3 adoption.
 
 ---
 
+<p align="center">
+  <img 
+    src="https://cdn.nody.ir/files/2021/06/13/nody-%D8%B9%DA%A9%D8%B3-%D8%BA%D8%B1%D9%88%D8%A8-%D8%B2%DB%8C%D8%A8%D8%A7-1623540142.jpg" 
+    alt="Nody – High-Quality Visual of Iranian Digital Innovation, Technology, and Secure Ecosystem" 
+    width="800"
+  >
+</p>
+
 ## 🔗 Complete Link Directory
+
 
 ### 📦 Core Projects
 - [CafePersians Library](https://techforall1373.github.io/cafepersians.io.lib/)
@@ -419,6 +428,14 @@ The Arena supports **email-based onboarding** for frictionless Web3 adoption.
 ### 🌐 External Profiles
 - [Coffeete.ir](https://www.coffeete.ir/Cafepersians)
 - [Hamibash](https://hamibash.com/cafepersians)
+
+<p align="center">
+  <img 
+    src="https://cdn.nody.ir/files/2021/06/13/nody-%D8%B9%DA%A9%D8%B3-%D8%BA%D8%B1%D9%88%D8%A8-%D8%B2%DB%8C%D8%A8%D8%A7-1623540142.jpg" 
+    alt="Nody – High-Quality Visual of Iranian Digital Innovation, Technology, and Secure Ecosystem" 
+    width="800"
+  >
+</p>
 
 ---
 
