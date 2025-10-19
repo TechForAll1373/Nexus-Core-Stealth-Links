@@ -1,6 +1,37 @@
 # 🌌 Nexus Core – Stealth Links
 
 <p align="center">
+  <a href="https://donito.me/cafepersians" target="_blank" rel="noopener">
+    <img 
+      src="https://donito.me/_ipx/f_webp/img/donito-logo-text-w.svg" 
+      alt="Donito – Support Creators & Communities with One Click" 
+      width="320"
+    >
+  </a>
+</p>
+
+<h3 align="center">☕️ Fuel Persian Creators. Tip with a Single Tap.</h3>
+
+<p align="center">
+  <a href="https://donito.me/cafepersians" target="_blank">
+    <img src="https://img.shields.io/badge/💖_Buy_Me_a_Coffee_on_Donito-FF5F5F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Support on Donito">
+  </a>
+</p>
+
+> 💡 **What is Donito?**  
+> Donito is Iran’s easiest way to **support your favorite creators, developers, and communities**—like a digital “coffee” to say *thank you*.  
+> ✅ Instant, secure donations  
+> ✅ No signup needed for supporters  
+> ✅ Fully localized for Iranian users (Shaparak, IDPay, etc.)  
+> ✅ 100% free for creators to receive tips  
+> ✅ Perfect for open-source devs, bloggers, artists, and educators!
+
+✨ **Your support keeps Persian digital culture alive.**  
+👉 [Send a coffee (or two!) to this project →](https://donito.me/cafepersians)
+
+*Every tap = encouragement. Every donation = impact.*
+
+<p align="center">
   <a href="http://app.cafenetman.com/s/33bKz/nw" target="_blank" rel="noopener">
     <img 
       src="https://s.cafebazaar.ir/aparat/avt/50644187-2940-l__9300.jpg?width=900&quality=90&secret=z15m3fyXfkDWYkpm1DYdzg" 
