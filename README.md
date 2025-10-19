@@ -556,20 +556,8 @@ Click the badge above to post your ad now!
   🌟 Insurance of Tomorrow: Clean, Smart, Complete
 </h2>
 
-<style>
-@keyframes g {
-  0% { color: #ff00cc; }
-  25% { color: #00ffcc; }
-  50% { color: #cc00ff; }
-  75% { color: #00ff66; }
-  100% { color: #ff00cc; }
-}
-</style>
-
 > In an age of cyber threats, climate volatility, and digital lifestyles, **insurance is no longer just a contract—it’s a living shield**.  
 > The future belongs to **smart, transparent, and human-centered insurance**—and it’s already here.
-
----
 
 ## 🔮 Why Modern Insurance Matters
 
