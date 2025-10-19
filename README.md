@@ -1,6 +1,75 @@
 # 🌌 Nexus Core – Stealth Links
 
 <p align="center">
+  <a href="https://techforall1373.github.io/PersiaNexus/" target="_blank" rel="noopener">
+    <img 
+      src="https://cdn.nody.ir/files/2021/06/13/nody-%D8%B9%DA%A9%D8%B3-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA-%D8%BA%D9%85%DA%AF%DB%8C%D9%86-1623540138.jpg" 
+      alt="Persia Nexus – Secure, Private, Sovereign Digital Tools for Iranians" 
+      width="720"
+    >
+  </a>
+</p>
+
+<h3 align="center">🔐 Your Privacy. Your Power. Built for Iranians, by Iranians.</h3>
+
+> In a world of surveillance and data leaks, **true digital freedom starts with trust**.  
+> We’ve built a suite of **zero-tracking, open, and encrypted tools**—so you can communicate, create, and protect what matters, **without compromise**.
+
+---
+
+### 🌟 Explore the Secure Ecosystem
+
+<p align="center">
+  <a href="https://techforall1373.github.io/PersiaNexus/" target="_blank">
+    <img src="https://img.shields.io/badge/🌌_Enter_PersiaNexus-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white" alt="PersiaNexus">
+  </a>
+  &nbsp;
+  <a href="https://techforall1373.github.io/lumina-crypto-portal/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Open_Lumina_Crypto_Portal-00C853?style=for-the-badge&logo=lock&logoColor=white" alt="Lumina Crypto Portal">
+  </a>
+  &nbsp;
+  <a href="https://techforall1373.github.io/cafe-persians-password-gen/" target="_blank">
+    <img src="https://img.shields.io/badge/🔑_Generate_Secure_Password-FF6D00?style=for-the-badge&logo=shield&logoColor=white" alt="Password Generator">
+  </a>
+</p>
+
+#### 🔹 [**PersiaNexus**](https://techforall1373.github.io/PersiaNexus/)  
+Your gateway to **encrypted communication and data sharing**. Send messages that vanish like stardust—only the intended recipient can decode them.
+
+#### 🔹 [**Lumina Crypto Portal**](https://techforall1373.github.io/lumina-crypto-portal/)  
+A **client-side encryption vault**—your text stays yours. Encrypt, share, and decrypt with magic-like simplicity. **No server. No logs. No backdoors.**
+
+#### 🔹 [**Café Persians Password Generator**](https://techforall1373.github.io/cafe-persians-password-gen/)  
+Create **unbreakable passwords** in one click. Perfect for securing your Azki, Shoraka, Divar, or banking accounts—**100% offline, 100% safe**.
+
+---
+
+### 💡 Why Trust These Tools?
+- ✅ **Zero data collection** – nothing leaves your browser  
+- ✅ **Open-source logic** – transparent and auditable  
+- ✅ **Built with love** for the Persian digital community  
+- ✅ **No sign-up, no email, no tracking**  
+- ✅ Works **even in offline mode**
+
+> 🔒 **Your data is sacred. We don’t touch it. We don’t see it. It never leaves your device.**
+
+---
+
+### 🇮🇷 Join the Movement for Digital Sovereignty
+
+Every click, every share, every use of these tools is a step toward:
+- A **safer Iranian internet**  
+- **Independent tech** free from foreign control  
+- A **culture of privacy-first innovation**
+
+👉 **Try one. Share it. Protect your digital life.**  
+[Enter PersiaNexus](https://techforall1373.github.io/PersiaNexus/) •  
+[Encrypt with Lumina](https://techforall1373.github.io/lumina-crypto-portal/) •  
+[Generate a Password](https://techforall1373.github.io/cafe-persians-password-gen/)
+
+*Made in Iran. For the world. With ❤️ and cryptography.*
+
+<p align="center">
   <a href="https://donito.me/cafepersians" target="_blank" rel="noopener">
     <img 
       src="https://donito.me/_ipx/f_webp/img/donito-logo-text-w.svg" 
