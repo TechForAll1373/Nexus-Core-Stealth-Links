@@ -933,6 +933,15 @@ Despite challenges, Iran stands at a **golden inflection point**:
 
 *Together, we build the future—on our own terms.*
 
+### 📞 Contact
+
+[![Call +98 911 568 2541](https://img.shields.io/badge/📱%20+98%20911%20568%202541-2ecc71?style=for-the-badge&logo=phone&logoColor=white&labelColor=27ae60)](tel:+989115682541)  
+[![Call +98 903 786 0640](https://img.shields.io/badge/📱%20+98%20903%20786%200640-3498db?style=for-the-badge&logo=phone&logoColor=white&labelColor=2980b9)](tel:+989037860640)
+
+> ⚠️ **Preferred Communication**  
+> I kindly ask that you **contact me via SMS, WhatsApp, or social media** rather than phone calls.  
+> If you must call, please **text first** to confirm availability.  
+> Thank you for your understanding! 🙏
 
 ## 🧠 Features
 
