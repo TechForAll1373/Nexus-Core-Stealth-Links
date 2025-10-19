@@ -937,7 +937,7 @@ Despite challenges, Iran stands at a **golden inflection point**:
 ### 🔥 Our Services
 
 #### 🛡️ **Insurance Solutions**  
-Comprehensive coverage through **Azki Insurance** and **charisma Insurance  Insurance Bazaar** — peace of mind guaranteed.
+Comprehensive coverage through **Azki Insurance** and **charisma Insurance & Insurance Bazaar** — peace of mind guaranteed.
 
 #### 🏠 **Real Estate**  
 End-to-end support for **buying, selling, or renting properties**, in partnership with top real estate agencies.
