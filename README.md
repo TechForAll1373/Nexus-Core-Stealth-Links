@@ -317,6 +317,41 @@ Click the badge above to post your ad now!
 *Thank you for believing in a freer, fairer, and more private internet.*  
 *Together, we code the future — one block at a time.*
 
+<p align="center">
+  <a href="https://shoraka.net/register?referral_code=09115682541" target="_blank" rel="noopener">
+    <img 
+      src="https://media.licdn.com/dms/image/v2/D4D22AQHqJFlG3Hq67w/feedshare-shrink_800/feedshare-shrink_800/0/1721548551895?e=2147483647&v=beta&t=Oq_b-KMhwacp7xeVAHY1_upUgnHKqFZv5HpEC85kPeQ" 
+      alt="Join Shoraka – The Future of Collaborative Innovation" 
+      width="720"
+    >
+  </a>
+</p>
+
+<h3 align="center">🌟 Unlock Your Potential with Shoraka – Where Ideas Meet Impact!</h3>
+
+<p align="center">
+  <a href="https://shoraka.net/register?referral_code=09115682541" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Join_Shoraka_Free_Today-00C853?style=for-the-badge&logo=idea&logoColor=white" alt="Sign up on Shoraka">
+  </a>
+</p>
+
+> 💡 **Why Shoraka?**  
+> Shoraka is Iran’s leading platform for **collaborative innovation**, connecting thinkers, creators, and problem-solvers across industries. Whether you're an entrepreneur, student, researcher, or professional—  
+> ✅ Pitch your ideas  
+> ✅ Join real-world challenges  
+> ✅ Win rewards & recognition  
+> ✅ Build your innovation portfolio  
+> ✅ Network with top talents & organizations  
+>
+> And the best part? **It’s completely free to join!**
+
+🚀 **Your next big opportunity starts with one click.**  
+👉 [Register now with my referral code →](https://shoraka.net/register?referral_code=09115682541)
+
+*Be part of a movement that turns vision into value.*
+
+
+
 ## 🧠 Features
 
 - 🔒 **Stealth Mode**: Real URLs hidden from DOM
