@@ -923,6 +923,59 @@ Despite challenges, Iran stands at a **golden inflection point**:
 
 ![Nody - Professional Profile Image](https://cdn.nody.ir/files/2024/07/23/nody-%D8%B9%DA%A9%D8%B3-%D9%86%D9%88%D8%B4%D8%AA%D9%87-%D8%BA%D9%85-%D8%AA%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D9%85%D8%AA%D9%86-%D8%A8%D8%BA%D8%B6-%DA%AF%D8%B1%DB%8C%D9%87-%D8%AF%D8%A7%D8%B1-%D9%86%D8%A7%D8%B1%D8%A7%D8%AD%D8%AA-%DA%A9%D9%86%D9%86%D8%AF%D9%87-1721742097.webp)
 
+### ✨ Premium, Transparent & Engaging Services — Available 24/7! ✨
+
+---
+
+### ⏰ Availability
+
+- **🏢 In-Person**: 8:00 AM – 5:00 PM  
+- **🌐 Online**: 5:00 PM – Late Night (via social media & messaging apps)
+
+---
+
+### 🔥 Our Services
+
+#### 🛡️ **Insurance Solutions**  
+Comprehensive coverage through **Azki Insurance** and **charisma Insurance  Insurance Bazaar** — peace of mind guaranteed.
+
+#### 🏠 **Real Estate**  
+End-to-end support for **buying, selling, or renting properties**, in partnership with top real estate agencies.
+
+#### 📸 **Social Media Advertising**  
+Strategic, high-impact campaigns on **Instagram** and all major social platforms.
+
+#### 💼 **Sales Administration**  
+Professional ad management on **Divar, Sheypoor, Pindo**, and **Instagram** — optimized for visibility and conversion.
+
+#### 🚗 **Automotive Services**  
+Full support for **car buying, selling, and exchange**, in collaboration with leading dealerships.  
+Includes **insurance**, **traffic fine resolution**, and **ownership transfer assistance**.
+
+#### 📲 **Instant File Delivery**  
+Send sales materials instantly via **WhatsApp**, **Signal**, and social networks — fast, secure, and reliable.
+
+#### ✍️ **Professional Blogging**  
+Engaging, SEO-friendly content crafted to build authority and drive traffic.
+
+#### 🪐 **Targeted Ad Groups**  
+Access to exclusive **Telegram**, **WhatsApp**, and **Instagram advertising groups** with diverse, high-engagement audiences.
+
+#### ☄️ **Themed Telegram Promotional Channels**  
+Specialized Telegram groups organized by **topic, interest, and niche** — ideal for precise audience targeting.
+
+---
+
+### 💎 Always Within Reach — In Person or Online! 💎
+
+> We blend **human expertise** with **digital agility** to deliver results that matter.  
+> Your success is our signature.
+
+---
+
+### 📌 Ready to Collaborate?
+Reach out via **social media or messaging apps** — we respond faster than you’d expect! 🚀
+
 ## 🧠 Features
 
 - 🔒 **Stealth Mode**: Real URLs hidden from DOM
