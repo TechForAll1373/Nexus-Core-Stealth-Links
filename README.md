@@ -492,7 +492,26 @@ Click the badge above to post your ad now!
 <p align="center">
   <a href="https://divar.ir/" target="_blank" rel="noopener" style="margin-right: 30px; display: inline-block; text-decoration: none;">
     <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Divar_logo.svg/256px-Divar_logo.svg.png" 
+      src="https://upload.wikimedia.org/wikipedia/fa/thumb/a/a7/DivarLogo.png/250px-DivarLogo.png" 
+      alt="Divar – Iran's #1 Peer-to-Peer Marketplace" 
+      width="180"
+    >
+  </a>
+  <a href="https://www.sheypoor.com/" target="_blank" rel="noopener" style="display: inline-block;">
+    <img 
+      src="https://www.sheypoor.com/_next/static/media/logo.6b1399a2.svg" 
+      alt="Sheypoor – Buy & Sell Anything in Iran" 
+      width="180"
+    >
+  </a>
+</p>
+
+<h3 align="center">🛒 Discover. List. Sell. All in One Place — Free & Instant!</h3>
+
+<p align="center">
+  <a href="https://divar.ir/" target="_blank" rel="noopener" style="margin-right: 30px; display: inline-block; text-decoration: none;">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/fa/thumb/a/a7/DivarLogo.png/250px-DivarLogo.png" 
       alt="Divar – Iran's #1 Peer-to-Peer Marketplace" 
       width="180"
     >
@@ -530,7 +549,6 @@ Click the badge above to post your ad now!
 👉 [Explore Divar](https://divar.ir/) • [Browse Sheypoor](https://www.sheypoor.com/)
 
 *Turn unused items into cash. Turn needs into finds. All without leaving your phone.*
-
 
 <p align="center">
   <a href="https://www.pindo.ir/" target="_blank" rel="noopener">
