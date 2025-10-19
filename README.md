@@ -360,8 +360,8 @@ The Arena supports **email-based onboarding** for frictionless Web3 adoption.
 
 <p align="center">
   <img 
-    src="https://cdn.nody.ir/files/2021/06/13/nody-%D8%B9%DA%A9%D8%B3-%D8%BA%D8%B1%D9%88%D8%A8-%D8%B2%DB%8C%D8%A8%D8%A7-1623540142.jpg" 
-    alt="Nody – High-Quality Visual of Iranian Digital Innovation, Technology, and Secure Ecosystem" 
+    src="https://cdn.nody.ir/files/2021/06/13/nody-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA-%D8%BA%D9%85-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2-1623540141.jpg" 
+    alt="Nody – High-Quality Visual of Iranian Digital Innovation and Technology Ecosystem" 
     width="800"
   >
 </p>
