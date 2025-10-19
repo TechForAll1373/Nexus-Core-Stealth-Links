@@ -457,6 +457,243 @@ Click the badge above to post your ad now!
 
 *Be part of a movement that turns vision into value.*
 
+<p align="center">
+  <a href="https://panel.tagsino.com/auth/login?referral=AAJDA" target="_blank" rel="noopener">
+    <img 
+      src="https://tagsino.com/wp-content/uploads/2025/01/tagsino-logo.svg" 
+      alt="Tagsino – The Smartest Way to Manage & Monetize Your Digital Tags" 
+      width="300"
+    >
+  </a>
+</p>
+
+<h3 align="center">✨ Unlock the Magic of Smart Tag Management — Free, Fast & Future-Ready!</h3>
+
+<p align="center">
+  <a href="https://panel.tagsino.com/auth/login?referral=AAJDA" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Start_Free_Today-6C3483?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMSwwIDIyLDEyQTEwLDEwIDAgMCwwIDEyLDJNMTIsMjBBOCw4IDAgMSwxIDIwLDEyQTgsOCAwIDAsMSAxMiwyME0xMiwxOEExLjUsMS41IDAgMSwwIDEzLjUsMTcuNSAxLjUsMS41IDAgMCwwIDEyLDE4WiIvPjwvc3ZnPg==&logoColor=white" alt="Join Tagsino">
+  </a>
+</p>
+
+> 💡 **What is Tagsino?**  
+> Tagsino is Iran’s first intelligent **digital tag management platform**—designed for marketers, developers, and growth teams who want to **track, organize, and monetize** every click, campaign, and user interaction—**without chaos**.  
+> ✅ Create & manage UTM tags in seconds  
+> ✅ Auto-generate clean, branded short links  
+> ✅ Track performance with real-time analytics  
+> ✅ Collaborate with your team in one dashboard  
+> ✅ Monetize traffic with built-in affiliate tools  
+> ✅ 100% free to start — no credit card needed!
+
+🔮 **Turn messy links into marketing magic.**  
+👉 [Claim your free account with referral perks →](https://panel.tagsino.com/auth/login?referral=AAJDA)
+
+*Your campaigns deserve clarity. Your data deserves power. Start with Tagsino.*
+
+<p align="center">
+  <a href="https://divar.ir/" target="_blank" rel="noopener" style="margin-right: 30px; display: inline-block;">
+    <img 
+      src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0E2MjYyNiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOC4zODYgMTQuNjE3SDguMjhhLjcxMi43MTIgMCAwIDEtLjU5NS0uODA2Yy40NzMtMy4xMTcuNjMtOC4wOTIuNjMtOC4xMjcuMDM1LS4zODYuMzMzLS43LjczNi0uNjgzYS43MTUuNzE1IDAgMCAxIC42ODMuNzE4YzAgLjIxLS4xNzUgNS4wOTctLjY0OCA4LjMwM2EuNy43IDAgMCAxLS43LjU5NVptMTAuMDM3IDEuMjk2YS42OTMuNjkzIDAgMCAxLS42NjYtLjQ5LjY4OC42ODggMCAwIDEgLjQ1NS0uODc2YzMuMzEtMS4wNSAzLjM2My0xLjg1NyAzLjM4MS0yLjI5NS4wMzUtLjY4My0uNDktMS41NTgtLjctMS44NTZhLjcwMS43MDEgMCAxIDEgMS4xMzgtLjgyNGMuMTA1LjE0IDEuMDUgMS40NTQuOTYzIDIuNzY4LS4wODcgMS41OTQtMS4zMTQgMi41NzUtNC4zNjEgMy41NTZhLjg0NS44NDUgMCAwIDAtLjEwNS4wMDljLS4wMzUuMDA0LS4wNy4wMDktLjEwNS4wMDlabS05LjUxMiAyLjQ3YS42NTYuNjU2IDAgMCAxLS41NDMtLjI2Mi42ODMuNjgzIDAgMCAxIC4xMjMtLjk4MWMxLjQzNi0xLjEzOSAyLjQtMi4xNTUgMy4wMy0zLjA0OC0uMzUtLjE3NS0uNzE4LS40MzgtLjkxLS44NzYtLjE3Ni0uNDAzLS4yODEtMS4wNjkuMzMyLTEuOTYyLjg3Ni0xLjI5NiAxLjc1Mi0xLjU5NCAyLjA4NC0xLjY2NGEuODcxLjg3MSAwIDAgMSAxLjAxNi42MTNjLjA4OC4zMTUuMjk4IDEuMzE0LS4zMzIgMi44MzguODQtLjAxOCAxLjUwNi0uMjQ1IDIuMDE0LS42NjYuOTgtLjc4OCAxLjAzMy0yLjEyIDEuMDMzLTIuMTM3YS43MTUuNzE1IDAgMCAxIC43MTktLjY4My43MTUuNzE1IDAgMCAxIC42ODMuNzE4YzAgLjA3LS4wNyAxLjk0NC0xLjUyNCAzLjE3LS45MTEuNzcxLTIuMTU1IDEuMTA0LTMuNjYxLjk4Mi0uNzE4IDEuMTAzLTEuODU3IDIuNC0zLjYyNiAzLjhhLjcwOC43MDggMCAwIDEtLjQzOC4xNThabTMuODAxLTcuMDc2YTMuMTM0IDMuMTM0IDAgMCAwLS42My43MzVjLS4yMjguMzUtLjI0Ni41NDMtLjIyOC41OTYuMDM1LjA4OC4yMS4xNzUuMzg1LjI0NS4zMzMtLjY2NS40MzgtMS4xOTEuNDczLTEuNTc2Wm0uMTc1IDQuOTIyYS43MS43MSAwIDAgMCAuNy42ODNoLjAzNmMuMDUzIDAgMS4yMjYtLjAzNSAyLjkwOC0uNDJhLjcwMi43MDIgMCAwIDAgLjU0My0uODQxLjcwMi43MDIgMCAwIDAtLjg0MS0uNTQzYy0xLjU2LjMzMi0yLjY2My4zODUtMi42OC4zODVhLjcwNC43MDQgMCAwIDAtLjY2Ni43MzZaTTEuMTM0IDE4LjEwM2MuMTIyLjE3NS4zNS4yOC41Ni4yOC4xNCAwIC4yOC0uMDM1LjQyLS4xMjIgNC40NS0zLjI0IDQuNjI1LTcuNDggNC42MjUtNy42NTUgMC0uMzg1LS4yOTgtLjctLjY4My0uNzE4LS4zODYtLjAxOC0uNy4yOTgtLjcxOC42ODMgMCAuMTQtLjE3NiAzLjczMS00LjA0NyA2LjU1MWEuNzAxLjcwMSAwIDAgMC0uMTU3Ljk4MVoiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" 
+      alt="Divar – Iran's #1 Peer-to-Peer Marketplace" 
+      width="180"
+    >
+  </a>
+  <a href="https://www.sheypoor.com/users/3XVxMN" target="_blank" rel="noopener" style="display: inline-block;">
+    <img 
+      src="https://www.sheypoor.com/_next/static/media/logo.6b1399a2.svg?w=128&q=undefined" 
+      alt="Sheypoor – Buy & Sell Anything in Iran" 
+      width="180"
+    >
+  </a>
+</p>
+
+<h3 align="center">🛒 Discover. List. Sell. All in One Place — Free & Instant!</h3>
+
+<p align="center">
+  <a href="https://divar.ir/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Browse_Divar_Free-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Divar">
+  </a>
+  &nbsp;
+  <a href="https://www.sheypoor.com/users/3XVxMN" target="_blank">
+    <img src="https://img.shields.io/badge/🛍️_View_My_Sheypoor_Listings-FF6F00?style=for-the-badge&logo=shopify&logoColor=white" alt="Visit My Sheypoor Profile">
+  </a>
+</p>
+
+> 💡 **Why Divar & Sheypoor?**  
+> These are **Iran’s most trusted classified platforms**—used by millions to buy, sell, rent, and trade everything from cars and phones to jobs and real estate.  
+> ✅ **100% free to list**  
+> ✅ **No middlemen** – direct buyer-seller contact  
+> ✅ **Verified users & anti-scam systems**  
+> ✅ **Mobile-first design** – post in 30 seconds  
+> ✅ **Localized by city** – find deals near you instantly  
+
+✨ **Whether you're clearing out your closet or launching a side hustle—your next deal is one click away.**  
+👉 [Explore Divar](https://divar.ir/) • [See My Sheypoor Ads](https://www.sheypoor.com/users/3XVxMN)
+
+*Turn unused items into cash. Turn needs into finds. All without leaving your phone.*
+
+<p align="center">
+  <a href="https://www.pindo.ir/" target="_blank" rel="noopener">
+    <img 
+      src="https://www.pindo.ir/_next/static/media/generalLogo.86a8e815.svg" 
+      alt="Pindo – Iran’s Smartest Short Link & Link-in-Bio Platform" 
+      width="280"
+    >
+  </a>
+</p>
+
+<h3 align="center">✨ Turn Your Links into Magic — Clean, Trackable, and Beautiful!</h3>
+
+<p align="center">
+  <a href="https://www.pindo.ir/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Create_Your_Free_Link_Today-FF416C?style=for-the-badge&logo=link&logoColor=white" alt="Get Started with Pindo">
+  </a>
+</p>
+
+> 💡 **What is Pindo?**  
+> Pindo is **Iran’s leading smart link platform** that transforms messy URLs into **clean, branded short links**—perfect for social bios, campaigns, and digital sharing.  
+> ✅ **Free custom short links** (e.g., `pindo.ir/yourname`)  
+> ✅ **Link-in-bio pages** with bio, socials, and multiple destinations  
+> ✅ **Real-time click analytics** – see who clicks, when, and from where  
+> ✅ **QR code generator** for offline-to-online traffic  
+> ✅ **Password protection & link expiration** for privacy  
+> ✅ Built for **Instagram, Telegram, WhatsApp**, and more!
+
+🚀 **Whether you’re a creator, business, or developer—Pindo helps you share smarter, track better, and look professional.**  
+👉 [Claim your free Pindo profile now →](https://www.pindo.ir/)
+
+*One link. Infinite possibilities.*
+
+<!-- 🌟 Multi-Platform Community Hub – Optimized for GitHub README -->
+<h2 align="center">✨ Join Café Parsian Across Iran’s Digital Universe!</h2>
+<p align="center">
+  <em>One mission. Dozens of platforms. Infinite ways to connect, learn, and support.</em>
+</p>
+
+<br>
+
+<!-- 🔥 HAMIBASH – FINANCIAL SUPPORT SECTION (REPEATED 3X FOR IMPACT) -->
+<p align="center">
+  <a href="https://hamibash.com/cafepersians" target="_blank" rel="noopener">
+    <img 
+      src="https://hamibash.com/assets/img/logo.svg" 
+      alt="Hamibash – Support Persian Creators with One Click" 
+      width="240"
+    >
+  </a>
+</p>
+
+<h3 align="center">💖 Your Support Powers Our Mission</h3>
+
+> We’re building a **free, independent, and thriving Persian digital ecosystem**—from investment guides and insurance advice to tech tutorials and local entrepreneurship.  
+> But **we can’t do it without you**.  
+>  
+> 💸 **Every small donation on Hamibash helps us**:  
+> - Keep servers running 24/7  
+> - Create **free educational content** for Iranians  
+> - Support developers, writers, and creators  
+> - Promote **Iranian-made platforms** over foreign alternatives  
+>  
+> ✅ **100% transparent** • ✅ **No ads** • ✅ **Made by Iranians, for Iranians**
+
+👉 **Support us now—fast, secure, and meaningful**:  
+🔗 [https://hamibash.com/cafepersians](https://hamibash.com/cafepersians)  
+🔗 [https://hamibash.com/cafepersians](https://hamibash.com/cafepersians)  
+🔗 [https://hamibash.com/cafepersians](https://hamibash.com/cafepersians)
+
+*One coffee = One step toward digital sovereignty for Persian speakers.*
+
+<br><br>
+
+<!-- 📱 OTHER PLATFORMS – CLICKABLE BANNERS -->
+<p align="center">
+  <!-- Rubika (Charisman) -->
+  <a href="https://rubika.ir/charisman_1" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://rubika.ir/static/images/logo.svg" alt="Rubika – Charisman Channel: Investment & Ads" width="120">
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/investing_in_northern_iran/" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVK9AOicYgDA9xgRzr74EpZ8rKJyT87ksdQ&s" alt="Instagram – Northern Iran Investment Insights" width="120">
+  </a>
+  
+  <!-- Rubika (Caffeine95) -->
+  <a href="https://rubika.ir/Caffeine95" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://rubika.ir/static/images/logo.svg" alt="Rubika – Café Parsian Community" width="120">
+  </a>
+  
+  <!-- Ba-Ham -->
+  <a href="http://ba-ham.com/PersianCafe/" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://ba-ham.com/imgs/logo.png" alt="Ba-Ham – Collaborative Persian Creator Network" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Soroush Plus -->
+  <a href="https://splus.ir/Cafepersian1" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://soroushplus.com/_next/static/media/LogoType.01c15a3c.svg" alt="Soroush Plus – Premium Persian Messaging" width="120">
+  </a>
+  
+  <!-- Rubika (Farabi) -->
+  <a href="https://rubika.ir/farabi_1" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://rubika.ir/static/images/logo.svg" alt="Rubika – Farabi Channel" width="120">
+  </a>
+  
+  <!-- WhatsApp Channels -->
+  <a href="https://www.whatsapp.com/channel/0029VazXKZPL2ATzkbqfge2G" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg" alt="WhatsApp Channel – Official Updates" width="120">
+  </a>
+  <a href="https://www.whatsapp.com/channel/0029VbBA6O26RGJCCAPcpM3H" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg" alt="WhatsApp Channel – Tech & Investment" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Bale -->
+  <a href="https://ble.ir/CafePersians2%20" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://bale.ai/logo/bale_logo.svg?w=96&q=75" alt="Bale – Secure Iranian Messaging" width="120">
+  </a>
+  
+  <!-- Eitaa -->
+  <a href="https://eitaa.com/WhatsCafe" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://eitaa.com/assets/images/logos/site-logo.png" alt="Eitaa – Iranian Telegram Alternative" width="120">
+  </a>
+  
+  <!-- Virasty -->
+  <a href="https://virasty.com/CafePersians1" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://virasty.com/img/icon-512.png" alt="Virasty – Next-Gen Persian Social" width="120">
+  </a>
+  
+  <!-- iGap -->
+  <a href="https://igap.net/join/svkFCAFirEqNnGkiHDpJiOzIs" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://s.cafebazaar.ir/images/icons/net.iGap-4fd8ca0c-18b1-4984-8537-e212d93babce_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize" alt="iGap – Iran’s Secure Messenger" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Wisgoon x2 -->
+  <a href="https://wisgoon.com/persiancafe" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://s.cafebazaar.ir/images/icons/com.wisgoon.android-56bbda92-ae16-4a43-9b56-316204e6152f_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize" alt="Wisgoon – Café Parsian Community 1" width="120">
+  </a>
+  <a href="https://wisgoon.com/persiancafe2" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://s.cafebazaar.ir/images/icons/com.wisgoon.android-56bbda92-ae16-4a43-9b56-316204e6152f_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize" alt="Wisgoon – Café Parsian Community 2" width="120">
+  </a>
+  
+  <!-- Rubika (Pedaram1348) -->
+  <a href="https://rubika.ir/pedaram1348" target="_blank" rel="noopener" style="margin: 0 8px; display: inline-block;">
+    <img src="https://rubika.ir/static/images/logo.svg" alt="Rubika – Pedaram1348 Support Channel" width="120">
+  </a>
+</p>
+
+<br>
+
+> 🌍 **Why follow us everywhere?**  
+> We share **exclusive content**, **real-time support**, **investment tips**, **insurance guides (via Azki)**, and **local business opportunities** across platforms.  
+> Join the movement to **keep Persian digital life alive, independent, and powerful**.
+
+🚀 **Start with support. Stay for the community.**  
+👉 [Donate on Hamibash](https://hamibash.com/cafepersians) • [Follow on Instagram](https://www.instagram.com/investing_in_northern_iran/) • [Join Rubika](https://rubika.ir/Caffeine95)
+
+*Together, we build the future—on our own terms.*
 
 
 ## 🧠 Features
