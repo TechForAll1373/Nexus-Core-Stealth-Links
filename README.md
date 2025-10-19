@@ -278,6 +278,20 @@ Don’t wait — be the spark that keeps freedom alive in the digital age.
 👉 **[Visit Our Official Donation Hub →](https://techforall1373.github.io/CryptoDonation-Hub/)**
 
 ---
+[![Advertise for Free on 100Nama](https://img.shields.io/badge/100Nama-Free_Ad_Posting-2ea44f?style=for-the-badge)](https://100nama.com/af/61979)
+
+🚀 **Promote your products or services for FREE** on [100Nama](https://100nama.com/af/61979)!  
+✅ No cost • ✅ Unlimited edits • ✅ Fast approval • ✅ Mobile-friendly  
+Perfect for startups, freelancers, and small businesses looking to boost visibility without spending a dime!  
+
+Click the badge above to post your ad now!
+
+<p align="center">
+  <a href="https://100nama.com/af/61979" target="_blank">
+    <img src="https://100nama.com/assets/frontend/img/logo.svg" alt="100Nama - Free Ad Posting" width="280">
+  </a>
+</p>
+
 
 *Thank you for believing in a freer, fairer, and more private internet.*  
 *Together, we code the future — one block at a time.*
