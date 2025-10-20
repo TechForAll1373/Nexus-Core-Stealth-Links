@@ -1262,3 +1262,20 @@ Backed by robust security protocols and deep integration with Iran’s banking n
 🌐 **Learn More**: [https://iranicard.ir](https://iranicard.ir)
 
 > 🇮🇷 **#IranianCard** | **#DigitalPaymentsIran** | **#FintechIran** | **#LocalPaymentGateway** | **#EcommerceIran** | **#FreelancerTools** | **#IranTech** | **#SecureTransactions** | **#ShaparakIntegration**
+
+<div align="center">
+
+  <a href="https://app.sms.ir/auth/sign-up?ref=NDZ13" target="_blank">
+    <img src="https://sms.ir/wp-content/uploads/2024/12/company.svg" alt="SMS.ir Logo" width="200">
+  </a>
+
+  <h3>🚀 Supercharge Your App with SMS.ir</h3>
+  <p>Integrate seamless SMS, voice, and messaging APIs trusted by thousands of developers worldwide.</p>
+
+  <a href="https://app.sms.ir/auth/sign-up?ref=NDZ13" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Get_Started_Free-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Sign up for free">
+  </a>
+
+  <p><sub><em>Join the future of communication—no credit card required.</em></sub></p>
+
+</div>
