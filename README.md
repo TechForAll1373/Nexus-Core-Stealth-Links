@@ -1,68 +1,47 @@
 # 🌌 Nexus Core – Stealth Links
 
-# 🚗 Sell Your Car in Just 24 Hours — No Waiting, No Hassle!
+# 🚗 Sell Your Car in 24 Hours — Guaranteed!
 
-> **Selling your car doesn’t have to be time-consuming.**  
-> One visit to **Sheb Khodro45** is all it takes.  
-> **Your car sells in 24 hours — guaranteed.**  
-> 👉 **Use my exclusive link below to submit your request instantly!**
-
----
-
-## 🔥 Why Choose Sheb Khodro45?
-
-✅ **Lightning-fast sales** – Get offers within hours  
-✅ **Zero paperwork stress** – We handle everything  
-✅ **Best market price** – Fair, transparent, and competitive  
-✅ **Trusted by thousands** – Iran’s fastest-growing car marketplace  
+> **Selling your car shouldn’t take weeks.**  
+> With **Sheb Khodro45**, it takes **just one day**.  
+> ✅ Fair price • ✅ Zero hassle • ✅ Instant offer
 
 ---
 
-## 🖼️ Click Any Image Below to Start Selling Now!
-
-<a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
-  <img src="https://terabox.com/s/1io6X1_Ws2B6I7VJWONPUqw" alt="Sell Your Car Fast - Sheb Khodro45" width="100%" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.15); margin: 12px 0; transition: transform 0.3s ease; display: block;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-
-<a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
-  <img src="https://terabox.com/s/1C-F-8_D7yzJsnAA8lmVfOw" alt="Instant Car Valuation - Sheb Khodro45" width="100%" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.15); margin: 12px 0; transition: transform 0.3s ease; display: block;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-
-<a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
-  <img src="https://terabox.com/s/1He8wH4d3ZqEoOj6Oxjus6A" alt="24-Hour Car Sale - Sheb Khodro45" width="100%" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.15); margin: 12px 0; transition: transform 0.3s ease; display: block;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-
-> 💡 **Pro Tip**: Click any image above → You’ll be redirected instantly to our **priority submission portal**.  
-> Your car. One day. Sold.
-
----
-
-## 📲 How It Works
-
-1. **Click** any image above (or [go directly here](http://kh45.co/hdpW8))  
-2. **Submit** your car details in under 60 seconds  
-3. **Receive** a real-time offer  
-4. **Get paid** — often within **24 hours**!
-
----
-
-## 🌐 Ready to Sell? Don’t Wait!
-
-⏰ **Time is money. Your car won’t sell itself.**  
-🚀 **Join thousands of satisfied sellers who trusted Sheb Khodro45.**
-
-👉 **[SELL YOUR CAR NOW →](http://kh45.co/hdpW8)**
-
----
-
-> ✨ **P.S.** This exclusive link gives you **priority processing** — don’t share it with just anyone!  
-> 🔒 Secure • Fast • 100% Free to Start
-
----
+## 🔗 Start Selling Now — One Click Away!
 
 <div align="center">
-  <sub>© 2025 Sheb Khodro45 | The Future of Car Selling is Here</sub>
+  <a href="http://kh45.co/hdpW8" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Sell_My_Car_Now-00C853?style=for-the-badge&logo=car&logoColor=white" alt="Sell My Car"/>
+  </a>
 </div>
+
+<br/>
+
+> 💡 **How?**  
+> Click the button above → Fill a 30-second form → Get paid in 24 hours!
+
+---
+
+## Why Thousands Trust Sheb Khodro45?
+
+- ⚡ **Same-day valuation**  
+- 💰 **Best market price — no lowballing**  
+- 📱 **100% online — no dealership visits**  
+- 🔒 **Secure & verified buyers only**
+
+---
+
+## 📲 Don’t Wait — Your Car Sells Faster Than You Think!
+
+👉 **[Yes, I Want to Sell My Car Now!](http://kh45.co/hdpW8)**
+
+---
+
+> 🌟 **Exclusive link**: This portal gives you **priority processing**.  
+> Use it before sharing with others!
+
+© 2025 Sheb Khodro45 — Redefining Car Sales in Iran
 
 <p align="center">
   <a href="https://techforall1373.github.io/PersiaNexus/" target="_blank" rel="noopener">
