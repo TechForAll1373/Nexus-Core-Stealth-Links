@@ -2,22 +2,76 @@
 
 <div align="center">
 
-  <!-- Embedded Images (Direct Links - No JS Required) -->
-  <img src="https://i.imgur.com/kbEVL7i.jpg" alt="Preview 1" width="280" style="border-radius:12px; margin:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-  <img src="https://i.imgur.com/KbRZkLO.jpg" alt="Preview 2" width="280" style="border-radius:12px; margin:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-  <img src="https://i.imgur.com/FoBchJp.jpg" alt="Preview 3" width="280" style="border-radius:12px; margin:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+  <!-- Decorative (non-clickable) images for GitHub README -->
+  <img src="https://i.imgur.com/FoBchJp.jpg" alt="Professional Preview 1" width="100%" style="border-radius:14px; margin:12px 0; box-shadow:0 6px 20px rgba(0,0,0,0.12);">
+  <img src="https://i.imgur.com/KbRZkLO.jpg" alt="Professional Preview 2" width="100%" style="border-radius:14px; margin:12px 0; box-shadow:0 6px 20px rgba(0,0,0,0.12);">
+  <img src="https://i.imgur.com/kbEVL7i.jpg" alt="Professional Preview 3" width="100%" style="border-radius:14px; margin:12px 0; box-shadow:0 6px 20px rgba(0,0,0,0.12);">
 
-  <br><br>
+  <br>
 
-  <!-- Modern CTA Button -->
-  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/✨_Click_Here_For_Magic_✨-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00C853" alt="Access Now">
+  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/🚀_Unlock_Full_Experience_Now-FF4E00?style=for-the-badge&logo=fire&logoColor=white&color=000000" alt="Access Full Content">
   </a>
 
   <br><br>
 
-  <sub><em>All images are interactive previews. Click the button above to experience the full content.</em></sub>
+  <sub><i>✨ High-resolution previews of an exclusive, next-generation experience. Click the button above to dive in.</i></sub>
+
 </div>
+
+<div style="max-width:800px; margin:0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; padding:20px;">
+  <style>
+    .clickable-img {
+      display: block;
+      width: 100%;
+      border-radius: 16px;
+      margin: 16px 0;
+      box-shadow: 0 8px 28px rgba(0,0,0,0.15);
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+    }
+    .clickable-img:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 32px rgba(0,0,0,0.2);
+    }
+    .cta-button {
+      display: inline-block;
+      margin: 24px auto;
+      padding: 14px 32px;
+      background: linear-gradient(135deg, #FF4E00, #D1003A);
+      color: white;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 18px;
+      border-radius: 12px;
+      box-shadow: 0 6px 20px rgba(255, 78, 0, 0.35);
+      transition: all 0.3s ease;
+    }
+    .cta-button:hover {
+      transform: scale(1.04);
+      box-shadow: 0 8px 26px rgba(255, 78, 0, 0.5);
+    }
+  </style>
+
+  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.imgur.com/FoBchJp.jpg" alt="Interactive Preview 1 – Click to Explore" class="clickable-img">
+  </a>
+  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.imgur.com/KbRZkLO.jpg" alt="Interactive Preview 2 – Click to Explore" class="clickable-img">
+  </a>
+  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.imgur.com/kbEVL7i.jpg" alt="Interactive Preview 3 – Click to Explore" class="clickable-img">
+  </a>
+
+  <div style="text-align:center; margin-top:20px;">
+    <a href="http://kh45.co/hdpW8" class="cta-button" target="_blank" rel="noopener noreferrer">
+      🔥 Unlock the Full Experience Now
+    </a>
+    <p style="margin-top:16px; color:#555; font-size:15px;">
+      <em>Each image is a gateway to an immersive, cutting-edge journey. Tap or click anywhere to begin.</em>
+    </p>
+  </div>
+</div>
+
 
 # 🚗 Sell Your Car in 24 Hours — Guaranteed!
 
