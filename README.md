@@ -2,86 +2,31 @@
 
 <div align="center">
 
-  <!-- Decorative (non-clickable) images for GitHub README -->
-  <img src="https://i.imgur.com/FoBchJp.jpg" alt="Professional Preview 1" width="100%" style="border-radius:14px; margin:12px 0; box-shadow:0 6px 20px rgba(0,0,0,0.12);">
-  <img src="https://i.imgur.com/KbRZkLO.jpg" alt="Professional Preview 2" width="100%" style="border-radius:14px; margin:12px 0; box-shadow:0 6px 20px rgba(0,0,0,0.12);">
-  <img src="https://i.imgur.com/kbEVL7i.jpg" alt="Professional Preview 3" width="100%" style="border-radius:14px; margin:12px 0; box-shadow:0 6px 20px rgba(0,0,0,0.12);">
-
-  <br>
-
+  <!-- Modern, Clickable Image Gallery -->
   <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/🚀_Unlock_Full_Experience_Now-FF4E00?style=for-the-badge&logo=fire&logoColor=white&color=000000" alt="Access Full Content">
+    <img src="https://i.imgur.com/FoBchJp.jpg" alt="Interactive Preview 1" width="100%" style="border-radius:16px; margin:14px 0; box-shadow:0 10px 30px rgba(0,0,0,0.18); transition:transform 0.3s ease; transform:scale(1);">
+  </a>
+  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener">
+    <img src="https://i.imgur.com/KbRZkLO.jpg" alt="Interactive Preview 2" width="100%" style="border-radius:16px; margin:14px 0; box-shadow:0 10px 30px rgba(0,0,0,0.18);">
+  </a>
+  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener">
+    <img src="https://i.imgur.com/kbEVL7i.jpg" alt="Interactive Preview 3" width="100%" style="border-radius:16px; margin:14px 0; box-shadow:0 10px 30px rgba(0,0,0,0.18);">
+  </a>
+
+  <!-- Elegant CTA Button -->
+  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/✨_Experience_Now_→_Instant_Access-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00C853" alt="Launch Experience">
   </a>
 
   <br><br>
 
-  <sub><i>✨ High-resolution previews of an exclusive, next-generation experience. Click the button above to dive in.</i></sub>
+  <p align="center">
+    <sub>
+      <em>💡 Each image is a live gateway. Click anywhere to unlock the full experience. Optimized for speed, beauty, and engagement.</em>
+    </sub>
+  </p>
 
 </div>
-
-  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.imgur.com/FoBchJp.jpg" alt="Interactive Preview 1 – Click to Explore" class="clickable-img">
-  </a>
-  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.imgur.com/KbRZkLO.jpg" alt="Interactive Preview 2 – Click to Explore" class="clickable-img">
-  </a>
-  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.imgur.com/kbEVL7i.jpg" alt="Interactive Preview 3 – Click to Explore" class="clickable-img">
-  </a>
-
-  <div style="text-align:center; margin-top:20px;">
-    <a href="http://kh45.co/hdpW8" class="cta-button" target="_blank" rel="noopener noreferrer">
-      🔥 Unlock the Full Experience Now
-    </a>
-    <p style="margin-top:16px; color:#555; font-size:15px;">
-      <em>Each image is a gateway to an immersive, cutting-edge journey. Tap or click anywhere to begin.</em>
-    </p>
-  </div>
-</div>
-
-
-# 🚗 Sell Your Car in 24 Hours — Guaranteed!
-
-> **Selling your car shouldn’t take weeks.**  
-> With **Sheb Khodro45**, it takes **just one day**.  
-> ✅ Fair price • ✅ Zero hassle • ✅ Instant offer
-
----
-
-## 🔗 Start Selling Now — One Click Away!
-
-<div align="center">
-  <a href="http://kh45.co/hdpW8" target="_blank">
-    <img src="https://img.shields.io/badge/✨_Sell_My_Car_Now-00C853?style=for-the-badge&logo=car&logoColor=white" alt="Sell My Car"/>
-  </a>
-</div>
-
-<br/>
-
-> 💡 **How?**  
-> Click the button above → Fill a 30-second form → Get paid in 24 hours!
-
----
-
-## Why Thousands Trust Sheb Khodro45?
-
-- ⚡ **Same-day valuation**  
-- 💰 **Best market price — no lowballing**  
-- 📱 **100% online — no dealership visits**  
-- 🔒 **Secure & verified buyers only**
-
----
-
-## 📲 Don’t Wait — Your Car Sells Faster Than You Think!
-
-👉 **[Yes, I Want to Sell My Car Now!](http://kh45.co/hdpW8)**
-
----
-
-> 🌟 **Exclusive link**: This portal gives you **priority processing**.  
-> Use it before sharing with others!
-
-© 2025 Sheb Khodro45 — Redefining Car Sales in Iran
 
 <p align="center">
   <a href="https://techforall1373.github.io/PersiaNexus/" target="_blank" rel="noopener">
