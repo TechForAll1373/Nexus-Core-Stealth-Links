@@ -1,5 +1,24 @@
 # 🌌 Nexus Core – Stealth Links
 
+<div align="center">
+
+  <!-- Embedded Images (Direct Links - No JS Required) -->
+  <img src="https://i.imgur.com/kbEVL7i.jpg" alt="Preview 1" width="280" style="border-radius:12px; margin:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://i.imgur.com/KbRZkLO.jpg" alt="Preview 2" width="280" style="border-radius:12px; margin:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://i.imgur.com/FoBchJp.jpg" alt="Preview 3" width="280" style="border-radius:12px; margin:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+
+  <br><br>
+
+  <!-- Modern CTA Button -->
+  <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/✨_Click_Here_For_Magic_✨-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00C853" alt="Access Now">
+  </a>
+
+  <br><br>
+
+  <sub><em>All images are interactive previews. Click the button above to experience the full content.</em></sub>
+</div>
+
 # 🚗 Sell Your Car in 24 Hours — Guaranteed!
 
 > **Selling your car shouldn’t take weeks.**  
