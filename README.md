@@ -19,39 +19,6 @@
 
 </div>
 
-<div style="max-width:800px; margin:0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; padding:20px;">
-  <style>
-    .clickable-img {
-      display: block;
-      width: 100%;
-      border-radius: 16px;
-      margin: 16px 0;
-      box-shadow: 0 8px 28px rgba(0,0,0,0.15);
-      transition: transform 0.25s ease, box-shadow 0.25s ease;
-    }
-    .clickable-img:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 12px 32px rgba(0,0,0,0.2);
-    }
-    .cta-button {
-      display: inline-block;
-      margin: 24px auto;
-      padding: 14px 32px;
-      background: linear-gradient(135deg, #FF4E00, #D1003A);
-      color: white;
-      text-decoration: none;
-      font-weight: 700;
-      font-size: 18px;
-      border-radius: 12px;
-      box-shadow: 0 6px 20px rgba(255, 78, 0, 0.35);
-      transition: all 0.3s ease;
-    }
-    .cta-button:hover {
-      transform: scale(1.04);
-      box-shadow: 0 8px 26px rgba(255, 78, 0, 0.5);
-    }
-  </style>
-
   <a href="http://kh45.co/hdpW8" target="_blank" rel="noopener noreferrer">
     <img src="https://i.imgur.com/FoBchJp.jpg" alt="Interactive Preview 1 – Click to Explore" class="clickable-img">
   </a>
