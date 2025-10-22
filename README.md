@@ -2206,3 +2206,84 @@ Hoosha isn’t just another search tool—it’s your **cognitive partner** in n
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
 
+<div align="center">
+
+  <!-- Clickable Banner: Imgur image linking to live page -->
+  <a href="https://techforall1373.github.io/CryptoDonation-Hub/" target="_blank" rel="noopener">
+    <img src="https://i.imgur.com/lkmkfqx.png" alt="Crypto Donation Hub – Verified Wallets" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  </a>
+
+  <h1>🔐 Crypto Donation Hub</h1>
+  <p><em>Immutable • Verified • Transparent • 15+ Blockchains</em></p>
+
+  <p>
+    <a href="https://github.com/TechForAll1373/CryptoDonation-Hub"><img src="https://img.shields.io/github/repo-size/TechForAll1373/CryptoDonation-Hub?style=flat&color=blueviolet" alt="Repo Size"></a>
+    <a href="https://techforall1373.github.io/CryptoDonation-Hub/"><img src="https://img.shields.io/badge/Live_Page-View_Now-00c853?style=flat&logo=githubpages" alt="Live Page"></a>
+    <a href="https://github.com/TechForAll1373/CryptoDonation-Hub/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a>
+  </p>
+
+</div>
+
+---
+
+### ✨ Why Trust This?
+
+✅ **All wallet addresses are:**
+- 🔒 **Manually verified** and **never changed**
+- 📜 **Hardcoded in Git** — fully auditable via commit history
+- 🌐 **Publicly accessible** with zero external dependencies
+- 📱 **Mobile-friendly**, offline-capable, and under **5KB**
+
+> 🔍 **Transparency = Security.** If an address ever changes, you’ll see it in the [commit history](https://github.com/TechForAll1373/CryptoDonation-Hub/commits/main).
+
+---
+
+### 💰 Verified Wallet Addresses
+
+| Network          | Address                                                                 |
+|------------------|-------------------------------------------------------------------------|
+| **BNB**          | `0xf1a5160fE190e16d4D8DDD73E04DF7fBAC17719F`                           |
+| **TRX**          | `TPiDbYoBH3rFJfAgV3QL93FLNg4mM5DpVi`                                   |
+| **USDT (TRC20)** | `TYwhAVJniPQsh3SAxUUUdcetzKHX4dQ4RC`                                   |
+| **SOL**          | `7LP3br6tN7ZMw6i2ae8ekC59bjekccChmDUv9myU8kDQ`                         |
+| **DOGE**         | `D7P8EjMfgGMU1KytTqogbTGM5tfqgfkDsb`                                   |
+| **AVAX**         | `0x1504CA6a99d468fa684f487F3F22eC9fe509E304`                           |
+| **LTC**          | `ltc1qk7jsg26y5dnks026gclnu5znv7stzf94qjjke7`                          |
+| **Sui**          | `0x13e0254c82a7644cda67ad3a5202a4918ed04a6033a05265c7b6cc955ccde5bc`   |
+| **Ton**          | `UQDQvI0tepBQUXV-DevxKe9DGGzqVuM9_LMN2S-uqlYkc1HQ`                     |
+| **DAI (BEP20)**  | `0xf1a5160fE190e16d4D8DDD73E04DF7fBAC17719F`                           |
+| **USDC (TRC20)** | `TPiDbYoBH3rFJfAgV3QL93FLNg4mM5DpVi`                                   |
+| **POL**          | `0xf1a5160fE190e16d4D8DDD73E04DF7fBAC17719F`                           |
+| **RVN**          | `RWjrY8UjeuTqjppRVaXNhzSA8yB1r7187R`                                   |
+| **XNO**          | `nano_3s545m86aumpe7etzpdomrmjfr6abxn6zg7yy8bdq4b5enxqg6fzfj6j6wde`     |
+| **CELO**         | `0x09c89b5359aB31Eb49852cdC4FeB4e546552F7e6`                           |
+
+> ⚠️ **Always verify addresses before sending funds.** Bookmark this page or check the [live version](https://techforall1373.github.io/CryptoDonation-Hub/).
+
+---
+
+### 🛠️ Built For
+
+- 💌 **Donations** to privacy-focused open-source projects  
+- 🔗 **Cross-chain transactions** with verified endpoints  
+- 📚 **Embedding in docs** or community portals  
+- 🔍 **Auditing official addresses** without third-party risk
+
+---
+
+### 🌐 Connect & Explore
+
+- **GitHub**: [@TechForAll1373](https://github.com/TechForAll1373)  
+- **X (Twitter)**: [@CaffeineFeb](https://twitter.com/CaffeineFeb)  
+- **Live Page**: [Crypto Donation Hub](https://techforall1373.github.io/CryptoDonation-Hub/)  
+
+We build **stealth tools**, **proxy infrastructures**, and **decentralized utilities** for privacy and freedom:
+- Cloudflare VLESS/Trojan + Reality  
+- 3X-UI Multi-Protocol Xray Panel  
+- EdgeTunnel – V2Ray on Serverless  
+- FlClash – ClashMeta Client  
+
+---
+
+> Crafted with ❤️ and precision for the decentralized future.  
+> **MIT Licensed** • **Zero Dependencies** • **Fully Open Source**
