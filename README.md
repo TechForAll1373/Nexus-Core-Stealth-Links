@@ -1845,3 +1845,92 @@ Each link below offers **real, working content**—perfect for developers, creat
 ✨ **Enjoy massive cloud power—free, fast, and future-ready!**  
 🔁 **Star this repo** if you found these links helpful!  
 💬 **Contribute** your own TeraBox collections via PR!
+
+# 🌐 Hoosheno — The All-in-One Persian AI Platform
+
+> 💡 **Democratizing AI for Persian speakers — powerful, simple, and in your language.**  
+> Hoosheno is **Iran’s first comprehensive AI platform** built **entirely in Persian**, empowering creators, developers, marketers, students, and businesses to generate world-class content — **without English, without complexity, and without limits**.
+
+[🌐 Main Site](https://hoosheno.com/) |  
+[📘 Blog & Tutorials](https://hoosheno.com/blog) |  
+[ℹ️ About Us](https://hoosheno.com/page/about) |  
+[🔒 Privacy & Policy](https://hoosheno.com/page/privacy-and-policy)
+
+---
+
+## 🚀 Why Hoosheno?
+
+✨ **All-in-One AI Suite**  
+Generate **text, images, videos, voiceovers, code, music**, and more — all in one place, with **one click**.
+
+🧠 **Native Persian Support**  
+No more struggling with English prompts. Hoosheno understands **your language, culture, and context** — and responds like a native.
+
+⚡ **Zero Technical Skills Required**  
+Whether you're a **student**, **entrepreneur**, **developer**, or **digital marketer**, Hoosheno makes AI **accessible, intuitive, and productive**.
+
+💰 **Rial-Based, One-Time Payments**  
+No foreign cards. No subscriptions. Just **affordable, transparent, one-time purchases** in Iranian Rials.
+
+---
+
+## 🛠️ Core Capabilities
+
+### ✍️ AI Writing Studio
+- Generate **SEO-optimized blog posts**, **product descriptions**, **ads**, **emails**, **resumes**, and **academic papers**  
+- Rewrite, summarize, or enhance any text instantly  
+- Create **plagiarism-free**, **AI-undetectable**, and **human-like** content
+
+### 🎨 Visual & Multimedia AI
+- Generate **high-quality images** via **DALL·E 3, Stable Diffusion, Midjourney, Flux**  
+- Turn **text or images into videos** using **Kling AI, Luma, Minimax, Google Veo 2**  
+- Convert **text to natural Persian speech** (and vice versa) with human-like voices
+
+### 💼 Business & Productivity Tools
+- Build **LinkedIn bios**, **startup ideas**, **landing pages**, and **branding assets**  
+- Analyze **PDF, DOCX, CSV** files via AI-powered chat  
+- Generate **UX suggestions**, **marketing scripts**, and **customer service responses**
+
+### 💻 Developer & Technical AI
+- Write, debug, and explain **code in any programming language**  
+- Generate **changelogs**, **documentation**, and **API descriptions**  
+- Create **custom prompts** and **private AI templates**
+
+### 📊 Advanced Features
+- **Web Chat**: Browse & summarize live websites in real time  
+- **AI Detection**: Verify if content is AI-generated or human-written  
+- **Plagiarism Checker**: Ensure originality with built-in analysis  
+- **Affiliate Program**: Earn commission by inviting friends
+
+---
+
+## 💎 Flexible & Fair Pricing (One-Time)
+
+| Plan | Price (IRR) | Highlights |
+|------|-------------|-----------|
+| 📝 **100K Words** | 35,000 | GPT-4o-mini, ideal for blogs & research |
+| 🖼️ **8 AI Images** | 91,000 | DALL·E 3, Midjourney, Stable Diffusion |
+| 🎵 **10 AI Musics** | 180,000 | Suno v4.5 — full songs from text |
+| 🎥 **5 AI Videos** | 196,000–2,187,000 | Kling, Luma, Minimax, Google Veo 2 |
+| 📢 **100 Min Audio** | 100,000–270,000 | Whisper & GPT-4o TTS with Persian accent |
+
+✅ **No recurring fees** • 💳 **Rial payments** • 🔐 **Secure checkout**
+
+---
+
+## 🌍 Our Mission
+
+> **“Make AI simple, local, and powerful for every Persian speaker.”**  
+We’re breaking down language, cost, and technical barriers — so **you can create, grow, and innovate** without limits.
+
+---
+
+## 🤝 Join Thousands of Persian Creators
+
+Ready to **work smarter, create faster, and scale effortlessly**?
+
+👉 [**Start Now at Hoosheno.com**](https://hoosheno.com/)
+
+---
+
+> 🇮🇷 **Made in Iran** • ❤️ **For Persian Speakers** • 🚀 **Powered by Global AI Models (OpenAI, Google, Anthropic, Suno, Kling & more)**
