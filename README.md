@@ -1,5 +1,43 @@
 # 🌌 Nexus Core – Stealth Links
 
+# 🌐 Charisma Financial Group – Invest & Grow
+
+Join **Charisma Financial Group**—a licensed financial services provider offering investment, asset management, insurance, and brokerage solutions.
+
+## 🔗 Quick Links
+
+### 💼 For Investors  
+[![Invest with Charisma](https://imgur.com/9sQnNp3.png)](https://charisma.ir/)  
+🔗 [Visit Official Website →](https://charisma.ir/)  
+
+### 👥 Invite Colleagues (Marketers)  
+[![Refer Colleagues](https://imgur.com/raQxhz4.png)](https://axon.charisma.ir/l?mRef=102gjf)  
+🔗 [https://axon.charisma.ir/l?mRef=102gjf](https://axon.charisma.ir/l?mRef=102gjf) 👉 **Click to share!** 💌  
+
+### 👨‍👩‍👧‍👦 Invite Clients (Customers)  
+[![Refer Clients](https://imgur.com/30lT9FS.png)](https://axon.charisma.ir/l?cRef=102gjf)  
+🔗 [https://axon.charisma.ir/l?cRef=102gjf](https://axon.charisma.ir/l?cRef=102gjf) 👉 **Start earning!** 💸  
+
+---
+
+## 📱 Official Channels
+
+| Platform      | Link                                                                 |
+|---------------|----------------------------------------------------------------------|
+| 🌍 Website    | [charisma.ir](https://charisma.ir/)                                 |
+| 📸 Instagram  | [@charismaholding](https://instagram.com/charismaholding)           |
+| 💬 Telegram   | [t.me/charismaholding](https://t.me/charismaholding)                |
+| 🐦 Twitter    | [@charismaholding](https://twitter.com/charismaholding)             |
+| 💼 LinkedIn   | [Charisma Financial Services Group](https://www.linkedin.com/company/charisma-financial-services-group/) |
+
+[![Follow on Telegram](https://imgur.com/DFnVVYZ.png)](https://t.me/charismaholding)  
+📞 **24/7 Support**: `02141000`
+
+---
+
+> ✅ Licensed by the Securities and Exchange Organization of Iran  
+> 🚀 All images are clickable and lead directly to their destination pages.
+
 # 🌌 **Zaya** — The World’s First AI-Powered Link Shortener
 
 [![Zaya Hero — Autoplays on GitHub](https://i.imgur.com/weStFbX.gif)](https://zaya.io?token=IS5lbSF)
