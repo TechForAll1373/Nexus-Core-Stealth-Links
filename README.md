@@ -65,21 +65,6 @@
 
 Use **260+ models via a single API key** — compatible with **OpenAI**, **Anthropic**, and **Google GenAI** SDKs.
 
-```python
-from openai import OpenAI
-
-client = OpenAI(
-    api_key="your-avalai-api-key",
-    base_url="https://api.avalai.ir/v1"
-)
-
-response = client.chat.completions.create(
-    model="gpt-5",
-    messages=[{"role": "user", "content": "Explain quantum computing in simple terms."}]
-)
-print(response.choices[0].message.content)
-
-
 
 # 🌐 Charisma Financial Group – Invest & Grow
 
