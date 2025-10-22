@@ -2,26 +2,22 @@
 
 <div align="center">
 
-  ![GapGPT Banner](https://gapgpt.app/assets/banner.png)  
-  *Click the image above to visit the live application*
-
-  [![GapGPT - AI-Powered Persian Assistant](https://gapgpt.app/assets/thumbnail.png)](https://gapgpt.app/)
+  [![GapGPT – AI Assistant for Persian](https://i.imgur.com/5Vx6eQl.png)](https://gapgpt.app/)
 
   <h2>✨ GapGPT – Your Intelligent Persian AI Companion</h2>
 
-  **GapGPT** is a cutting-edge, AI-powered assistant designed specifically for Persian (Farsi) language users. Built with advanced large language models, it offers fluent, context-aware responses, making it ideal for conversation, content creation, learning, and more—all in Persian.
+  **GapGPT** is a cutting-edge, AI-powered assistant designed specifically for Persian (Farsi) language users. Built with advanced large language models, it offers fluent, context-aware responses—perfect for conversation, content creation, learning, and more—all in Persian.
 
-  🔹 **Native Persian Understanding**  
-  🔹 **Fast & Responsive Interface**  
-  🔹 **Privacy-Conscious Design**  
-  🔹 **Free to Use – No Login Required**
+  🔹 Native Persian Understanding  
+  🔹 Fast & Responsive Interface  
+  🔹 Privacy-Conscious Design  
+  🔹 Free to Use – No Login Required  
 
   Experience the future of Persian-language AI today!
 
-  [→ Visit GapGPT Now](https://gapgpt.app/){:target="_blank"}
+  [→ Visit GapGPT Now](https://gapgpt.app/)
 
 </div>
-
 <div align="center">
 
   <!-- Banner Image (Clickable) -->
