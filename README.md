@@ -1,118 +1,124 @@
 # 🌌 Nexus Core – Stealth Links
 
-# 🌌 **Zaya** — Intelligence Meets Simplicity
+# 🌌 **Zaya** — The World’s First AI-Powered Link Shortener
 
-[![Zaya Hero](https://i.imgur.com/weStFbX.gif)](https://zaya.io?token=IS5lbSF)
+[![Zaya Hero — Autoplays on GitHub](https://i.imgur.com/weStFbX.gif)](https://zaya.io?token=IS5lbSF)
 
-> **One click. One link. Infinite intelligence.**  
-> Zaya is the world’s first AI-powered link shortener that understands *why* you share—and helps you share better.
+> **Shorten a link. Share with intelligence.**  
+> Zaya isn’t just a URL shortener—it’s your AI co-pilot for sharing, tracking, and understanding how the world engages with your content.
 
-✨ **Shorten** • 🧠 **Analyze** • 📲 **Automate** • 🔒 **Private by Design**
+✨ **One Click** • 🧠 **AI-Powered** • 📲 **Telegram-First** • 🔒 **Zero Tracking**
 
 ---
 
-## 🔑 Your Exclusive Access Token: `IS5lbSF`
+## 🔑 Your Lifetime Invite: `IS5lbSF`
 
-You’ve been pre-approved for **lifetime early-adopter status**. Use your token to unlock:
+You’ve been granted **permanent early-adopter status**. This token unlocks:
 
-- Branded short links (`zaya.io/yourname`)
-- Real-time click analytics
-- AI-powered sharing suggestions
-- Telegram bot integration
-- Priority API access
+- Branded short links: `zaya.io/your-idea`  
+- Real-time analytics with AI insights  
+- Full Telegram bot integration  
+- Priority access to developer APIs  
+- No paywalls. Ever.
 
 <div align="center">
   <a href="https://zaya.io?token=IS5lbSF">
-    <img src="https://img.shields.io/badge/✨_Open_Zaya_Now-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Launch Zaya">
+    <img src="https://img.shields.io/badge/✨_Launch_Zaya_Now-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Zaya">
   </a>
   <a href="https://zaya.io/register?token=IS5lbSF">
-    <img src="https://img.shields.io/badge/🔐_Create_Free_Account-FF4500?style=for-the-badge&logo=gitbook&logoColor=white" alt="Register">
+    <img src="https://img.shields.io/badge/🔐_Create_Free_Account-FF4500?style=for-the-badge&logo=gitbook&logoColor=white" alt="Register Free">
   </a>
 </div>
 
-> ⏳ **Limited slots** — your token expires when beta ends.
+> ⏳ **Note**: This token grants **lifetime benefits** — but registration must happen before public launch.
 
 ---
 
-## 🎥 How Zaya Works — Real GIFs, Zero JavaScript
+## 🎥 Watch Zaya Work — All GIFs Autoplay on GitHub
 
-All visuals load instantly on GitHub using **static, direct image links**:
+Every animation below is a **real, direct `.gif`** — no JavaScript, no loading spinners, just pure motion:
 
-| Feature | Preview |
-|--------|--------|
+| Feature | Live Demo (Autoplays) |
+|--------|------------------------|
 | **One-Click Shortening** | ![Shorten](https://i.imgur.com/sokpu2j.gif) |
-| **Natural AI Dialogue** | ![Dialogue](https://i.imgur.com/Pt6fLVx.gif) |
+| **Natural AI Chat** | ![Dialogue](https://i.imgur.com/Pt6fLVx.gif) |
 | **Contextual Memory** | ![Context](https://i.imgur.com/boK8LyP.gif) |
 | **Multimodal Input** | ![Multimodal](https://i.imgur.com/oBEX2aS.gif) |
-| **Sleek Dashboard** | ![UI](https://i.imgur.com/fVqooCm.gif) |
-| **Personalized Flow** | ![Adaptive](https://i.imgur.com/s83fXT3.gif) |
+| **Personalized UI** | ![UI](https://i.imgur.com/fVqooCm.gif) |
+| **Adaptive Suggestions** | ![Smart](https://i.imgur.com/s83fXT3.gif) |
 
-> ✅ All GIFs are hosted at `i.imgur.com` — **no JS required**, **fast CDN delivery**, **GitHub-compatible**.
-
----
-
-## 📊 Why Zaya Beats Generic Tools
-
-| Capability | **Zaya** | Bitly / TinyURL | ChatGPT / Claude |
-|-----------|--------|------------------|------------------|
-| Link Shortening | ✅ `zaya.io/xyz` | ✅ | ❌ |
-| AI Context Awareness | ✅ Remembers *you* | ❌ | ⚠️ Session-only |
-| Telegram Bot | ✅ [@zayabotlink](https://t.me/zayabotlink) | ❌ | ❌ |
-| Click Analytics | ✅ Real-time + AI insights | ✅ Basic | ❌ |
-| Privacy | 🔒 No tracking, no ads | ⚠️ Data sold | ⚠️ Logged |
-| Developer API | ✅ REST + Webhooks | ✅ (paid) | ❌ |
-| Invite-Only Access | ✅ Exclusive | ❌ Open | ❌ Open |
-
-> 💡 **Zaya = Utility + Intelligence. No compromises.**
+> 🚀 All GIFs are **<1.8MB**, hosted on Imgur’s global CDN, and **autoplay instantly** on GitHub, mobile, and desktop.
 
 ---
 
-## 📝 The Vision: Smarter Sharing, Not Just Shorter Links
+## 📊 Zaya vs. The Rest — A Technical Breakdown
 
-Most link shorteners treat URLs as dumb strings.  
-**Zaya treats them as conversations.**
+| Feature | **Zaya** | Bitly | Rebrandly | ChatGPT |
+|--------|--------|-------|----------|--------|
+| Short Links | ✅ `zaya.io/xyz` | ✅ | ✅ | ❌ |
+| AI Context | ✅ Remembers *you* | ❌ | ❌ | ⚠️ Session-only |
+| Telegram Bot | ✅ [@zayabotlink](https://t.me/zayabotlink) | ❌ | ❌ | ❌ |
+| Click Analytics | ✅ + AI insights | ✅ (paid) | ✅ (paid) | ❌ |
+| Privacy | 🔒 No logs, no ads | ⚠️ Sells data | ⚠️ Tracks | ⚠️ Logs prompts |
+| Developer API | ✅ Free tier | ✅ Paid | ✅ Paid | ❌ |
+| Invite-Only Beta | ✅ Exclusive | ❌ | ❌ | ❌ |
 
-When you shorten `https://example.com/ai-report-2025`, Zaya:
-1. Recognizes it’s a **technical report**
-2. Suggests a title: “2025 AI Trends – Zaya”
-3. Offers to auto-post to Telegram with a summary
-4. Tracks who clicked—and what they did next
-
-> “Finally, a tool that *gets* why I share.”  
-> — Beta User, Growth Marketer
+> 💡 **Zaya is the only platform that merges utility + intelligence + privacy.**
 
 ---
 
-## 🌐 Connect With Zaya
+## 📝 The Zaya Difference — Beyond Shortening
+
+Most tools treat links as **dumb strings**.  
+Zaya treats them as **conversations**.
+
+### Example Flow:
+1. You paste: `https://example.com/2025-ai-trends.pdf`  
+2. Zaya responds:  
+   > “This looks like a research report. Want to:  
+   > - Shorten as `zaya.io/ai2025`?  
+   > - Auto-generate a summary?  
+   > - Share to Telegram with a preview?”  
+3. You click once → done.
+
+> “It’s like having a sharing assistant in my pocket.”  
+> — Early User, Tech Founder
+
+---
+
+## 🌐 Join the Ecosystem
+
+Zaya lives where you do:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_zaya.io-1DA1F2?style=flat&logo=google-chrome&logoColor=white)](https://zaya.io)
+[![Website](https://img.shields.io/badge/🌐_Official_Site-zaya.io-1DA1F2?style=flat&logo=google-chrome&logoColor=white)](https://zaya.io)
 [![Telegram Bot](https://img.shields.io/badge/🤖_@zayabotlink-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/zayabotlink)
 [![Instagram](https://img.shields.io/badge/📸_@zaya_link-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zaya_link)
-[![Dev Docs](https://img.shields.io/badge/🛠️_Developers-000000?style=flat&logo=git&logoColor=white)](https://zaya.io/developers)
+[![Dev Portal](https://img.shields.io/badge/🛠️_Developers-zaya.io/developers-000000?style=flat&logo=git&logoColor=white)](https://zaya.io/developers)
 
 </div>
 
-> 📱 **Try it now**: Message any link to [@zayabotlink](https://t.me/zayabotlink) → get a smart Zaya link in seconds.
+> 📱 **Pro Tip**: Message any link to [@zayabotlink](https://t.me/zayabotlink) → get a smart Zaya link in <2 seconds.
 
 ---
 
-## 🚀 Don’t Miss Out — Your Token Is Active Now
+## 🚀 Final Invitation — Your Token Is Active
 
 <div align="center">
   <a href="https://zaya.io/register?token=IS5lbSF">
-    <img src="https://img.shields.io/badge/💫_Claim_Your_Lifetime_Access-FFFFFF?style=for-the-badge&logo=figma&logoColor=black&label=Join%20Free%20Today" alt="Join Zaya">
+    <img src="https://img.shields.io/badge/💫_Claim_Lifetime_Access-FFFFFF?style=for-the-badge&logo=figma&logoColor=black&label=Join%20Free%20Now" alt="Join Zaya">
   </a>
 </div>
 
-> 🔑 **Token**: `IS5lbSF` — Valid forever for early users.  
-> 🌟 **You’re invited. The future is shortened.**
+> 🔑 **Token**: `IS5lbSF`  
+> 🌟 **You’re not just a user—you’re a pioneer.**
 
 ---
 
-> **Zaya** — Where every link has a mind of its own.  
+> **Zaya** — Where every link thinks for itself.  
 > © 2025 Zaya Labs • [zaya.io](https://zaya.io)
+
 
 <div align="center">
 
