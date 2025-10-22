@@ -2,6 +2,88 @@
 
 <div align="center">
 
+  <!-- Banner Image (Clickable) -->
+  <a href="https://www.irani-ai.com/" target="_blank" rel="noopener">
+    <img src="https://www.irani-ai.com/public/images/media/landing-free-chat-banner1.png" alt="Irani AI - AI Platform for Persian Speakers" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  </a>
+
+  <br><br>
+
+  <!-- Title & Tagline -->
+  <h1>✨ Irani AI</h1>
+  <p><em>The most comprehensive AI platform for Persian-speaking users — powered by 116+ advanced tools.</em></p>
+
+  <br>
+
+  <!-- Badges -->
+  <a href="https://www.irani-ai.com/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-IraniAI-1f6feb?style=for-the-badge&logo=firefox&logoColor=white" alt="Live Demo">
+  </a>
+  <a href="https://www.irani-ai.com/about-us/">
+    <img src="https://img.shields.io/badge/📖_About_Us-Explore-00b894?style=for-the-badge" alt="About Us">
+  </a>
+  <a href="https://www.irani-ai.com/?cn=landing-products-container">
+    <img src="https://img.shields.io/badge/🛠️_Products_&_Tools-View_All-ff793f?style=for-the-badge" alt="Products">
+  </a>
+
+  <br><br>
+
+  <!-- Features Grid (Emoji + Text) -->
+  <p>
+    <strong>⚡ Text</strong> &nbsp;|&nbsp;
+    <strong>🎨 Image</strong> &nbsp;|&nbsp;
+    <strong>🎥 Video</strong> &nbsp;|&nbsp;
+    <strong>🎙️ Audio</strong> &nbsp;|&nbsp;
+    <strong>📊 Data</strong> &nbsp;|&nbsp;
+    <strong>🤖 Chat</strong>
+  </p>
+
+  <br>
+
+  <!-- Description -->
+  <p>
+    Irani AI offers localized access to world-class AI models like <strong>ChatGPT, Gemini, Claude, Llama, Midjourney,</strong> and <strong>Stable Diffusion</strong> — fully optimized for Farsi language and regional needs.<br>
+    From students and teachers to content creators, developers, and enterprises — Irani AI empowers every user with smart, ethical, and efficient AI tools.
+  </p>
+
+  <br>
+
+  <!-- CTA Button -->
+  <a href="https://www.irani-ai.com/">
+    <img src="https://img.shields.io/badge/🚀_Try_Free_Demo_Now-White?style=social&logo=github" alt="Try Free Demo">
+  </a>
+
+</div>
+
+---
+
+### 🔍 Key Highlights
+
+- ✅ **116+ AI Tools** across text, image, audio, and video domains  
+- 🌐 **Farsi-Optimized Models**: Native support for Persian language processing  
+- 💼 **Enterprise Solutions**: Custom LORA, API, AI Chatbot, and AIOperator for businesses  
+- 🎓 **Education-Friendly**: Special tools for students, teachers, and researchers  
+- 🆓 **Free Tier Available**: Test core features with no cost  
+- 📱 **Responsive & Modern UI**: Seamless experience on all devices  
+
+---
+
+### 📚 Learn More
+
+- [Official Website](https://www.irani-ai.com/)
+- [About Us](https://www.irani-ai.com/about-us/)
+- [Product Catalog](https://www.irani-ai.com/?cn=landing-products-container)
+
+> 💡 **Note**: This is not an open-source project. Irani AI is a commercial SaaS platform developed in Iran for Persian-speaking communities worldwide.
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ for the Persian AI community | © 2025 Irani AI</sub>
+</div>
+
+<div align="center">
+
   <a href="https://zigap.ir/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://zigap.ir/wp-content/uploads/2024/10/Asset-94.webp"
