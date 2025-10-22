@@ -2281,3 +2281,18 @@ Hoosha isn’t just another search tool—it’s your **cognitive partner** in n
 
 > Crafted with ❤️ and precision for the decentralized future.  
 > **MIT Licensed** • **Zero Dependencies** • **Fully Open Source**
+
+<div align="center">
+
+  <!-- Clickable Banner Image -->
+  <a href="https://github.com/TechForAll1373/cafepersians.io.lib" target="_blank">
+    <img src="https://imgur.com/QHAD3Wo.png" alt="CafePersians.io Library" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  </a>
+
+  <h3>✨ Discover the power behind <strong>CafePersians.io</strong> — a modern, open-source library built for performance and elegance.</h3>
+
+  <p>
+    Ready to explore more? 👉 <a href="https://github.com/TechForAll1373/cafepersians.io.lib"><strong>Click here to dive in!</strong></a>
+  </p>
+
+</div>
