@@ -1,5 +1,67 @@
 # 🌌 Nexus Core – Stealth Links
 
+# 🚀 Kara Tools – AI-Powered Content Creation Platform
+
+Kara is a cutting-edge suite of AI tools designed to **supercharge your content creation**, **boost SEO**, and **save time**—all in Persian and multilingual support. Built by AI and digital marketing experts, Kara empowers creators, businesses, and developers with intelligent, fast, and affordable solutions.
+
+---
+
+## 🔗 Featured Pages
+
+<div align="center">
+
+| [**Homepage**](https://kara.tools/) | [**About Kara**](https://kara.tools/about/) |
+|:---:|:---:|
+| [![](https://i.imgur.com/8XcJqRl.png)](https://kara.tools/) | [![](https://i.imgur.com/9fYr4dP.png)](https://kara.tools/about/) |
+
+| [**AI Tools Directory**](https://kara.tools/list/ai-tools/) | [**Terms of Service**](https://kara.tools/terms/) |
+|:---:|:---:|
+| [![](https://i.imgur.com/m1QiUo2.png)](https://kara.tools/list/ai-tools/) | [![](https://i.imgur.com/Lv3kW7A.png)](https://kara.tools/terms/) |
+
+</div>
+
+> 💡 **Tip**: Click any image above to visit the corresponding page!
+
+---
+
+## ✨ Why Kara?
+
+- ⚡ **3-second content generation**   
+- 🌐 **SEO-optimized articles, meta descriptions, keywords & more**  
+- 🎨 **AI image generation with background removal & styling**  
+- 📱 **Social media tools for Instagram, YouTube, Twitter & TikTok**  
+- 🔒 **Pay-as-you-go model — no subscriptions, no expiry**
+
+---
+
+## 🛠️ Core AI Tools
+
+- Article & Blog Generator (SEO-ready)
+- Smart Translator (40 languages, human-like tone)
+- Grammar & Style Checker (20 languages)
+- Username & Business Name Generator
+- YouTube Description & Tags Optimizer
+- LSI & Long-Tail Keyword Research
+- Meta Description & FAQ Builder
+- Text-to-Image Generator
+- Content Expander & Paraphraser
+
+All tools are **professionally tuned** for Persian content and global standards.
+
+---
+
+## 📌 Legal & Usage
+
+By using Kara’s tools, you agree to the [Terms of Service](https://kara.tools/terms/).  
+- Content ownership: **User is fully responsible** for generated output.  
+- No illegal or unethical use permitted.  
+- No refunds unless service failure is confirmed.
+
+---
+
+> 🌟 **Empower your creativity. Outpace your competition. Let Kara be your AI co-pilot.**  
+> Visit → [https://kara.tools](https://kara.tools)
+
 <!-- PROJECT HEADER -->
 <br />
 <p align="center">
