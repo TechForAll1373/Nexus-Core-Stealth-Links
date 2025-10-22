@@ -1961,3 +1961,16 @@ Available on **iOS & Android**—generate content on the go, wherever inspiratio
 ---
 
 *No subscriptions. No hidden fees. Just pure AI-powered creativity.*
+
+<a href="https://digimark-ai.com/" target="_blank">
+  <img src="https://i.imgur.com/BsabOur.png" alt="DigiMark AI – Advanced AI Marketing Platform" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</a>
+
+<h3 align="center">
+  <a href="https://digimark-ai.com/" target="_blank">→ Explore DigiMark AI</a>
+</h3>
+
+<p align="center">
+  🔍 Intelligent. Automated. Future-ready.<br>
+  Transform your digital marketing with cutting-edge AI.
+</p>
