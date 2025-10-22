@@ -1,5 +1,20 @@
 # 🌌 Nexus Core – Stealth Links
 
+# 🌐 RakhshAI – The First Iranian AI Platform
+
+[![RakhshAI – Powered by Zal NLP Model](https://imgur.com/iYyP5ZB.png)](https://rakhshai.com/)
+
+Discover **RakhshAI**, Iran’s first homegrown artificial intelligence system, built on the advanced **Zal** natural language processing model. Designed to empower businesses and developers with cutting-edge Persian-language AI capabilities.
+
+✨ **Key Highlights**:
+- Built on a **Mixture-of-Experts** architecture  
+- ~13B active parameters per token (47B total)  
+- Trained on curated Persian web data + distilled from leading global models  
+- Ready-to-use **API / Web Service** for Iranian developers  
+
+🚀 Ready to integrate Persian NLP into your product?  
+👉 [Explore RakhshAI](https://rakhshai.com/)
+
 <div align="center">
 
 ✨ **Introducing GapGPT** ✨  
