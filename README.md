@@ -2199,3 +2199,10 @@ Hoosha isn’t just another search tool—it’s your **cognitive partner** in n
 ✨ **Ready to search differently?** → [Try Hoosha Now](https://hoosha.com)
 
 > 🔧 *This README is optimized for clarity, engagement, and modern aesthetics—no images, no pricing, just pure value.*
+
+<a href="https://www.coffeebede.com/cafepersians.io"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+
+<a href="http://www.coffeete.ir/Cafepersians">
+       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+</a>
+
