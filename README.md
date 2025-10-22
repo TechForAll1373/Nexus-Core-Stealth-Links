@@ -2,23 +2,28 @@
 
 <div align="center">
 
-  [![GapGPT – AI Assistant for Persian](https://i.imgur.com/5Vx6eQl.png)](https://gapgpt.app/)
+✨ **Introducing GapGPT** ✨  
+🚀 *The Future of Persian AI is Here*
 
-  <h2>✨ GapGPT – Your Intelligent Persian AI Companion</h2>
+---
 
-  **GapGPT** is a cutting-edge, AI-powered assistant designed specifically for Persian (Farsi) language users. Built with advanced large language models, it offers fluent, context-aware responses—perfect for conversation, content creation, learning, and more—all in Persian.
+🤖 **GapGPT** is a state-of-the-art AI assistant built exclusively for **Persian (Farsi)** speakers.  
+Powered by advanced language models, it delivers intelligent, fluent, and context-aware responses—right in your native language.
 
-  🔹 Native Persian Understanding  
-  🔹 Fast & Responsive Interface  
-  🔹 Privacy-Conscious Design  
-  🔹 Free to Use – No Login Required  
+🌟 **Why You’ll Love It:**  
+✅ Native-level Persian understanding  
+⚡ Lightning-fast & intuitive interface  
+🔒 Privacy-first — no accounts, no tracking  
+🆓 100% free to use  
 
-  Experience the future of Persian-language AI today!
+---
 
-  [→ Visit GapGPT Now](https://gapgpt.app/)
+🌐 **Ready to experience AI in Persian?**  
+👉 [**Visit GapGPT Now**](https://gapgpt.app/)  
+
+💬 Chat • ✍️ Write • 🧠 Learn • 🌱 Grow  
 
 </div>
-<div align="center">
 
   <!-- Banner Image (Clickable) -->
   <a href="https://www.irani-ai.com/" target="_blank" rel="noopener">
