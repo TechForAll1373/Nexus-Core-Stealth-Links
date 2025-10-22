@@ -2277,12 +2277,6 @@ Hoosha isn’t just another search tool—it’s your **cognitive partner** in n
 - **X (Twitter)**: [@CaffeineFeb](https://twitter.com/CaffeineFeb)  
 - **Live Page**: [Crypto Donation Hub](https://techforall1373.github.io/CryptoDonation-Hub/)  
 
-We build **stealth tools**, **proxy infrastructures**, and **decentralized utilities** for privacy and freedom:
-- Cloudflare VLESS/Trojan + Reality  
-- 3X-UI Multi-Protocol Xray Panel  
-- EdgeTunnel – V2Ray on Serverless  
-- FlClash – ClashMeta Client  
-
 ---
 
 > Crafted with ❤️ and precision for the decentralized future.  
