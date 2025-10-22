@@ -1,5 +1,36 @@
 # 🌌 Nexus Core – Stealth Links
 
+<div align="center">
+
+  <a href="https://zigap.ir/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://zigap.ir/wp-content/uploads/2024/10/Asset-94.webp"
+      alt="Zigap — Persian AI Assistant"
+      width="220"
+      style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12); transition: transform 0.3s ease; margin: 16px 0;"
+    />
+  </a>
+
+  <h2>✨ Meet Zigap</h2>
+  <p>
+    The first advanced <strong>Persian AI assistant</strong> designed for chat, voice, and daily productivity.<br/>
+    From writing essays to buying phone credit — all in fluent Farsi.
+  </p>
+
+  <p>
+    <a href="https://zigap.ir/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Website-zigap.ir-007AFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Zigap Website">
+    </a>
+    <a href="https://zigap.ir/contact-us/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Contact-Us-FF5722?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Us">
+    </a>
+    <a href="https://zigap.ir/zigap-mag/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Zigap_Mag-AI_News-9C27B0?style=for-the-badge&logo=rss&logoColor=white" alt="Zigap Magazine">
+    </a>
+  </p>
+
+</div>
+
 # 🌐 Kara Tools – AI-Powered Content Suite for Persian & Global Creators
 
 Kara Tools is a professional AI platform built by digital marketing and AI experts to **revolutionize Persian content creation**—from SEO articles to AI-generated images, all in seconds.
