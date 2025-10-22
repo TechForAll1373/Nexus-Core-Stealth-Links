@@ -1926,3 +1926,38 @@ Ready to **work smarter, create faster, and scale effortlessly**?
 ---
 
 > 🇮🇷 **Made in Iran** • ❤️ **For Persian Speakers** • 🚀 **Powered by Global AI Models (OpenAI, Google, Anthropic, Suno, Kling & more)**
+
+# 🧠 Hooshina — AI-Powered Creativity at Your Fingertips
+
+Unlock the future of content creation with **Hooshina**—your all-in-one AI assistant for text, video, images, and conversation.
+
+✨ **Smart. Fast. Effortless.**
+
+---
+
+## 🚀 Features
+
+### ✍️ AI Text Generation  
+Generate **SEO-optimized**, unique, and high-quality text content tailored for your website or blog—crafted to boost your visibility and engagement.
+
+### 🎥 AI Video Creation  
+Turn simple ideas or text into **professional, ready-to-share videos** in minutes. No editing skills required—just pure creativity powered by AI.
+
+### 🖼️ Creative Image Generation  
+Visualize anything you imagine: blog illustrations, social media posts, brand logos, and more—just describe it, and Hooshina brings it to life.
+
+### 💬 Intelligent AI Chat  
+Ask anything, anytime. Get **precise, instant answers** to practical questions or complex problems. Your 24/7 expert companion, always ready to assist.
+
+### 📱 Create Anywhere  
+Available on **iOS & Android**—generate content on the go, wherever inspiration strikes.
+
+---
+
+## 🔗 Get Started  
+🌐 [Visit Hooshina](https://hooshina.com/)  
+📲 Download the app and start creating today!
+
+---
+
+*No subscriptions. No hidden fees. Just pure AI-powered creativity.*
