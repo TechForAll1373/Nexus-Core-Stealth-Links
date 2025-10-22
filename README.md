@@ -2052,3 +2052,102 @@ Unlock the future of AI—**in Persian**.
 ---
 
 > 🌱 *Ivira: Where Persian meets intelligence.*  
+
+
+
+<!-- 
+✨ AI ECOSYSTEM DASHBOARD — Curated for Developers & Innovators
+🚀 Real • Verified • API-Ready • Beautifully Designed for GitHub
+-->
+
+<div align="center">
+
+# 🧠 **Next-Gen AI Platforms**  
+### *The world’s most powerful, accessible, and developer-friendly artificial intelligence systems*
+
+[![Verified](https://img.shields.io/badge/Status-Verified-%2300C853?style=for-the-badge&logo=github)]()
+[![Live Links](https://img.shields.io/badge/Links-Functional_%26_Secure-%231E88E5?style=for-the-badge&logo=link)]()
+[![Open Access](https://img.shields.io/badge/API-Available_%26_Documented-%236D4C41?style=for-the-badge&logo=api)]()
+
+<br>
+
+[![Follow on X](https://img.shields.io/badge/Follow_@CaffeineFeb-000000?style=flat&logo=x&logoColor=white)](https://x.com/CaffeineFeb/)
+
+</div>
+
+---
+
+## 🌍 **Global & Chinese AI Leaders**
+
+> 💡 All platforms offer public access, English interfaces, and documented APIs (unless noted). Chinese services are globally available for developers.
+
+| Platform | 🏳️ Region | Flagship Models | Superpowers | 🔗 Website | 📡 API |
+|---------|----------|------------------|------------|-----------|--------|
+| **OpenAI** | 🇺🇸 USA | `GPT-4o`, `o1-preview` | Real-time voice, vision, code, deep reasoning | [→ openai.com](https://openai.com) | ✅ [Platform](https://platform.openai.com) |
+| **Anthropic** | 🇺🇸 USA | `Claude 3.5 Sonnet` | Speed + intelligence, coding & docs mastery | [→ anthropic.com](https://anthropic.com) | ✅ [Docs](https://docs.anthropic.com) |
+| **Google DeepMind** | 🇺🇸 USA | `Gemini 2.0` | Multimodal, Imagen 3, real-time interaction | [→ google.com/ai](https://google.com/ai) | ✅ [AI Studio](https://ai.google.dev) |
+| **Meta AI** | 🇺🇸 USA | `Llama 3.2 (90B)` | Fully open weights, multilingual, research-grade | [→ ai.meta.com](https://ai.meta.com) | ✅ [HF](https://huggingface.co/meta-llama) |
+| **Mistral AI** | 🇫🇷 France | `Mistral Large 2` | EU-based, top-tier reasoning & coding | [→ mistral.ai](https://mistral.ai) | ✅ [Console](https://console.mistral.ai) |
+| **xAI** | 🇺🇸 USA | `Grok-2` | Real-time X integration, fast inference | [→ x.ai](https://x.ai) | ⚠️ X Premium+ |
+| **Zhipu AI** | 🇨🇳 China | `GLM-4V` | 128K+ context, strong vision & logic | [→ zhipuai.cn](https://www.zhipuai.cn) | ✅ [BigModel](https://open.bigmodel.cn) |
+| **Moonshot AI** | 🇨🇳 China | `Kimi Chat` | 200K+ context, document & spreadsheet analysis | [→ moonshot.cn](https://www.moonshot.cn) | ✅ [Platform](https://platform.moonshot.cn) |
+| **DeepSeek** | 🇨🇳 China | `DeepSeek-V3` | World-class code generation (100+ langs) | [→ deepseek.com](https://deepseek.com) | ✅ [Platform](https://platform.deepseek.com) |
+| **Alibaba Tongyi** | 🇨🇳 China | `Qwen2.5`, `Qwen-VL` | Full-stack: text, image, voice, video | [→ tongyi.aliyun.com](https://tongyi.aliyun.com) | ✅ [DashScope](https://dashscope.aliyun.com) |
+| **Baidu ERNIE** | 🇨🇳 China | `ERNIE Bot 5.0` | Enterprise NLP, Chinese language leader | [→ qianfan.baidu.com](https://qianfan.baidu.com) | ✅ [WENXIN](https://cloud.baidu.com/doc/WENXINWORKSHOP) |
+
+---
+
+## 🔓 **Open & Developer-First Models**
+
+| Model | Context | Open? | Best For | 🚀 Access |
+|------|--------|-------|--------|--------|
+| **Llama 3.2 (90B)** | 128K | ✅ | General AI, multilingual apps | [Hugging Face](https://huggingface.co/meta-llama/Llama-3.2-90B) |
+| **Qwen2.5-72B** | 32K | ✅ | Bilingual (EN/ZH), coding | [Qwen HF](https://huggingface.co/Qwen/Qwen2.5-72B) |
+| **DeepSeek-Coder-V2** | 128K | ✅ | 100+ programming languages | [DeepSeek Coder](https://deepseek.com/coder) |
+| **Mistral Large 2** | 128K | ❌ | Commercial, compliant apps | [Mistral Console](https://console.mistral.ai) |
+| **Gemma 2 (27B)** | 8K | ✅ | On-device, lightweight AI | [Google Gemma](https://ai.google.dev/gemma) |
+
+---
+
+## 🖼️ **Multimodal Capabilities**
+
+| Platform | 📷 Image In | 🎨 Image Gen | 🎙️ Voice In | 🔊 Voice Out | ⚡ Real-Time |
+|--------|------------|-------------|-------------|--------------|------------|
+| **GPT-4o** | ✅ | ✅ (DALL·E 3) | ✅ | ✅ | ✅ |
+| **Gemini 2.0** | ✅ | ✅ (Imagen 3) | ✅ | ✅ | ✅ |
+| **Claude 3.5 Sonnet** | ✅ | ❌ | ❌ | ❌ | ❌ |
+| **Qwen-VL** | ✅ | ❌ | ✅ | ✅ | ⚠️ |
+| **GLM-4V** | ✅ | ❌ | ✅ | ✅ | ⚠️ |
+| **Kimi** | ✅ | ❌ | ❌ | ❌ | ❌ |
+
+---
+
+## 🧰 **Developer Toolkit**
+
+| Purpose | Tool |
+|--------|------|
+| **Unified API** | [OpenRouter.ai](https://openrouter.ai) — 150+ models, one endpoint |
+| **Live Benchmarks** | [LMSYS Arena](https://chat.lmsys.org) — Human-rated rankings |
+| **Open Models** | [Hugging Face](https://huggingface.co) — Download & deploy |
+| **Local LLMs** | [Ollama](https://ollama.com) • [LM Studio](https://lmstudio.ai) |
+
+---
+
+## 🔒 **Integrity Commitment**
+
+> This dashboard includes **only platforms with**:
+> - ✅ Publicly accessible, secure (HTTPS) websites  
+> - ✅ Demonstrable AI functionality (chat, API, or model access)  
+> - ✅ No pricing, hype, or unverified claims — **pure technical value**  
+>
+> ❌ **Excluded**: Placeholder sites, non-functional demos, or services without global developer access.
+
+---
+
+<div align="center">
+
+### 🌟 **Build the Future. One Token at a Time.**
+
+[![Follow on X](https://img.shields.io/badge/X_@CaffeineFeb-000000?style=flat&logo=x&logoColor=white&label=Follow%20Updates)](https://x.com/CaffeineFeb/)
+
+</div>
