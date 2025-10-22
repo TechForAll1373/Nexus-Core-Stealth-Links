@@ -1989,3 +1989,66 @@ Available on **iOS & Android**—generate content on the go, wherever inspiratio
   🔍 Intelligent. Automated. Future-ready.<br>
   Transform your digital marketing with cutting-edge AI.
 </p>
+
+# 🧠 Ivira AI — The First Full-Featured AI Assistant for Persian Speakers
+
+> 🌐 **Built for Persian. Powered by AI.**  
+> A smart, intuitive, and culturally-aware AI companion designed exclusively for Farsi-speaking users.
+
+Ivira is a cutting-edge AI application that brings the full potential of artificial intelligence to Persian speakers—enabling effortless creation, communication, and productivity in your native language.
+
+---
+
+## ✨ Core Services
+
+### 🎨 **Imazh**  
+Turn simple text prompts into stunning AI-generated images—no design skills required.
+
+### 🖌️ **Palet**  
+Edit photos like a pro: remove unwanted objects, enhance resolution, change backgrounds, and more—**without complex software**.
+
+### 🎙️ **Avanegar**  
+Speak naturally, and let Ivira transcribe your voice into clean, punctuated Persian text—perfect for notes, books, or daily thoughts.
+
+### 🤖 **Daniyar**  
+Your all-in-one AI assistant: coding help, translation, content creation, editing, Q&A, learning, and entertainment—all in fluent Persian.
+
+### 🔊 **Avasho**  
+Convert any Persian text into lifelike speech with natural intonation and rhythm—ideal for audiobooks, accessibility, or language practice.
+
+---
+
+## 🌟 Why Ivira?
+
+✅ **Native Persian Understanding**  
+Full support for Persian language, dialects, and colloquial expressions—unlike global AI tools.
+
+✅ **High Accuracy & Smart Punctuation**  
+Precise speech-to-text and text-to-speech with contextual awareness and proper punctuation.
+
+✅ **State-of-the-Art AI Models**  
+Built on the latest generative and linguistic AI architectures for fast, reliable results.
+
+✅ **Optimized for Daily Use**  
+From students to professionals, creators to casual users—Ivira adapts to your needs.
+
+---
+
+## 🎯 Who Benefits?
+
+- 📚 **Students** – Summarize lessons, generate study aids, and convert lectures to text  
+- 💼 **Professionals** – Dictate emails, edit documents, and automate routine tasks  
+- 🎨 **Content Creators** – Generate visuals, scripts, and voiceovers in seconds  
+- 👨‍👩‍👧 **Everyone** – A truly personal AI that speaks *your* language
+
+---
+
+## 🚀 Get Started
+
+Unlock the future of AI—**in Persian**.
+
+🔗 [Explore Ivira.ai](https://ivira.ai/)
+
+---
+
+> 🌱 *Ivira: Where Persian meets intelligence.*  
