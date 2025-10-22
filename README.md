@@ -1,5 +1,77 @@
 # 🌌 Nexus Core – Stealth Links
 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://houshyar24.ir">
+    <img src="https://houshyar24.ir/assets/logo.png" alt="Houshyar24 Logo" width="120" height="120">
+  </a>
+
+  <h3 align="center">Houshyar24 — Your AI Gateway for Iranians</h3>
+
+  <p align="center">
+    Seamless access to global AI models like Claude, GPT, Gemini — without VPNs, foreign SIM cards, or USD payments.
+    <br />
+    <a href="https://houshyar24.ir"><strong>Explore the Platform »</strong></a>
+    <br />
+    <br />
+    <a href="https://houshyar24.ir/about-us">About Us</a>
+    ·
+    <a href="https://houshyar24.ir">Website</a>
+  </p>
+</p>
+
+---
+
+## 🚀 Overview
+
+**Houshyar24** is an Iranian deep-tech startup focused on democratizing access to cutting-edge artificial intelligence. We eliminate traditional barriers—such as international payments, VPN dependency, and foreign infrastructure—so every Iranian innovator, student, and professional can harness the power of world-class AI models instantly and legally.
+
+### 🔑 Key Features
+
+- ✅ **Direct access** to top global AI models (Claude, GPT, Gemini, and more)  
+- 💳 **Local payment support** — no USD or international cards required  
+- 🌐 **No VPN needed** — fully compliant and accessible within Iran  
+- 🧠 **AI empowerment** for developers, researchers, and businesses  
+- ⚡ **Low-latency, high-availability** infrastructure optimized for Iranian users
+
+---
+
+## 🎯 Mission
+
+> **"To place the world’s most advanced AI tools in the hands of every Iranian — fueling innovation, education, and progress."**
+
+We believe technology should have no borders. Houshyar24 bridges the gap between global AI advancements and local accessibility.
+
+---
+
+## 📸 Platform Preview
+
+[![Houshyar24 Interface](https://i.imgur.com/haM0imQ.png)](https://houshyar24.ir)
+
+*(Click the image above to visit the live platform!)*
+
+---
+
+## 🌍 Visit Us
+
+- 🔗 **Official Website**: [https://houshyar24.ir](https://houshyar24.ir)  
+- 📖 **About Us**: [https://houshyar24.ir/about-us](https://houshyar24.ir/about-us)
+
+---
+
+## 🤝 Join the Movement
+
+We’re building more than a platform — we’re cultivating an AI-native generation in Iran.  
+Whether you're a developer, educator, startup founder, or curious learner — **Houshyar24 is your launchpad**.
+
+---
+
+<p align="center">
+  <em>Empowering Iran with AI — one prompt at a time.</em>
+</p>
+
+
 # 🌐 AvalAI – The Ultimate Persian AI Platform
 
 > **Unlock 70+ cutting-edge AI models — GPT-5, Claude 4.5, Grok 4, Gemini 2.5 Pro, Llama 3.1 405B, Qwen3 235B & more — all in one place, with Rial pricing, zero ads, and no VPN needed.**
