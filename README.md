@@ -1,16 +1,12 @@
 # 🌌 Nexus Core – Stealth Links
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT HEADER -->
 <br />
 <p align="center">
-  <a href="https://houshyar24.ir">
-    <img src="https://houshyar24.ir/assets/logo.png" alt="Houshyar24 Logo" width="120" height="120">
-  </a>
-
   <h3 align="center">Houshyar24 — Your AI Gateway for Iranians</h3>
 
   <p align="center">
-    Seamless access to global AI models like Claude, GPT, Gemini — without VPNs, foreign SIM cards, or USD payments.
+    Seamless access to global AI models like Claude, GPT, and Gemini — without VPNs, foreign SIM cards, or USD payments.
     <br />
     <a href="https://houshyar24.ir"><strong>Explore the Platform »</strong></a>
     <br />
@@ -51,6 +47,8 @@ We believe technology should have no borders. Houshyar24 bridges the gap between
 
 *(Click the image above to visit the live platform!)*
 
+> ⚠️ **Note**: If the image doesn’t load, please ensure JavaScript is enabled in your browser when viewing on Imgur. For GitHub, the image will render correctly as long as the direct link (`https://i.imgur.com/haM0imQ.png`) is valid.
+
 ---
 
 ## 🌍 Visit Us
@@ -70,7 +68,6 @@ Whether you're a developer, educator, startup founder, or curious learner — **
 <p align="center">
   <em>Empowering Iran with AI — one prompt at a time.</em>
 </p>
-
 
 # 🌐 AvalAI – The Ultimate Persian AI Platform
 
