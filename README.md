@@ -1,5 +1,86 @@
 # 🌌 Nexus Core – Stealth Links
 
+# 🌐 AvalAI – The Ultimate Persian AI Platform
+
+> **Unlock 70+ cutting-edge AI models — GPT-5, Claude 4.5, Grok 4, Gemini 2.5 Pro, Llama 3.1 405B, Qwen3 235B & more — all in one place, with Rial pricing, zero ads, and no VPN needed.**
+
+[![✨ Start Your AI Journey Now – Free & Powerful](https://i.imgur.com/KKj9Jh7.jpeg)](https://chat.avalai.ir/?ref=FS0PCP2)
+
+> 💫 **Click the image above to launch AvalAI instantly!**  
+> 🎁 **New users get 10,000 IRR free credit!**
+
+---
+
+## 🚀 Why AvalAI?
+
+✅ **Free access** to top models:  
+- `GPT-5 Nano` • `GPT-4o` • `Claude 3.5 Haiku` • `Gemini 2.5 Flash Lite` • `Llama3.1 70B` • `DeepSeek Chat` • `GPT-4o mini` • `GPT-4.1 mini`
+
+💎 **Plus Plan (Only 579,000 IRR)** unlocks:
+- **GPT-5**, **Claude 4.5 Sonnet**, **Grok 4**, **Gemini 2.5 Pro**, **Qwen3 235B**, **DeepSeek R1**, **Llama3.1 405B**, and 20+ more  
+- **Chain-of-Thought reasoning**, **Custom AI Agents**, **File Upload**, **Web Search**, **Code Analyzer**, **Math Solver**, **AI Image Generator**  
+- **24-hour money-back guarantee**  
+- **100,000 IRR API credit** for Plus users
+
+---
+
+## 🔗 Quick Links
+
+| 📌 Resource | 🔗 URL |
+|------------|------|
+| **💬 Chat Now (Referral – Get Bonus!)** | [https://chat.avalai.ir/?ref=FS0PCP2](https://chat.avalai.ir/?ref=FS0PCP2) |
+| **🌐 Official Website** | [https://avalai.ir/](https://avalai.ir/) |
+| **📱 Android App (APK)** | [Download APK](https://avalai-publics.s3.ir-thr-at1.arvanstorage.ir/avalai-android.apk.zip) |
+| **📲 Google Play** | [Play Store](https://play.google.com/store/apps/details?id=com.avalai.avalai) |
+| **❓ FAQ** | [Frequently Asked Questions](https://avalai.ir/frequently-asked-questions/) |
+| **📘 How to Use** | [User Guide](https://avalai.ir/how-to-use-avalai/) |
+| **💼 Affiliate Program** | [Earn 10% Commission](https://avalai.ir/affiliate/) |
+| **📦 All Products** | [AI Models & Features](https://avalai.ir/products/) |
+| **🎓 For Academia** | [Academic Institutions Guide](https://avalai.ir/blog/academic-institutions/) |
+| **📞 Contact Us** | [Support Page](https://avalai.ir/contact-us-avalai/) |
+| **⚖️ Terms of Use** | [Legal Terms](https://avalai.ir/terms-of-use-avalai/) |
+| **🔒 Privacy Policy** | [Data & Privacy](https://avalai.ir/privacy-policy/) |
+| **📡 System Status** | [Live Status Dashboard](https://status.avalai.ir/) |
+
+---
+
+## 🌟 Special Invitation – Your Magic Link!
+
+> 🔥 **Unlock exclusive perks with our referral link!**  
+> ✨ **Get faster onboarding, priority support, and bonus credits!**
+
+### 👉 [✨ **Launch AvalAI Now – Free & Instant**](https://chat.avalai.ir/?ref=FS0PCP2) 👈
+
+> 🎯 **Why wait?** Join thousands of Persian-speaking innovators already using AvalAI to:
+> - Write code, essays, and reports  
+> - Analyze PDFs, Excel sheets, and images  
+> - Build custom AI agents  
+> - Generate stunning AI art  
+> - Access real-time web search  
+> - And much more — **all in Farsi!**
+
+---
+
+## 💻 For Developers
+
+Use **260+ models via a single API key** — compatible with **OpenAI**, **Anthropic**, and **Google GenAI** SDKs.
+
+```python
+from openai import OpenAI
+
+client = OpenAI(
+    api_key="your-avalai-api-key",
+    base_url="https://api.avalai.ir/v1"
+)
+
+response = client.chat.completions.create(
+    model="gpt-5",
+    messages=[{"role": "user", "content": "Explain quantum computing in simple terms."}]
+)
+print(response.choices[0].message.content)
+
+
+
 # 🌐 Charisma Financial Group – Invest & Grow
 
 Join **Charisma Financial Group**—a licensed financial services provider offering investment, asset management, insurance, and brokerage solutions.
