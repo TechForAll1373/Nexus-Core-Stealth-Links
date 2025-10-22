@@ -1906,14 +1906,6 @@ No foreign cards. No subscriptions. Just **affordable, transparent, one-time pur
 
 ## 💎 Flexible & Fair Pricing (One-Time)
 
-| Plan | Price (IRR) | Highlights |
-|------|-------------|-----------|
-| 📝 **100K Words** | 35,000 | GPT-4o-mini, ideal for blogs & research |
-| 🖼️ **8 AI Images** | 91,000 | DALL·E 3, Midjourney, Stable Diffusion |
-| 🎵 **10 AI Musics** | 180,000 | Suno v4.5 — full songs from text |
-| 🎥 **5 AI Videos** | 196,000–2,187,000 | Kling, Luma, Minimax, Google Veo 2 |
-| 📢 **100 Min Audio** | 100,000–270,000 | Whisper & GPT-4o TTS with Persian accent |
-
 ✅ **No recurring fees** • 💳 **Rial payments** • 🔐 **Secure checkout**
 
 ---
