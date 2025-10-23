@@ -1,5 +1,115 @@
 # 🌌 Nexus Core – Stealth Links
 
+# 🛡️ Online vs. In-Person Insurance in Iran: A Complete Guide
+
+Issuing an insurance policy—whether **online** or **in-person**—is a critical decision that affects convenience, speed, cost, and reliability. Below, we break down everything you need to know about insurance types, providers, and why **online issuance is the future**.
+
+---
+
+## 📸 Insurance in Action: Real-World Examples
+
+Click any image to view it in place (🔒 **click-lock enabled** – no new tabs will open):
+
+<div align="center">
+
+[<img src="https://i.imgur.com/vhO6gt1.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/vhO6gt1.jpeg)
+[<img src="https://i.imgur.com/J1ZEA79.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/J1ZEA79.jpeg)
+[<img src="https://i.imgur.com/c4bNu0F.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/c4bNu0F.jpeg)
+[<img src="https://i.imgur.com/JSLHav5.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/JSLHav5.jpeg)  
+[<img src="https://i.imgur.com/zvYbVZY.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/zvYbVZY.jpeg)
+[<img src="https://i.imgur.com/6dDJjen.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/6dDJjen.jpeg)
+[<img src="https://i.imgur.com/uukRtvT.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/uukRtvT.jpeg)
+[<img src="https://i.imgur.com/vbQQ7RJ.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/vbQQ7RJ.jpeg)
+
+</div>
+
+> 💡 **Note**: All images are **click-locked** using standard Markdown—GitHub prevents external links from opening in new tabs by default, ensuring a seamless in-page experience.
+
+---
+
+## 🔍 Types of Insurance Available in Iran
+
+Iran offers a wide range of insurance products, including:
+
+| Category | Common Types |
+|--------|--------------|
+| **Vehicle** | Third-party liability, Comprehensive (Casco), Passenger insurance |
+| **Health** | Basic health, Supplementary health, Critical illness |
+| **Life** | Term life, Whole life, Endowment policies |
+| **Property** | Home, Fire, Natural disaster, Theft |
+| **Travel** | Domestic & international travel insurance |
+| **Business** | Liability, Cargo, Professional indemnity |
+| **Agriculture** | Crop, Livestock, Weather-indexed insurance |
+| **Specialized** | Cyber insurance, Event cancellation, Pet insurance |
+
+---
+
+## ⚖️ Online vs. In-Person Insurance Issuance: Key Differences
+
+| Feature | 🌐 **Online Insurance** | 🏢 **In-Person Insurance** |
+|--------|------------------------|----------------------------|
+| **Time Required** | 5–15 minutes | 30+ minutes (including travel) |
+| **Document Submission** | Digital upload (PDF, photo) | Physical copies required |
+| **Availability** | 24/7 | Business hours only |
+| **Price Transparency** | Instant quotes, no hidden fees | May include agent commissions |
+| **Policy Delivery** | Instant digital copy + email | Physical document (delayed) |
+| **Support** | Chatbots, email, phone | Face-to-face consultation |
+| **Eco-Friendly** | ✅ Paperless | ❌ Paper-based |
+| **Accessibility** | Nationwide (even rural areas) | Limited to agency locations |
+
+✅ **Verdict**: Online insurance is **faster, cheaper, greener, and more accessible**—especially through trusted platforms like **Azki Insurance**, **Charisma Insurance**, and the **Insurance Market** portal.
+
+---
+
+## 🏢 Licensed Insurance Companies in Iran (2025)
+
+Below is a comprehensive list of active insurance providers authorized by the **Central Insurance of the Islamic Republic of Iran**:
+
+1. **Asia Insurance**
+2. **Alborz Insurance**
+3. **Ayandeh Insurance**
+4. **Bimeh Iran (Iran Insurance Co.)**
+5. **Caspian Insurance**
+6. **Dana Insurance**
+7. **Kosar Insurance**
+8. **Mellat Insurance**
+9. **Mo’asseseh Insurance**
+10. **Novin Insurance**
+11. **Parsian Insurance**
+12. **Pasargad Insurance**
+13. **Refah Insurance**
+14. **Saman Insurance**
+15. **Sina Insurance**
+16. **Tosee Ta’min Insurance**
+17. **Amin Insurance**
+18. **Atieh Insurance**
+19. **Azki Insurance** 🌐 *(Digital-first platform)*
+20. **Charisma Insurance** 🌐 *(Tech-driven, user-friendly)*
+21. **Insurance Market** 🌐 *(Official government-backed online portal)*
+
+> 🔗 **Tip**: Platforms like **Azki**, **Charisma**, and **Insurance Market** offer fully digital experiences—from quote to e-policy—without needing to visit an office.
+
+---
+
+## 🚀 Why You Should Choose Online Insurance
+
+- **Save Time**: Skip queues and paperwork.
+- **Real-Time Tracking**: Monitor your application status instantly.
+- **Secure & Verified**: All digital policies are legally valid and verifiable via national insurance databases.
+- **Eco-Conscious**: Reduce paper waste and carbon footprint.
+- **Always Available**: Buy insurance at 2 a.m. if you need to!
+
+With rising digital adoption and regulatory support, **online insurance is not just convenient—it’s essential**.
+
+---
+
+## 📌 Final Note
+
+📘 **Please read all sections of this README carefully**. Understanding your insurance options empowers you to make smarter, faster, and more cost-effective decisions—whether you're insuring a car, your health, or your business.
+
+Stay protected. Stay informed. Go digital. 💻🔐
+
+
 <div align="center">
 
 # 🌐 Power Your Digital Journey with CafePersian & Payment4
