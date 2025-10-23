@@ -1,114 +1,126 @@
 # 🌌 Nexus Core – Stealth Links
 
-# 🛡️ Online vs. In-Person Insurance in Iran: A Complete Guide
+# 🛡️ The Future of Insurance in Iran: Digital, Instant & Trusted
 
-Issuing an insurance policy—whether **online** or **in-person**—is a critical decision that affects convenience, speed, cost, and reliability. Below, we break down everything you need to know about insurance types, providers, and why **online issuance is the future**.
+In today’s fast-paced world, **issuing an insurance policy should be as simple as tapping your screen**. Whether it’s your car, health, home, or business—**online insurance** delivers speed, transparency, and reliability like never before.
+
+Discover why millions in Iran are switching from traditional agencies to **digital-first platforms** like **Azki Insurance**, **Charisma Insurance**, and the official **Insurance Market** portal.
 
 ---
 
-## 📸 Insurance in Action: Real-World Examples
+## 🖼️ Real Interfaces. Real Trust. Zero Hassle.
 
-Click any image to view it in place (🔒 **click-lock enabled** – no new tabs will open):
+These aren’t mockups—they’re **actual screenshots** from live insurance platforms used daily across Iran.  
+Tap any image to preview it **in place** (🔒 **no new tabs**, no redirects—just pure focus).
 
 <div align="center">
 
-[<img src="https://i.imgur.com/vhO6gt1.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/vhO6gt1.jpeg)
-[<img src="https://i.imgur.com/J1ZEA79.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/J1ZEA79.jpeg)
-[<img src="https://i.imgur.com/c4bNu0F.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/c4bNu0F.jpeg)
-[<img src="https://i.imgur.com/JSLHav5.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/JSLHav5.jpeg)  
-[<img src="https://i.imgur.com/zvYbVZY.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/zvYbVZY.jpeg)
-[<img src="https://i.imgur.com/6dDJjen.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/6dDJjen.jpeg)
-[<img src="https://i.imgur.com/uukRtvT.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/uukRtvT.jpeg)
-[<img src="https://i.imgur.com/vbQQ7RJ.jpeg" width="180" style="border-radius:12px; margin:4px;">](https://i.imgur.com/vbQQ7RJ.jpeg)
+<a href="https://i.imgur.com/vhO6gt1.jpeg"><img src="https://i.imgur.com/vhO6gt1.jpeg" width="210" style="border-radius:18px; box-shadow:0 6px 20px rgba(0,0,0,0.12); margin:8px; transition:transform 0.25s ease, box-shadow 0.25s ease;" onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 8px 24px rgba(0,0,0,0.18)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.12)'"></a>
+<a href="https://i.imgur.com/J1ZEA79.jpeg"><img src="https://i.imgur.com/J1ZEA79.jpeg" width="210" style="border-radius:18px; box-shadow:0 6px 20px rgba(0,0,0,0.12); margin:8px; transition:transform 0.25s ease, box-shadow 0.25s ease;" onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 8px 24px rgba(0,0,0,0.18)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.12)'"></a>
+<a href="https://i.imgur.com/c4bNu0F.jpeg"><img src="https://i.imgur.com/c4bNu0F.jpeg" width="210" style="border-radius:18px; box-shadow:0 6px 20px rgba(0,0,0,0.12); margin:8px; transition:transform 0.25s ease, box-shadow 0.25s ease;" onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 8px 24px rgba(0,0,0,0.18)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.12)'"></a>
+<a href="https://i.imgur.com/JSLHav5.jpeg"><img src="https://i.imgur.com/JSLHav5.jpeg" width="210" style="border-radius:18px; box-shadow:0 6px 20px rgba(0,0,0,0.12); margin:8px; transition:transform 0.25s ease, box-shadow 0.25s ease;" onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 8px 24px rgba(0,0,0,0.18)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.12)'"></a>
+
+<a href="https://i.imgur.com/zvYbVZY.jpeg"><img src="https://i.imgur.com/zvYbVZY.jpeg" width="210" style="border-radius:18px; box-shadow:0 6px 20px rgba(0,0,0,0.12); margin:8px; transition:transform 0.25s ease, box-shadow 0.25s ease;" onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 8px 24px rgba(0,0,0,0.18)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.12)'"></a>
+<a href="https://i.imgur.com/6dDJjen.jpeg"><img src="https://i.imgur.com/6dDJjen.jpeg" width="210" style="border-radius:18px; box-shadow:0 6px 20px rgba(0,0,0,0.12); margin:8px; transition:transform 0.25s ease, box-shadow 0.25s ease;" onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 8px 24px rgba(0,0,0,0.18)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.12)'"></a>
+<a href="https://i.imgur.com/uukRtvT.jpeg"><img src="https://i.imgur.com/uukRtvT.jpeg" width="210" style="border-radius:18px; box-shadow:0 6px 20px rgba(0,0,0,0.12); margin:8px; transition:transform 0.25s ease, box-shadow 0.25s ease;" onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 8px 24px rgba(0,0,0,0.18)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.12)'"></a>
+<a href="https://i.imgur.com/vbQQ7RJ.jpeg"><img src="https://i.imgur.com/vbQQ7RJ.jpeg" width="210" style="border-radius:18px; box-shadow:0 6px 20px rgba(0,0,0,0.12); margin:8px; transition:transform 0.25s ease, box-shadow 0.25s ease;" onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 8px 24px rgba(0,0,0,0.18)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.12)'"></a>
 
 </div>
 
-> 💡 **Note**: All images are **click-locked** using standard Markdown—GitHub prevents external links from opening in new tabs by default, ensuring a seamless in-page experience.
+> 💡 **Note**: These interfaces belong to **Azki Insurance**, **Charisma Insurance**, and the national **Insurance Market**—Iran’s most trusted digital insurance ecosystems.
 
 ---
 
-## 🔍 Types of Insurance Available in Iran
+## 📊 Insurance Types in Iran: A Complete Overview
 
-Iran offers a wide range of insurance products, including:
+Iran’s insurance landscape covers nearly every aspect of personal and commercial life. Here’s a **structured breakdown** of available coverage:
 
-| Category | Common Types |
-|--------|--------------|
-| **Vehicle** | Third-party liability, Comprehensive (Casco), Passenger insurance |
-| **Health** | Basic health, Supplementary health, Critical illness |
-| **Life** | Term life, Whole life, Endowment policies |
-| **Property** | Home, Fire, Natural disaster, Theft |
-| **Travel** | Domestic & international travel insurance |
-| **Business** | Liability, Cargo, Professional indemnity |
-| **Agriculture** | Crop, Livestock, Weather-indexed insurance |
-| **Specialized** | Cyber insurance, Event cancellation, Pet insurance |
+| 🏷️ Category        | 📋 Common Insurance Products                                                                 |
+|------------------|---------------------------------------------------------------------------------------------|
+| **🚗 Motor**       | Third-party liability, Comprehensive (Casco), Passenger accident, Theft & Fire               |
+| **🏥 Health**      | Basic public coverage, Supplementary private plans, Critical illness, Hospital cash benefit  |
+| **🧍 Life**        | Term life, Whole life, Endowment, Group life (employer-sponsored)                           |
+| **🏠 Property**    | Home contents, Building structure, Fire, Earthquake, Flood, Burglary                         |
+| **✈️ Travel**      | Domestic & international medical, Trip cancellation, Lost luggage, Emergency evacuation      |
+| **🏭 Business**    | Public liability, Professional indemnity, Cargo, Business interruption, Cyber risk           |
+| **🌾 Agriculture** | Crop yield protection, Livestock mortality, Greenhouse insurance, Weather-indexed policies   |
+| **🎯 Specialized** | Event insurance, Pet health, Drone liability, Freelancer protection                          |
 
----
-
-## ⚖️ Online vs. In-Person Insurance Issuance: Key Differences
-
-| Feature | 🌐 **Online Insurance** | 🏢 **In-Person Insurance** |
-|--------|------------------------|----------------------------|
-| **Time Required** | 5–15 minutes | 30+ minutes (including travel) |
-| **Document Submission** | Digital upload (PDF, photo) | Physical copies required |
-| **Availability** | 24/7 | Business hours only |
-| **Price Transparency** | Instant quotes, no hidden fees | May include agent commissions |
-| **Policy Delivery** | Instant digital copy + email | Physical document (delayed) |
-| **Support** | Chatbots, email, phone | Face-to-face consultation |
-| **Eco-Friendly** | ✅ Paperless | ❌ Paper-based |
-| **Accessibility** | Nationwide (even rural areas) | Limited to agency locations |
-
-✅ **Verdict**: Online insurance is **faster, cheaper, greener, and more accessible**—especially through trusted platforms like **Azki Insurance**, **Charisma Insurance**, and the **Insurance Market** portal.
+> ✨ **Did you know?** Over **70%** of new motor insurance policies in urban Iran are now issued **online**—a trend accelerating yearly.
 
 ---
 
-## 🏢 Licensed Insurance Companies in Iran (2025)
+## ⚖️ Online vs. In-Person Insurance: The Ultimate Comparison
 
-Below is a comprehensive list of active insurance providers authorized by the **Central Insurance of the Islamic Republic of Iran**:
+This **magic comparison table** reveals why digital issuance is revolutionizing the industry:
 
-1. **Asia Insurance**
-2. **Alborz Insurance**
-3. **Ayandeh Insurance**
-4. **Bimeh Iran (Iran Insurance Co.)**
-5. **Caspian Insurance**
-6. **Dana Insurance**
-7. **Kosar Insurance**
-8. **Mellat Insurance**
-9. **Mo’asseseh Insurance**
-10. **Novin Insurance**
-11. **Parsian Insurance**
-12. **Pasargad Insurance**
-13. **Refah Insurance**
-14. **Saman Insurance**
-15. **Sina Insurance**
-16. **Tosee Ta’min Insurance**
-17. **Amin Insurance**
-18. **Atieh Insurance**
-19. **Azki Insurance** 🌐 *(Digital-first platform)*
-20. **Charisma Insurance** 🌐 *(Tech-driven, user-friendly)*
-21. **Insurance Market** 🌐 *(Official government-backed online portal)*
+| 🔍 Feature                | 🌐 **Online Insurance**                                  | 🏢 **In-Person (Traditional)**                     |
+|--------------------------|----------------------------------------------------------|----------------------------------------------------|
+| **⏱️ Time to Issue**       | **2–10 minutes**                                         | 30–120+ minutes (incl. travel & waiting)           |
+| **📄 Documentation**       | Upload photos/PDFs via phone                             | Physical copies, stamps, in-person verification    |
+| **🕒 Availability**        | **24/7/365**                                             | 8 AM – 4 PM, weekdays only                         |
+| **💰 Cost Efficiency**     | **Lower premiums** (no agent commission)                 | Often includes hidden fees or markups              |
+| **📬 Policy Delivery**     | Instant PDF + SMS/email + national e-policy registry     | Paper copy (delivered in days)                     |
+| **🌍 Accessibility**       | Works in **rural & remote areas**                        | Limited to agency locations                        |
+| **♻️ Environmental Impact**| **100% paperless**                                       | Paper-heavy, carbon-intensive                      |
+| **🔐 Legal Validity**      | **Fully valid** (linked to Central Insurance database)   | Valid, but harder to verify digitally              |
+| **📱 User Experience**     | Guided flow, real-time help, multilingual support        | Dependent on agent knowledge & attitude            |
 
-> 🔗 **Tip**: Platforms like **Azki**, **Charisma**, and **Insurance Market** offer fully digital experiences—from quote to e-policy—without needing to visit an office.
+✅ **Conclusion**: Online insurance isn’t just convenient—it’s **smarter, fairer, faster, and greener**.
 
 ---
 
-## 🚀 Why You Should Choose Online Insurance
+## 🏢 Official Insurance Providers in Iran (2025)
 
-- **Save Time**: Skip queues and paperwork.
-- **Real-Time Tracking**: Monitor your application status instantly.
-- **Secure & Verified**: All digital policies are legally valid and verifiable via national insurance databases.
-- **Eco-Conscious**: Reduce paper waste and carbon footprint.
-- **Always Available**: Buy insurance at 2 a.m. if you need to!
+All companies below are licensed by the **Central Insurance of the Islamic Republic of Iran**.  
+Digital-native platforms are marked with 🌐.
 
-With rising digital adoption and regulatory support, **online insurance is not just convenient—it’s essential**.
+### 🔹 Traditional & Hybrid Insurers
+1. Asia Insurance  
+2. Alborz Insurance  
+3. Ayandeh Insurance  
+4. Bimeh Iran (Iran Insurance Co.)  
+5. Caspian Insurance  
+6. Dana Insurance  
+7. Kosar Insurance  
+8. Mellat Insurance  
+9. Mo’asseseh Insurance  
+10. Novin Insurance  
+11. Parsian Insurance  
+12. Pasargad Insurance  
+13. Refah Insurance  
+14. Saman Insurance  
+15. Sina Insurance  
+16. Tosee Ta’min Insurance  
+17. Amin Insurance  
+18. Atieh Insurance  
+
+### 🔹 Digital-First Platforms (Recommended for Online Issuance)
+19. **🌐 Azki Insurance** – *Fastest mobile experience, AI-powered quotes*  
+20. **🌐 Charisma Insurance** – *User-friendly interface, 24/7 chat support*  
+21. **🌐 Insurance Market** – *Official government-backed portal (bazarbimeh.ir)*  
+
+> 🔗 **Pro Insight**: **Azki**, **Charisma**, and **Insurance Market** integrate directly with national databases—ensuring **instant verification**, **real-time policy activation**, and **official compliance**.
 
 ---
 
-## 📌 Final Note
+## 🚀 Why Go Online? The 5 Pillars of Digital Insurance
 
-📘 **Please read all sections of this README carefully**. Understanding your insurance options empowers you to make smarter, faster, and more cost-effective decisions—whether you're insuring a car, your health, or your business.
+1. **⚡ Speed** – Get insured before your coffee gets cold.  
+2. **🔍 Transparency** – See every cost, term, and condition upfront.  
+3. **🛡️ Security** – Bank-grade encryption + national registry linkage.  
+4. **📱 Mobility** – Manage policies from your pocket, anytime.  
+5. **🌱 Sustainability** – Save trees, reduce waste, protect the planet.
 
-Stay protected. Stay informed. Go digital. 💻🔐
+---
 
+## 📌 Final Reminder
+
+📘 **Please read every section of this README thoroughly**.  
+Understanding the **full scope of insurance options**, **provider credibility**, and **digital advantages** empowers you to make **confident, informed decisions**—whether you're protecting your car, your family’s health, or your business assets.
+
+> 💬 **Stay protected. Stay smart. Go digital.**  
+> 🔐 **Your future is insured—in just a few taps.**
 
 <div align="center">
 
