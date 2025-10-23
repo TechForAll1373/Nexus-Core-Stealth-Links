@@ -2,49 +2,38 @@
 
 <div align="center">
 
-  <!-- 🖼️ Fixed Hero Logo — Static • Non-Interactive • High-Impact -->
-  <img src="https://i.imgur.com/FGsUEJc.jpeg" alt="PersiaNexus Ecosystem" width="640" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3); margin: 32px 0; border: 1px solid rgba(255, 255, 255, 0.06);">
-
-  <br>
-
-  <!-- 🌌 Lumina Crypto Portal -->
-  <div style="background: linear-gradient(140deg, #0b0b18 0%, #121228 100%); padding: 26px; border-radius: 20px; margin: 24px auto; max-width: 640px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif; color: #e2e8ff; box-shadow: 0 10px 32px rgba(0, 0, 0, 0.4);">
-    <h3 style="margin: 0; font-weight: 800; font-size: 1.45em; letter-spacing: -0.5px; background: linear-gradient(90deg, #a0a7ff, #d0d4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      ✨ Lumina Crypto Portal
-    </h3>
-    <p style="margin: 12px 0 0; font-size: 1.02em; opacity: 0.94; line-height: 1.55; font-weight: 400;">
-      Client-side encryption that vanishes after use — no servers, no logs, just pure privacy.
-    </p>
-  </div>
-
-  <!-- 🔐 Cafe Persians Password Generator -->
-  <div style="background: linear-gradient(140deg, #0a1222 0%, #0e1a30 100%); padding: 26px; border-radius: 20px; margin: 24px auto; max-width: 640px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif; color: #d5deff; box-shadow: 0 10px 32px rgba(0, 0, 0, 0.4);">
-    <h3 style="margin: 0; font-weight: 800; font-size: 1.45em; letter-spacing: -0.5px; background: linear-gradient(90deg, #8ad9d7, #b0f0ee); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      🔐 Cafe Persians Password Generator
-    </h3>
-    <p style="margin: 12px 0 0; font-size: 1.02em; opacity: 0.94; line-height: 1.55; font-weight: 400;">
-      Military-grade password creation with full control — offline, secure, and instantly disposable.
-    </p>
-  </div>
-
-  <!-- 🌐 PersiaNexus — Digital Lifestyle Ecosystem -->
-  <div style="background: linear-gradient(140deg, #0e1a30 0%, #142442 100%); padding: 26px; border-radius: 20px; margin: 24px auto; max-width: 640px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif; color: #cbd6ff; box-shadow: 0 10px 32px rgba(0, 0, 0, 0.4);">
-    <h3 style="margin: 0; font-weight: 800; font-size: 1.45em; letter-spacing: -0.5px; background: linear-gradient(90deg, #ff9a9e, #fad0c4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      🌐 PersiaNexus — Digital Lifestyle Ecosystem
-    </h3>
-    <p style="margin: 12px 0 0; font-size: 1.02em; opacity: 0.94; line-height: 1.55; font-weight: 400;">
-      Iran’s all-in-one digital hub: real estate, autos, crypto investments, insurance & premium ad networks — unified.
-    </p>
-  </div>
-
-  <br>
-
-  <sub>
-    <em>✨ Zero telemetry • 100% client-side • Open-source ethos • Crafted for trust</em>
-  </sub>
+  <!-- 🖼️ Fixed Hero Logo — Static Only -->
+  <img src="https://i.imgur.com/FGsUEJc.jpeg" alt="PersiaNexus Ecosystem" width="600" style="border-radius: 16px; margin: 28px 0; box-shadow: 0 6px 24px rgba(0,0,0,0.4); border: 1px solid rgba(255,255,255,0.04);">
 
 </div>
 
+<br>
+
+---
+
+### <span style="color:#a0a7ff">  
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="vertical-align: middle; margin-right: 6px;"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"></path></svg>
+  [Lumina Crypto Portal](https://techforall1373.github.io/lumina-crypto-portal/)
+</span>  
+> 🔮 **Type. Encrypt. Vanish.** — Your message turns into unbreakable stardust. Only the chosen one can decode it. No server. No trace. Pure magic. ✨
+
+### <span style="color:#8ad9d7">  
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="vertical-align: middle; margin-right: 6px;"><path d="M12 1v22M4 7h16M4 12h16M4 17h16"></path></svg>
+  [Cafe Persians Password Generator](https://techforall1373.github.io/cafe-persians-password-gen/)
+</span>  
+> 🛡️ **One click. Infinite security.** — Generate cryptographically strong passwords with symbols, numbers, and chaos. Offline. Unhackable. Yours forever. 💥
+
+### <span style="color:#ff9a9e">  
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="vertical-align: middle; margin-right: 6px;"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12 20.73 6.96"></polyline><line x1="12" y1="22.5" x2="12" y2="12"></line></svg>
+  [PersiaNexus — Digital Lifestyle Hub](https://techforall1373.github.io/PersiaNexus/)
+</span>  
+> 🌍 **Iran’s all-in-one digital gateway** — Real estate, cars, crypto, insurance & premium ads. Built for Persian speakers. Powered by trust. 🚀
+
+---
+
+<div align="center">
+  <sub><em>🌑 Minimal • Dark • Magic • Zero telemetry • 100% client-side</em></sub>
+</div>
 
 # 🛡️ The Future of Insurance in Iran: Digital, Instant & Trusted
 
