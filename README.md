@@ -1,5 +1,51 @@
 # 🌌 Nexus Core – Stealth Links
 
+<div align="center">
+
+  <!-- 🖼️ Fixed Hero Logo — Static • Non-Interactive • High-Impact -->
+  <img src="https://i.imgur.com/FGsUEJc.jpeg" alt="PersiaNexus Ecosystem" width="640" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3); margin: 32px 0; border: 1px solid rgba(255, 255, 255, 0.06);">
+
+  <br>
+
+  <!-- 🌌 Lumina Crypto Portal -->
+  <div style="background: linear-gradient(140deg, #0b0b18 0%, #121228 100%); padding: 26px; border-radius: 20px; margin: 24px auto; max-width: 640px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif; color: #e2e8ff; box-shadow: 0 10px 32px rgba(0, 0, 0, 0.4);">
+    <h3 style="margin: 0; font-weight: 800; font-size: 1.45em; letter-spacing: -0.5px; background: linear-gradient(90deg, #a0a7ff, #d0d4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      ✨ Lumina Crypto Portal
+    </h3>
+    <p style="margin: 12px 0 0; font-size: 1.02em; opacity: 0.94; line-height: 1.55; font-weight: 400;">
+      Client-side encryption that vanishes after use — no servers, no logs, just pure privacy.
+    </p>
+  </div>
+
+  <!-- 🔐 Cafe Persians Password Generator -->
+  <div style="background: linear-gradient(140deg, #0a1222 0%, #0e1a30 100%); padding: 26px; border-radius: 20px; margin: 24px auto; max-width: 640px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif; color: #d5deff; box-shadow: 0 10px 32px rgba(0, 0, 0, 0.4);">
+    <h3 style="margin: 0; font-weight: 800; font-size: 1.45em; letter-spacing: -0.5px; background: linear-gradient(90deg, #8ad9d7, #b0f0ee); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      🔐 Cafe Persians Password Generator
+    </h3>
+    <p style="margin: 12px 0 0; font-size: 1.02em; opacity: 0.94; line-height: 1.55; font-weight: 400;">
+      Military-grade password creation with full control — offline, secure, and instantly disposable.
+    </p>
+  </div>
+
+  <!-- 🌐 PersiaNexus — Digital Lifestyle Ecosystem -->
+  <div style="background: linear-gradient(140deg, #0e1a30 0%, #142442 100%); padding: 26px; border-radius: 20px; margin: 24px auto; max-width: 640px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif; color: #cbd6ff; box-shadow: 0 10px 32px rgba(0, 0, 0, 0.4);">
+    <h3 style="margin: 0; font-weight: 800; font-size: 1.45em; letter-spacing: -0.5px; background: linear-gradient(90deg, #ff9a9e, #fad0c4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      🌐 PersiaNexus — Digital Lifestyle Ecosystem
+    </h3>
+    <p style="margin: 12px 0 0; font-size: 1.02em; opacity: 0.94; line-height: 1.55; font-weight: 400;">
+      Iran’s all-in-one digital hub: real estate, autos, crypto investments, insurance & premium ad networks — unified.
+    </p>
+  </div>
+
+  <br>
+
+  <sub>
+    <em>✨ Zero telemetry • 100% client-side • Open-source ethos • Crafted for trust</em>
+  </sub>
+
+</div>
+
+
 # 🛡️ The Future of Insurance in Iran: Digital, Instant & Trusted
 
 In today’s fast-paced world, **issuing an insurance policy should be as simple as tapping your screen**. Whether it’s your car, health, home, or business—**online insurance** delivers speed, transparency, and reliability like never before.
