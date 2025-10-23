@@ -1,5 +1,41 @@
 # 🌌 Nexus Core – Stealth Links
 
+<div align="center">
+
+# 🌐 Power Your Digital Journey with CafePersian & Payment4
+
+✨ Premium services • 🚀 Crypto payments • 💎 Earn with every referral
+
+---
+
+### 🛡️ Insurance & Social Growth  
+**Services**: Bazaar Insurance • Azki Seller • Karizman • Social Ads (Instagram, Telegram, etc.)  
+<a href="https://paylink.payment4.com/en/cafepersians/a43a45c4-e7b6-42f0-bcf8-8f850cd3b239" target="_blank">
+  <img src="https://i.imgur.com/huuJLZ4.png" width="320" style="border-radius:16px; box-shadow:0 6px 20px rgba(0,120,255,0.25); margin:10px;"/>
+</a>
+
+### 📦 CafePersians.io Service Box  
+**Services**: Real Estate Collab • Auto Marketplace • Social Ads • Blogging • GitHub Tools  
+<a href="https://paylink.payment4.com/en/cafepersians/01e9f9b6-590f-44e9-874f-7d5a5a50355d" target="_blank">
+  <img src="https://i.imgur.com/huuJLZ4.png" width="320" style="border-radius:16px; box-shadow:0 6px 20px rgba(255,60,100,0.25); margin:10px;"/>
+</a>
+
+---
+
+## 🪄 Start Earning Crypto — Instantly!  
+### 🔗 **Sign up with my referral code: `8u0wxfh9`**  
+✅ Get your own **crypto payment gateway**  
+✅ Accept 50+ digital currencies worldwide  
+✅ **Earn passive income** from every merchant you refer!  
+
+<a href="https://dashboard.payment4.com/signup?lang=fa&referral-code=8u0wxfh9" target="_blank">
+  <img src="https://i.imgur.com/ofyEH9S.jpeg" width="360" style="border-radius:18px; box-shadow:0 8px 28px rgba(138, 43, 226, 0.35); margin-top:16px;"/>
+</a>
+
+> 💡 Learn more at: [https://payment4.com/fa](https://payment4.com/fa)
+
+</div>
+
 # 🌐 RakhshAI – The First Iranian AI Platform
 
 [![RakhshAI – Powered by Zal NLP Model](https://imgur.com/iYyP5ZB.png)](https://rakhshai.com/)
