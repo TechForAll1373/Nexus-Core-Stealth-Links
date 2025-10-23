@@ -156,6 +156,8 @@ Powered by advanced language models, it delivers intelligent, fluent, and contex
   <sub>Made with ❤️ for the Persian AI community | © 2025 Irani AI</sub>
 </div>
 
+
+
 <div align="center">
 
   <a href="https://zigap.ir/" target="_blank" rel="noopener noreferrer">
