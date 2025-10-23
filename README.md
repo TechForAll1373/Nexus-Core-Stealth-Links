@@ -3,21 +3,31 @@
 
 <div align="center">
 
-  <!-- 🖼️ High-Quality Hero Banner — Crisp, Clean, Non-Interactive -->
-  <img 
-    src="https://i.imgur.com/FGsUEJc.jpeg" 
-    alt="PersiaNexus Ecosystem — Smart Crypto • Secure Passwords • Digital Lifestyle"
-    width="680"
-    style="
-      border-radius: 20px;
-      margin: 32px 0;
-      box-shadow: 0 14px 48px rgba(0, 0, 0, 0.45);
-      border: 1px solid rgba(255, 255, 255, 0.05);
-      backdrop-filter: blur(2px);
-      display: block;
-      max-width: 90%;
-    "
-  >
+  <!-- 🎨 Custom Text-Based Banner (No External Image Needed) -->
+  <div style="
+    background: linear-gradient(135deg, #0c1525 0%, #121e35 100%);
+    width: 680px;
+    padding: 32px 24px;
+    border-radius: 20px;
+    margin: 32px 0;
+    box-shadow: 0 14px 48px rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    color: #e0e8ff;
+    max-width: 92%;
+  ">
+    <h2 style="margin: 0; font-weight: 800; font-size: 2.1em; letter-spacing: -0.8px; background: linear-gradient(90deg, #a0a7ff, #d0d4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      PersiaNexus Ecosystem
+    </h2>
+    <p style="margin: 14px 0 0; font-size: 1.1em; opacity: 0.88; line-height: 1.5;">
+      Smart Crypto • Secure Passwords • Digital Lifestyle for Persian Speakers
+    </p>
+    <div style="margin-top: 16px; display: flex; justify-content: center; gap: 24px; opacity: 0.7; font-size: 0.92em;">
+      <span>🔐 Lumina</span>
+      <span>🔑 Cafe Persians</span>
+      <span>🌐 PersiaNexus</span>
+    </div>
+  </div>
 
 </div>
 
@@ -29,26 +39,25 @@
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="vertical-align: middle; margin-right: 6px;"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"></path></svg>
   [Lumina Crypto Portal](https://techforall1373.github.io/lumina-crypto-portal/)
 </span>  
-> 🔮 **Type. Encrypt. Vanish.** — Turn your message into stardust with client-side magic. Only the right key brings it back. No server. No logs. Just pure privacy. ✨
+> 🔮 **Encrypt like magic** — Type plain text, get encrypted stardust. Decode only with the right key. 100% client-side. Zero logs. ✨
 
 ### <span style="color:#7de0dc">  
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="vertical-align: middle; margin-right: 6px;"><path d="M12 1v22M4 7h16M4 12h16M4 17h16"></path></svg>
   [Cafe Persians Password Generator](https://techforall1373.github.io/cafe-persians-password-gen/)
 </span>  
-> 🛡️ **One click. Infinite strength.** — Generate cryptographically secure passwords with uppercase, lowercase, numbers & symbols. Fully offline. Instantly yours. 💥
+> 🔒 **Generate unbreakable passwords** — Mix letters, numbers & symbols. Offline. Secure. One click. 💥
 
 ### <span style="color:#ff9eb0">  
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="vertical-align: middle; margin-right: 6px;"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12 20.73 6.96"></polyline><line x1="12" y1="22.5" x2="12" y2="12"></line></svg>
   [PersiaNexus — Digital Lifestyle Hub](https://techforall1373.github.io/PersiaNexus/)
 </span>  
-> 🌍 **Iran’s all-in-one digital ecosystem** — Real estate, cars, crypto, insurance & premium ads. Built for Persian speakers. Powered by vision. 🚀
+> 🌐 **Iran’s all-in-one digital platform** — Real estate, cars, crypto, insurance & ads. Built for Persian speakers. 🚀
 
 ---
 
 <div align="center">
-  <sub><em>🌑 Crisp design • Zero tracking • Client-side only • Open to the world</em></sub>
+  <sub><em>✅ Zero external images • No broken links • Fully GitHub-compatible • Magic in every line</em></sub>
 </div>
-
 
 # 🛡️ The Future of Insurance in Iran: Digital, Instant & Trusted
 
