@@ -1,9 +1,23 @@
 # 🌌 Nexus Core – Stealth Links
 
+
 <div align="center">
 
-  <!-- 🖼️ Fixed Hero Logo — Static Only -->
-  <img src="https://i.imgur.com/FGsUEJc.jpeg" alt="PersiaNexus Ecosystem" width="600" style="border-radius: 16px; margin: 28px 0; box-shadow: 0 6px 24px rgba(0,0,0,0.4); border: 1px solid rgba(255,255,255,0.04);">
+  <!-- 🖼️ High-Quality Hero Banner — Crisp, Clean, Non-Interactive -->
+  <img 
+    src="https://i.imgur.com/FGsUEJc.jpeg" 
+    alt="PersiaNexus Ecosystem — Smart Crypto • Secure Passwords • Digital Lifestyle"
+    width="680"
+    style="
+      border-radius: 20px;
+      margin: 32px 0;
+      box-shadow: 0 14px 48px rgba(0, 0, 0, 0.45);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(2px);
+      display: block;
+      max-width: 90%;
+    "
+  >
 
 </div>
 
@@ -11,29 +25,30 @@
 
 ---
 
-### <span style="color:#a0a7ff">  
+### <span style="color:#b3b8ff">  
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="vertical-align: middle; margin-right: 6px;"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"></path></svg>
   [Lumina Crypto Portal](https://techforall1373.github.io/lumina-crypto-portal/)
 </span>  
-> 🔮 **Type. Encrypt. Vanish.** — Your message turns into unbreakable stardust. Only the chosen one can decode it. No server. No trace. Pure magic. ✨
+> 🔮 **Type. Encrypt. Vanish.** — Turn your message into stardust with client-side magic. Only the right key brings it back. No server. No logs. Just pure privacy. ✨
 
-### <span style="color:#8ad9d7">  
+### <span style="color:#7de0dc">  
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="vertical-align: middle; margin-right: 6px;"><path d="M12 1v22M4 7h16M4 12h16M4 17h16"></path></svg>
   [Cafe Persians Password Generator](https://techforall1373.github.io/cafe-persians-password-gen/)
 </span>  
-> 🛡️ **One click. Infinite security.** — Generate cryptographically strong passwords with symbols, numbers, and chaos. Offline. Unhackable. Yours forever. 💥
+> 🛡️ **One click. Infinite strength.** — Generate cryptographically secure passwords with uppercase, lowercase, numbers & symbols. Fully offline. Instantly yours. 💥
 
-### <span style="color:#ff9a9e">  
+### <span style="color:#ff9eb0">  
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="vertical-align: middle; margin-right: 6px;"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12 20.73 6.96"></polyline><line x1="12" y1="22.5" x2="12" y2="12"></line></svg>
   [PersiaNexus — Digital Lifestyle Hub](https://techforall1373.github.io/PersiaNexus/)
 </span>  
-> 🌍 **Iran’s all-in-one digital gateway** — Real estate, cars, crypto, insurance & premium ads. Built for Persian speakers. Powered by trust. 🚀
+> 🌍 **Iran’s all-in-one digital ecosystem** — Real estate, cars, crypto, insurance & premium ads. Built for Persian speakers. Powered by vision. 🚀
 
 ---
 
 <div align="center">
-  <sub><em>🌑 Minimal • Dark • Magic • Zero telemetry • 100% client-side</em></sub>
+  <sub><em>🌑 Crisp design • Zero tracking • Client-side only • Open to the world</em></sub>
 </div>
+
 
 # 🛡️ The Future of Insurance in Iran: Digital, Instant & Trusted
 
