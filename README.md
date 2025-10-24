@@ -2,51 +2,61 @@
 
 <div align="center">
 
-  <a href="https://takl.ink/Cafepersians.io/" target="_self">
-    <img src="https://i.imgur.com/c0eVnvW.png" width="220" alt="CafePersians Logo" style="border-radius:20px; box-shadow:0 6px 30px rgba(0, 200, 180, 0.25); border:1px solid #1a1a1a;">
+  <a href="https://takl.ink/Cafepersians.io/" target="_blank" rel="noopener">
+    <img src="https://i.imgur.com/c0eVnvW.png" width="220" alt="CafePersians Logo" style="border-radius:20px; box-shadow:0 6px 30px rgba(0, 200, 180, 0.25); border:1px solid #1a1a1a; margin-bottom:24px;">
   </a>
 
-  <h1>☕ کافه پارسیان — همراه تو در مسیر موفقیت</h1>
-  <p><em>زندگی سخت است، اما ما با هم قوی‌تر هستیم!</em></p>
+  <h1>☕ CafePersians — Your Partner on the Path to Success</h1>
+  <p><em>Life is tough — but together, we’re stronger.</em></p>
 
   <div style="
     background: #0a0a0a;
     border: 1px solid #1e1e1e;
     border-radius: 20px;
     padding: 28px;
-    margin: 32px auto;
+    margin: 28px auto;
     max-width: 820px;
     box-shadow: 0 0 24px rgba(0, 255, 220, 0.07);
-    font-family: 'Segoe UI', 'Helvetica Neue', system-ui, sans-serif;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
     color: #e8e8e8;
     line-height: 1.65;
-    backdrop-filter: blur(4px);
+    font-size: 15.5px;
   ">
 
-    <p>✨ <strong>همراهی برای ساخت فردایی بهتر</strong> — هر یک خرید قهوه، ما را قوی‌تر می‌سازد.</p>
+    <p>✨ <strong>Building a better tomorrow</strong> — every coffee you buy makes us stronger.</p>
     
-    <p>🛡️ <strong>PayPulse</strong>: پرداخت‌های شما با اطمینان و دقت انجام می‌شود. تمامی شباها معتبر و ثبت‌شده در سامانه بانک مرکزی.</p>
+    <p>🛡️ All transactions are handled with precision, care, and full transparency.</p>
 
-    <p>🌐 <strong>Persian Digital Nexus</strong>: اکوسیستم یکپارچه دیجیتال برای ایرانیان — شامل املاک، خودرو، سرمایه‌گذاری، بیمه، تبلیغات، ارز دیجیتال و ابزارهای امنیتی.</p>
+    <p>🌐 <strong>Persian Digital Nexus</strong>: An integrated digital ecosystem for Iranians — real estate, automobiles, investments, insurance, advertising, crypto, and security tools.</p>
 
-    <p>🤝 <strong>حمایت شما</strong> ما را به ادامه زندگی امیدوار می‌کند. مهربانی دیر نیست!</p>
+    <p>⏳ <em>If you don’t act today — someone else will take your opportunity tomorrow.</em></p>
 
-    <hr style="border:0; border-top:1px solid #2a2a2a; margin:24px 0;">
+    <hr style="border:0; border-top:1px solid #2a2a2a; margin:26px 0;">
 
+    <!-- Modern Shields.io Badges -->
     <p>
-      <a href="https://takl.ink/Cafepersians.io/" target="_self" style="color:#00ffcc; text-decoration:none; margin:0 12px; font-weight:600;">🌐 وب‌سایت</a> |
-      <a href="https://takl.ink/cafepersians.Support/" target="_self" style="color:#ff6ec7; text-decoration:none; margin:0 12px; font-weight:600;">💖 حمایت</a> |
-      <a href="https://takl.ink/cafepersians.git/" target="_self" style="color:#7b68ee; text-decoration:none; margin:0 12px; font-weight:600;">🧩 اکوسیستم</a> |
-      <a href="https://takl.ink/PayPulse/" target="_self" style="color:#ffcc00; text-decoration:none; margin:0 12px; font-weight:600;">💳 PayPulse</a>
+      <a href="https://takl.ink/Cafepersians.io/" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/🌐_Website-CafePersians-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+      </a>
+      <a href="https://takl.ink/cafepersians.Support/" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/💖_Support-Buy_Us_A_Coffee-FF6EC7?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Support">
+      </a>
+      <a href="https://takl.ink/cafepersians.git/" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/🧩_Ecosystem-Persian_Digital_Nexus-7B68EE?style=for-the-badge&logo=git&logoColor=white" alt="Ecosystem">
+      </a>
+      <a href="https://takl.ink/PayPulse/" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/💳_PayPulse-Secure_Payments-FFCC00?style=for-the-badge&logo=paypal&logoColor=black" alt="PayPulse">
+      </a>
     </p>
 
-    <p>💬 در <strong>واتساپ، سیگنال، اینستاگرام و فیسبوک مسنجر</strong> منتظر تو هستیم!</p>
-    <p>⏳ <em>اگر امروز اقدام نکنی — فردا دیگران درآمد تو رو می‌گیرند!</em></p>
+    <p>💬 Reach us on <strong>WhatsApp, Signal, Instagram, and Facebook Messenger</strong>.</p>
+    <p>❤️ <em>You’re not alone — we’re right here with you.</em></p>
 
   </div>
 
-  <p>❤️ تو تنها نیستی — ما کنار تو هستیم.</p>
-  <p>با عشق، محبت و همکاری، آینده را با هم می‌سازیم.</p>
+  <p>With love, trust, and collaboration — we build the future, together.</p>
+
+</div>
 
 </div>
 
