@@ -1,5 +1,54 @@
 # 🌌 Nexus Core – Stealth Links
 
+<div align="center">
+
+  <a href="https://takl.ink/Cafepersians.io/" target="_self">
+    <img src="https://i.imgur.com/c0eVnvW.png" width="220" alt="CafePersians Logo" style="border-radius:20px; box-shadow:0 6px 30px rgba(0, 200, 180, 0.25); border:1px solid #1a1a1a;">
+  </a>
+
+  <h1>☕ کافه پارسیان — همراه تو در مسیر موفقیت</h1>
+  <p><em>زندگی سخت است، اما ما با هم قوی‌تر هستیم!</em></p>
+
+  <div style="
+    background: #0a0a0a;
+    border: 1px solid #1e1e1e;
+    border-radius: 20px;
+    padding: 28px;
+    margin: 32px auto;
+    max-width: 820px;
+    box-shadow: 0 0 24px rgba(0, 255, 220, 0.07);
+    font-family: 'Segoe UI', 'Helvetica Neue', system-ui, sans-serif;
+    color: #e8e8e8;
+    line-height: 1.65;
+    backdrop-filter: blur(4px);
+  ">
+
+    <p>✨ <strong>همراهی برای ساخت فردایی بهتر</strong> — هر یک خرید قهوه، ما را قوی‌تر می‌سازد.</p>
+    
+    <p>🛡️ <strong>PayPulse</strong>: پرداخت‌های شما با اطمینان و دقت انجام می‌شود. تمامی شباها معتبر و ثبت‌شده در سامانه بانک مرکزی.</p>
+
+    <p>🌐 <strong>Persian Digital Nexus</strong>: اکوسیستم یکپارچه دیجیتال برای ایرانیان — شامل املاک، خودرو، سرمایه‌گذاری، بیمه، تبلیغات، ارز دیجیتال و ابزارهای امنیتی.</p>
+
+    <p>🤝 <strong>حمایت شما</strong> ما را به ادامه زندگی امیدوار می‌کند. مهربانی دیر نیست!</p>
+
+    <hr style="border:0; border-top:1px solid #2a2a2a; margin:24px 0;">
+
+    <p>
+      <a href="https://takl.ink/Cafepersians.io/" target="_self" style="color:#00ffcc; text-decoration:none; margin:0 12px; font-weight:600;">🌐 وب‌سایت</a> |
+      <a href="https://takl.ink/cafepersians.Support/" target="_self" style="color:#ff6ec7; text-decoration:none; margin:0 12px; font-weight:600;">💖 حمایت</a> |
+      <a href="https://takl.ink/cafepersians.git/" target="_self" style="color:#7b68ee; text-decoration:none; margin:0 12px; font-weight:600;">🧩 اکوسیستم</a> |
+      <a href="https://takl.ink/PayPulse/" target="_self" style="color:#ffcc00; text-decoration:none; margin:0 12px; font-weight:600;">💳 PayPulse</a>
+    </p>
+
+    <p>💬 در <strong>واتساپ، سیگنال، اینستاگرام و فیسبوک مسنجر</strong> منتظر تو هستیم!</p>
+    <p>⏳ <em>اگر امروز اقدام نکنی — فردا دیگران درآمد تو رو می‌گیرند!</em></p>
+
+  </div>
+
+  <p>❤️ تو تنها نیستی — ما کنار تو هستیم.</p>
+  <p>با عشق، محبت و همکاری، آینده را با هم می‌سازیم.</p>
+
+</div>
 
 <div align="center">
 
