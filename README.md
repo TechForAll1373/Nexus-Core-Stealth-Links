@@ -2515,3 +2515,45 @@ Hoosha isn’t just another search tool—it’s your **cognitive partner** in n
   </p>
 
 </div>
+
+# 🌐 PersiaNexus Ecosystem  
+**Smart Crypto • Secure Passwords • Digital Lifestyle for Persian Speakers**
+
+<div align="center">
+  <a href="https://techforall1373.github.io/PersiaNexus-Ecosystem/" target="_self">
+    <img src="https://i.imgur.com/SFrWSYd.jpeg" alt="PersiaNexus Ecosystem Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  </a>
+</div>
+
+---
+
+## 🔑 Core Services
+
+| Service | Description | Action |
+|--------|-------------|--------|
+| **[Lumina Crypto Portal](https://techforall1373.github.io/PersiaNexus-Ecosystem/)** | 🔒 Encrypt like magic — Type plain text, get encrypted stardust. Decode only with the right key. **100% client-side. Zero logs.** ✨ | [**Explore →**](https://techforall1373.github.io/PersiaNexus-Ecosystem/) |
+| **[Cafe Persians Password Generator](https://techforall1373.github.io/PersiaNexus-Ecosystem/)** | 🛡️ Generate unbreakable passwords — Mix letters, numbers & symbols. **Offline. Secure. One click.** | [**Generate →**](https://techforall1373.github.io/PersiaNexus-Ecosystem/) |
+| **[PersiaNexus — Digital Lifestyle Hub](https://techforall1373.github.io/PersiaNexus-Ecosystem/)** | 🏠 Iran’s all-in-one digital platform — Real estate, cars, crypto, insurance & ads. **Built for Persian speakers.** | [**Enter →**](https://techforall1373.github.io/PersiaNexus-Ecosystem/) |
+
+---
+
+## 🚀 Coming Soon
+
+- **Zaya** — AI-Powered Link Shortener 🌐  
+- **The Future of Insurance in Iran** 📈  
+
+---
+
+> 💡 **All tools run 100% client-side — your data never leaves your device. Privacy by design.**
+
+---
+
+## 📬 Contact & Support  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/techforall1373)  
+[![Email](https://img.shields.io/badge/Email-prezatabar@yahoo.com-D14836?style=for-the-badge&logo=gmail)](mailto:prezatabar@yahoo.com)
+
+---
+
+✅ **Designed for Persian-speaking users**  
+✅ **Core features work offline — no internet required**  
+✅ **Modern, clean, and performance-optimized code**
