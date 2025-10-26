@@ -2611,3 +2611,63 @@ Hoosha isn’t just another search tool—it’s your **cognitive partner** in n
 ✅ **Designed for Persian-speaking users**  
 ✅ **Core features work offline — no internet required**  
 ✅ **Modern, clean, and performance-optimized code**
+
+# 💳 AghayePardakht – Official Iranian Payment Gateway
+
+[![AghayePardakht Payment Gateway](https://i.imgur.com/ehqiQJS.jpeg)](https://panel.aqayepardakht.ir/invite/9f77ac313b6c)
+
+🔗 **[Sign Up Now – Get Started with AghayePardakht](https://panel.aqayepardakht.ir/invite/9f77ac313b6c)**
+
+---
+
+## 🚀 About AghayePardakht
+
+**[AghayePardakht](https://aqayepardakht.ir/)** is an **official licensed payment facilitator** certified by **Shaparak** and the **Central Bank of Iran**, delivering cutting-edge financial and electronic payment solutions for businesses and developers across Iran.
+
+Every day, AghayePardakht securely processes **tens of thousands of online transactions**, empowering e-commerce platforms, SaaS products, and digital services with reliable, fast, and compliant payment infrastructure.
+
+---
+
+## ✨ Key Features
+
+- **24/7 Multichannel Support**: Dedicated technical and customer support via phone and ticketing systems — available **7 days a week, 24 hours a day**.
+- **Fast & Reliable Settlements**: Funds are settled **promptly and accurately**, aligned with Shaparak’s official settlement cycles.
+- **Developer-Friendly Tools**:  
+  - Ready-to-use **plugins & modules** for major platforms (WordPress, Laravel, etc.)  
+  - Comprehensive **API documentation** with **sample code in multiple languages**  
+  - Seamless integration in just a few clicks
+- **Mobile App**: Manage your account, monitor transactions, and access all financial tools anytime, anywhere — no browser needed.
+
+---
+
+## 👥 For Whom?
+
+- **Business Owners**: Secure your revenue stream with Iran’s trusted payment gateway. AghayePardakht ensures smooth, scalable, and compliant financial operations.
+- **Web Developers**: Integrate payment functionality effortlessly using our well-documented APIs, SDKs, and pre-built modules.
+
+---
+
+## 🔗 Useful Links
+
+| Resource | URL |
+|--------|-----|
+| 🌐 Official Website | [https://aqayepardakht.ir/](https://aqayepardakht.ir/) |
+| 📥 Sign Up (Referral Link) | [https://panel.aqayepardakht.ir/invite/9f77ac313b6c](https://panel.aqayepardakht.ir/invite/9f77ac313b6c) |
+| 📚 Technical Documentation | [https://aqayepardakht.ir/](https://aqayepardakht.ir/) *(see "Developer" section)* |
+
+> 💡 **Note**: Both the image above and the primary CTA link redirect to the **official registration page** with referral code `9f77ac313b6c`.
+
+---
+
+## 📱 Mobile Experience
+
+Download the **AghayePardakht mobile app** to manage your payment dashboard on the go — full access to transactions, settlements, and account settings, optimized for speed and security.
+
+---
+
+✅ **Trusted. Compliant. Scalable.**  
+Join thousands of Iranian businesses and developers who rely on AghayePardakht for seamless digital payments.
+
+[![Get Started](https://img.shields.io/badge/Sign_Up_Now-007BFF?style=for-the-badge&logo=github&logoColor=white)](https://panel.aqayepardakht.ir/invite/9f77ac313b6c)
+
+
