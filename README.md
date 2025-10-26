@@ -1,6 +1,6 @@
 # 🌌 Nexus Core – Stealth Links
 
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #000; padding: 16px;">
+<div style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #000; padding: 16px;">
 
 <a href="https://takl.ink/HamNava/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #0f0f0f; border: 1px solid #333; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
   <span style="margin-right: 5px;">🌐</span> WEBSITE
