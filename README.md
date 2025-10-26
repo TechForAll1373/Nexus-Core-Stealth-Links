@@ -1,5 +1,99 @@
 # 🌌 Nexus Core – Stealth Links
 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/TechForAll1373/Nexus-Core-Stealth-Links">
+    <img src="https://github.com/TechForAll1373/Nexus-Core-Stealth-Links/raw/main/imagen-4.0-ultra-generate-preview-06-06_a_%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1_%D8%A8%D8%A7_%DA%A9%DB%8C%D9%81%DB%8C%D8%AA.png" alt="CafePersians Nexus Logo" width="120">
+  </a>
+
+  <h3 align="center">Nexus Core: Stealth Links</h3>
+
+  <p align="center">
+    The definitive, centralized portal of the CafePersians ecosystem<br />
+    All URLs hidden • Human-readable names • One file • Zero dependencies
+    <br />
+    <a href="https://github.com/TechForAll1373/Nexus-Core-Stealth-Links"><strong>Explore the Portal »</strong></a>
+  </p>
+</p>
+
+---
+
+### 🔒 Stealth. Smart. Seamless.
+
+**Nexus Core** is a minimalist, ultra-lightweight (<5KB) HTML5 interface that securely organizes and delivers access to the full suite of **CafePersians** digital services—without exposing real URLs in the DOM. Built for privacy, performance, and polish.
+
+- **Stealth Mode**: Real links never appear in source or DOM  
+- **Auto-Categorized**: 6 intelligent service groups  
+- **Live Search**: Instant filtering by human-readable name  
+- **Deep Space UI**: Neon glow, liquid hover, glass-morphism cards  
+- **Fully Responsive**: Works flawlessly on mobile & desktop  
+- **Zero Dependencies**: Pure HTML5 + CSS3 + Vanilla JS — no frameworks
+
+---
+
+### 🌐 Core Ecosystem Services
+
+**Hosting & Infrastructure**  
+→ **Mizbanfa**: Next-gen intelligent hosting — fast, reliable, infinitely scalable. Built for developers, trusted by innovators.
+
+**Digital Insurance**  
+→ Instant policies via **Bimeh Bazar**, **Azki**, and **Charisma**  
+→ Auto, travel, health, life, fire, commercial & specialty coverage  
+→ AI-driven comparisons • e-policy issuance • 24/7 claims • zero paperwork
+
+**Real Estate & Automotive**  
+→ Pre-sales partnerships in Babol, Babolsar, Amirkola  
+→ Traffic fine checks, vehicle insurance, trusted buy/sell/exchange
+
+**Digital Marketing**  
+→ Strategic ads on **Sheypoor**, **Divar**, **Pindo**  
+→ Targeted Telegram/Instagram/WhatsApp ad groups
+
+**Web3 & SocialFi**  
+→ **The Arena** (`arena.social`): A user-owned SocialFi ecosystem where engagement = income  
+→ Own your data • monetize interactions • govern your community
+
+**Product Suite**  
+→ **Cafenetman**: Iran’s first fully remote service platform (120+ digital services)  
+→ **Dastiar**: All-in-one digital sidekick (mobile app + browser extension)  
+→ **Pooleno**: Licensed Iranian crypto exchange — secure, transparent, beginner-friendly
+
+---
+
+### 🚀 Get Started
+
+All official portals, tools, and documentation are centralized here:  
+🔗 [CafePersians.io Library](https://github.com/TechForAll1373/Nexus-Core-Stealth-Links)
+
+**Special Invitations**  
+- Become a **BimehBazar Partner**: [Register with code `09115682541`](https://shoraka.net/register?referral_code=09115682541)  
+- Join **Cafenetman**: Use code `a332918` for welcome bonus  
+- Install **Dastiar**: Use code `DAS-0018KK` for exclusive perks
+
+---
+
+### 📦 Technical Highlights
+
+- **Single HTML file** — deploy anywhere (GitHub Pages, CDN, local)
+- **Offline-ready** (extendable with Service Worker)
+- **Real-time sync** (WebSocket API compatible)
+- **Modular architecture** — ready for micro-frontend integration
+
+---
+
+### 📜 License
+
+Distributed under the MIT License.  
+See [`LICENSE`](https://github.com/TechForAll1373/Nexus-Core-Stealth-Links/blob/main/LICENSE) for details.
+
+---
+
+> **Power your vision. Host smarter. Secure your tomorrow — today.**  
+> Maintained with ❤️ by **CafePersians** — certified partner of Bimeh Bazar, Azki & Charisma.
+
+
+
 <table align="center">
   <tr>
     <td style="padding: 4px; border: none;">
