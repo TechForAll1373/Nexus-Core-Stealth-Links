@@ -1,63 +1,81 @@
 # 🌌 Nexus Core – Stealth Links
 
-<div style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #000; padding: 16px;">
+<table align="center">
+  <tr>
+    <td style="padding: 4px; border: none;">
+      <a href="https://takl.ink/HamNava/" target="_blank" style="display: block; padding: 6px 10px; background: #0f0f0f; border: 1px solid #333; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600; text-align: center;">
+        <span style="margin-right: 5px;">🌐</span> WEBSITE
+        <span style="margin-left: 6px; background: #00E5C5; color: #000; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">HAMNAVA</span>
+      </a>
+    </td>
+    <td style="padding: 4px; border: none;">
+      <a href="https://takl.ink/Workstation/" target="_blank" style="display: block; padding: 6px 10px; background: #121212; border: 1px solid #404040; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600; text-align: center;">
+        <span style="margin-right: 5px;">💻</span> WORKSTATION
+        <span style="margin-left: 6px; background: #00D4AA; color: #000; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
+      </a>
+    </td>
+    <td style="padding: 4px; border: none;">
+      <a href="https://takl.ink/Charisman/" target="_blank" style="display: block; padding: 6px 10px; background: #141414; border: 1px solid #454545; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600; text-align: center;">
+        <span style="margin-right: 5px;">🌟</span> CHARISMAN
+        <span style="margin-left: 6px; background: #00C395; color: #000; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
+      </a>
+    </td>
+    <td style="padding: 4px; border: none;">
+      <a href="https://takl.ink/azkiSeller/" target="_blank" style="display: block; padding: 6px 10px; background: #161616; border: 1px solid #4a4a4a; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600; text-align: center;">
+        <span style="margin-right: 5px;">🛒</span> AZKI SELLER
+        <span style="margin-left: 6px; background: #00B280; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: none;">
+      <a href="https://takl.ink/Cafepersian/" target="_blank" style="display: block; padding: 6px 10px; background: #181818; border: 1px solid #4f4f4f; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600; text-align: center;">
+        <span style="margin-right: 5px;">☕</span> CAFE PERSIAN
+        <span style="margin-left: 6px; background: #00A16B; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
+      </a>
+    </td>
+    <td style="padding: 4px; border: none;">
+      <a href="https://takl.ink/CafePersia/" target="_blank" style="display: block; padding: 6px 10px; background: #1a1a1a; border: 1px solid #545454; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600; text-align: center;">
+        <span style="margin-right: 5px;">🏛️</span> CAFE PERSIA
+        <span style="margin-left: 6px; background: #009056; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
+      </a>
+    </td>
+    <td style="padding: 4px; border: none;">
+      <a href="https://takl.ink/Cafepersians.io/" target="_blank" style="display: block; padding: 6px 10px; background: #1c1c1c; border: 1px solid #595959; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600; text-align: center;">
+        <span style="margin-right: 5px;">🔗</span> CAFEPERSIANS.IO
+        <span style="margin-left: 6px; background: #007F41; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
+      </a>
+    </td>
+    <td style="padding: 4px; border: none;">
+      <a href="https://takl.ink/cafepersians.Support/" target="_blank" style="display: block; padding: 6px 10px; background: #1e1e1e; border: 1px solid #5e5e5e; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600; text-align: center;">
+        <span style="margin-right: 5px;">🤝</span> SUPPORT
+        <span style="margin-left: 6px; background: #006E2C; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: none;">
+      <a href="https://takl.ink/cafepersians.git/" target="_blank" style="display: block; padding: 6px 10px; background: #202020; border: 1px solid #636363; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600; text-align: center;">
+        <span style="margin-right: 5px;">⚙️</span> GIT
+        <span style="margin-left: 6px; background: #005D17; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
+      </a>
+    </td>
+    <td style="padding: 4px; border: none;">
+      <a href="https://takl.ink/PayPulse/" target="_blank" style="display: block; padding: 6px 10px; background: #222222; border: 1px solid #686868; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600; text-align: center;">
+        <span style="margin-right: 5px;">💳</span> PAY PULSE
+        <span style="margin-left: 6px; background: #004C02; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
+      </a>
+    </td>
+    <td style="padding: 4px; border: none;">
+      <a href="https://takl.ink/CafeIranConnect/" target="_blank" style="display: block; padding: 6px 10px; background: #242424; border: 1px solid #6d6d6d; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600; text-align: center;">
+        <span style="margin-right: 5px;">📡</span> IRAN CONNECT
+        <span style="margin-left: 6px; background: #003B00; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-<a href="https://takl.ink/HamNava/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #0f0f0f; border: 1px solid #333; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
-  <span style="margin-right: 5px;">🌐</span> WEBSITE
-  <span style="margin-left: 6px; background: #00E5C5; color: #000; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">HAMNAVA</span>
-</a>
-
-<a href="https://takl.ink/Workstation/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #121212; border: 1px solid #404040; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
-  <span style="margin-right: 5px;">💻</span> WORKSTATION
-  <span style="margin-left: 6px; background: #00D4AA; color: #000; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
-</a>
-
-<a href="https://takl.ink/Charisman/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #141414; border: 1px solid #454545; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
-  <span style="margin-right: 5px;">🌟</span> CHARISMAN
-  <span style="margin-left: 6px; background: #00C395; color: #000; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
-</a>
-
-<a href="https://takl.ink/azkiSeller/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #161616; border: 1px solid #4a4a4a; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
-  <span style="margin-right: 5px;">🛒</span> AZKI SELLER
-  <span style="margin-left: 6px; background: #00B280; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
-</a>
-
-<a href="https://takl.ink/Cafepersian/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #181818; border: 1px solid #4f4f4f; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
-  <span style="margin-right: 5px;">☕</span> CAFE PERSIAN
-  <span style="margin-left: 6px; background: #00A16B; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
-</a>
-
-<a href="https://takl.ink/CafePersia/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #1a1a1a; border: 1px solid #545454; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
-  <span style="margin-right: 5px;">🏛️</span> CAFE PERSIA
-  <span style="margin-left: 6px; background: #009056; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
-</a>
-
-<a href="https://takl.ink/Cafepersians.io/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #1c1c1c; border: 1px solid #595959; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
-  <span style="margin-right: 5px;">🔗</span> CAFEPERSIANS.IO
-  <span style="margin-left: 6px; background: #007F41; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
-</a>
-
-<a href="https://takl.ink/cafepersians.Support/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #1e1e1e; border: 1px solid #5e5e5e; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
-  <span style="margin-right: 5px;">🤝</span> SUPPORT
-  <span style="margin-left: 6px; background: #006E2C; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
-</a>
-
-<a href="https://takl.ink/cafepersians.git/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #202020; border: 1px solid #636363; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
-  <span style="margin-right: 5px;">⚙️</span> GIT
-  <span style="margin-left: 6px; background: #005D17; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
-</a>
-
-<a href="https://takl.ink/PayPulse/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #222222; border: 1px solid #686868; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
-  <span style="margin-right: 5px;">💳</span> PAY PULSE
-  <span style="margin-left: 6px; background: #004C02; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
-</a>
-
-<a href="https://takl.ink/CafeIranConnect/" target="_blank" style="display: inline-block; margin: 4px; padding: 6px 10px; background: #242424; border: 1px solid #6d6d6d; border-radius: 6px; text-decoration: none; color: #f0f0f0; font-size: 13px; font-weight: 600;">
-  <span style="margin-right: 5px;">📡</span> IRAN CONNECT
-  <span style="margin-left: 6px; background: #003B00; color: #fff; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 12px;">CAFE PERSIANS</span>
-</a>
-
-</div>
 
 <div align="center">
 <div align="center">
