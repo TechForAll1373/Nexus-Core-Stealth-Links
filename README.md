@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/TechForAll1373/Nexus-Core-Stealth-Links">
-    <img src="https://github.com/TechForAll1373/Nexus-Core-Stealth-Links/raw/main/imagen-4.0-ultra-generate-preview-06-06_a_%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1_%D8%A8%D8%A7_%DA%A9%DB%8C%D9%81%DB%8C%D8%AA.png" alt="CafePersians Nexus Logo" width="120">
+    <img src="https://i.imgur.com/fw23Kro.png" alt="CafePersians Nexus Logo" width="120">
   </a>
 
   <h3 align="center">Nexus Core: Stealth Links</h3>
