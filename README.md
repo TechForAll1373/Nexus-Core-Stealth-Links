@@ -2864,3 +2864,120 @@ Join thousands of Iranian businesses and developers who rely on AghayePardakht f
 
 
 
+# 🌌 Nexus Core: Live Support Grid  
+*A dynamic, always-on matrix of support and connection points — streamlined for action.*
+
+---
+
+### 💸 Donation
+- [Donito](https://donito.me/cafepersians)
+- [Hamibash](https://hamibash.com/cafepersians)
+- [CoffeeBede](https://www.coffeebede.com/cafepersians.io)
+- [Coffeete](http://www.coffeete.ir/Cafepersians)
+
+### 💳 Payments
+- [Payment4 (Link A)](https://paylink.payment4.com/en/cafepersians/a43a45c4-e7b6-42f0-bcf8-8f850cd3b239)
+- [Payment4 (Link B)](https://paylink.payment4.com/en/cafepersians/01e9f9b6-590f-44e9-874f-7d5a5a50355d)
+- [IranianCard](https://panel.iranicard.ir/register?referralCode=66161007)
+- [AghayePardakht](https://panel.aqayepardakht.ir/invite/9f77ac313b6c)
+
+### 🌐 Core Hubs
+- [CafePersians.io](https://takl.ink/Cafepersians.io/)
+- [Git Repository](https://takl.ink/cafepersians.git/)
+- [Support Portal](https://takl.ink/cafepersians.Support/)
+- [Workstation](https://takl.ink/Workstation/)
+- [HamNava](https://takl.ink/HamNava/)
+- [Cafe Persian](https://takl.ink/Cafepersian/)
+- [Cafe Persia](https://takl.ink/CafePersia/)
+- [Charisman](https://takl.ink/Charisman/)
+- [Azki Seller](https://takl.ink/azkiSeller/)
+- [PayPulse](https://takl.ink/PayPulse/)
+- [Iran Connect](https://takl.ink/CafeIranConnect/)
+
+### 🔧 Tools
+- [PersiaNexus](https://techforall1373.github.io/PersiaNexus/)
+- [Lumina Crypto Portal](https://techforall1373.github.io/lumina-crypto-portal/)
+- [Password Generator](https://techforall1373.github.io/cafe-persians-password-gen/)
+- [CafeNetMan](http://app.cafenetman.com/s/33bKz/nw)
+- [Dastiar](https://dastiar.com)
+- [Pooleno (Beta)](https://beta.pooleno.ir/auth/register?referral=dtt3iv)
+- [Tagsino](https://panel.tagsino.com/auth/login?referral=AAJDA)
+- [Tlyn](https://my.tlyn.ir/register?referral=RZMRGV)
+- [Talasea](https://talasea.ir/onboarding/?r=ENqbdgri)
+- [NoghreSea](https://noghresea.ir/onboarding/?r=YXnepCnN)
+- [Invex](https://panel.invex.ir/auth/register?referral_code=CSAORIUD)
+- [SMS.ir](https://app.sms.ir/auth/sign-up?ref=NDZ13)
+
+### 📱 Social
+- [Instagram](https://www.instagram.com/investing_in_northern_iran/)
+- [Telegram (Charisma)](https://t.me/charismaholding)
+- [WhatsApp Channel A](https://whatsapp.com/channel/0029VbBA6O26RGJCCAPcpM3H)
+- [WhatsApp Channel B](https://whatsapp.com/channel/0029VazXKZPL2ATzkbqfge2G)
+- [Rubika (Caffeine95)](https://rubika.ir/Caffeine95)
+- [Rubika (Charisman)](https://rubika.ir/charisman_1)
+- [Rubika (Farabi)](https://rubika.ir/farabi_1)
+- [Rubika (Pedaram1348)](https://rubika.ir/pedaram1348)
+- [Bale](https://ble.ir/CafePersians2%20)
+- [Eitaa](https://eitaa.com/WhatsCafe)
+- [iGap](https://igap.net/join/svkFCAFirEqNnGkiHDpJiOzIs)
+- [Virasty](https://virasty.com/CafePersians1)
+- [Wisgoon (1)](https://wisgoon.com/persiancafe)
+- [Wisgoon (2)](https://wisgoon.com/persiancafe2)
+- [Soroush Plus](https://splus.ir/Cafepersian1)
+- [Ba-Ham](http://ba-ham.com/PersianCafe/)
+
+### 🛒 Marketplaces
+- [Divar](https://divar.ir/)
+- [Sheypoor](https://www.sheypoor.com/)
+- [Pindo](https://www.pindo.ir/)
+- [100Nama](https://100nama.com/af/61979)
+
+### 🏢 Business
+- [Parsian Cafe](https://B2n.ir/qt4745)
+- [Shoraka (Partner)](https://shoraka.net/register?referral_code=09115682541)
+- [See5](https://see5.net/?r=1673)
+- [Simplly](https://simplly.site/?r=1673)
+- [TeraBox Gallery](https://terabox.com/s/1whD-2_a5OLbQmMDu8QqxRQ)
+
+### 📩 Contact
+- [Email](mailto:prezatabar@yahoo.com)
+- [WhatsApp (Support)](https://wa.me/989115682541)
+- [WhatsApp (Support 2)](https://wa.me/989037860640)
+
+### 🌍 AI Platforms
+- [AvalAI](https://chat.avalai.ir/?ref=FS0PCP2)
+- [Hoosheno](https://hoosheno.com/)
+- [Hooshina](https://hooshina.com/)
+- [Ivira AI](https://ivira.ai/)
+- [RakhshAI](https://rakhshai.com/)
+- [GapGPT](https://gapgpt.app/)
+- [Irani AI](https://www.irani-ai.com/)
+- [Zigap](https://zigap.ir/)
+- [Kara Tools](https://kara.tools/)
+- [Houshyar24](https://houshyar24.ir/)
+- [Hoosha](https://hoosha.com/)
+
+### 💱 Exchanges
+- [OK-EX](https://ok-ex.io?refer=1818372)
+- [Nobitex (A)](https://nobitex.ir/signup/?refcode=9553724)
+- [Nobitex (B)](https://nobitex.ir/signup/?refcode=AA02BB1)
+- [Wallex](https://wallex.ir/signup?ref=cmesrp1)
+- [Tabdeal](https://tabdeal.org/auth/register-req?refcode=1er1sw)
+- [Sarmayex](https://sarmayex.com/authentication/init?reagent_code=480132887)
+- [AbanTether (A)](https://abantether.com/register?code=23UQR)
+- [AbanTether (B)](https://abantether.com/register?code=rScM)
+- [OneFinex](https://onefinex.com/login?ref=o1eo8osb4l)
+- [Exnovin](https://exnovin.io/app/register?ref=1581831747)
+- [Kifpool](https://kifpool.me/member_v2/register?referral=Y5aw5xPz3AML)
+- [ChangeKon (A)](https://changekon.ir?ref=CAP_82957718)
+- [ChangeKon (B)](https://changekon.ir?ref=44938819)
+
+### 🔗 SocialFi
+- [The Arena](https://arena.social/termuxisland)
+- [Zaya (Link Shortener)](https://zaya.io?token=IS5lbSF)
+
+---
+
+> ✨ **Every link opens in a new tab. Every click powers the Persian digital future.**  
+> 🔁 **Star this repo. Share this grid. Build the ecosystem together.**
+
