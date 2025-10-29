@@ -2984,15 +2984,7 @@ Join thousands of Iranian businesses and developers who rely on AghayePardakht f
 
 <div align="center">
 
-<!-- Persian Digital Nexus Wheel – Clean Text-Only Version -->
-<svg width="840" height="840" viewBox="0 0 840 840" xmlns="http://www.w3.org/2000/svg" style="max-width:100%; height:auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
-  <style>
-    .nexus-center-text { font: bold 20px sans-serif; fill: white; dominant-baseline: middle; text-anchor: middle; }
-    .nexus-label { font: 11px sans-serif; fill: white; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }
-    .nexus-link { cursor: pointer; }
-    .nexus-link:hover .nexus-ring { filter: drop-shadow(0 0 8px currentColor); }
-  </style>
-
+<svg width="840" height="840" viewBox="0 0 840 840" xmlns="http://www.w3.org/2000/svg">
   <!-- Center -->
   <defs>
     <radialGradient id="centerGrad" cx="50%" cy="50%" r="50%">
@@ -3001,116 +2993,115 @@ Join thousands of Iranian businesses and developers who rely on AghayePardakht f
     </radialGradient>
   </defs>
   <circle cx="420" cy="420" r="60" fill="url(#centerGrad)" />
-  <text x="420" y="420" class="nexus-center-text">CafePersians</text>
+  <text x="420" y="420" font-family="sans-serif" font-weight="bold" font-size="20" fill="white" text-anchor="middle" dominant-baseline="middle">CafePersians</text>
 
   <!-- 1. Insurance -->
-  <a href="https://www.azki.com/" target="_blank" class="nexus-link">
-    <circle cx="420" cy="140" r="48" fill="#ff416c" class="nexus-ring"/>
-    <text x="420" y="140" class="nexus-label">Insurance</text>
+  <a href="https://www.azki.com/" target="_blank">
+    <circle cx="420" cy="140" r="48" fill="#ff416c" />
+    <text x="420" y="140" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Insurance</text>
   </a>
 
   <!-- 2. Real Estate / Auto -->
-  <a href="https://B2n.ir/qt4745" target="_blank" class="nexus-link">
-    <circle cx="630" cy="220" r="48" fill="#00c853" class="nexus-ring"/>
-    <text x="630" y="220" class="nexus-label">Real Estate / Auto</text>
+  <a href="https://B2n.ir/qt4745" target="_blank">
+    <circle cx="630" cy="220" r="48" fill="#00c853" />
+    <text x="630" y="220" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Real Estate / Auto</text>
   </a>
 
   <!-- 3. Persian AI -->
-  <a href="https://hoosheno.com/" target="_blank" class="nexus-link">
-    <circle cx="740" cy="420" r="48" fill="#ffd740" class="nexus-ring"/>
-    <text x="740" y="420" class="nexus-label">Persian AI</text>
+  <a href="https://hoosheno.com/" target="_blank">
+    <circle cx="740" cy="420" r="48" fill="#ffd740" />
+    <text x="740" y="420" font-family="sans-serif" font-size="11" fill="#000" text-anchor="middle" dominant-baseline="middle">Persian AI</text>
   </a>
 
   <!-- 4. Crypto -->
-  <a href="https://beta.pooleno.ir/auth/register?referral=dtt3iv" target="_blank" class="nexus-link">
-    <circle cx="630" cy="620" r="48" fill="#7c4dff" class="nexus-ring"/>
-    <text x="630" y="620" class="nexus-label">Crypto</text>
+  <a href="https://beta.pooleno.ir/auth/register?referral=dtt3iv" target="_blank">
+    <circle cx="630" cy="620" r="48" fill="#7c4dff" />
+    <text x="630" y="620" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Crypto</text>
   </a>
 
   <!-- 5. Web Tools -->
-  <a href="https://techforall1373.github.io/PersiaNexus/" target="_blank" class="nexus-link">
-    <circle cx="420" cy="740" r="48" fill="#ff6f00" class="nexus-ring"/>
-    <text x="420" y="740" class="nexus-label">Web Tools</text>
+  <a href="https://techforall1373.github.io/PersiaNexus/" target="_blank">
+    <circle cx="420" cy="740" r="48" fill="#ff6f00" />
+    <text x="420" y="740" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Web Tools</text>
   </a>
 
   <!-- 6. Payments -->
-  <a href="https://paylink.payment4.com/en/cafepersians/a43a45c4-e7b6-42f0-bcf8-8f850cd3b239" target="_blank" class="nexus-link">
-    <circle cx="210" cy="620" r="48" fill="#00b0ff" class="nexus-ring"/>
-    <text x="210" y="620" class="nexus-label">Payments</text>
+  <a href="https://paylink.payment4.com/en/cafepersians/a43a45c4-e7b6-42f0-bcf8-8f850cd3b239" target="_blank">
+    <circle cx="210" cy="620" r="48" fill="#00b0ff" />
+    <text x="210" y="620" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Payments</text>
   </a>
 
   <!-- 7. Marketing -->
-  <a href="https://www.instagram.com/investing_in_northern_iran/" target="_blank" class="nexus-link">
-    <circle cx="110" cy="420" r="48" fill="#ff4081" class="nexus-ring"/>
-    <text x="110" y="420" class="nexus-label">Marketing</text>
+  <a href="https://www.instagram.com/investing_in_northern_iran/" target="_blank">
+    <circle cx="110" cy="420" r="48" fill="#ff4081" />
+    <text x="110" y="420" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Marketing</text>
   </a>
 
   <!-- 8. Services -->
-  <a href="http://app.cafenetman.com/s/33bKz/nw" target="_blank" class="nexus-link">
-    <circle cx="210" cy="220" r="48" fill="#4caf50" class="nexus-ring"/>
-    <text x="210" y="220" class="nexus-label">Services</text>
+  <a href="http://app.cafenetman.com/s/33bKz/nw" target="_blank">
+    <circle cx="210" cy="220" r="48" fill="#4caf50" />
+    <text x="210" y="220" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Services</text>
   </a>
 
   <!-- 9. Social -->
-  <a href="https://rubika.ir/Caffeine95" target="_blank" class="nexus-link">
-    <circle cx="310" cy="100" r="48" fill="#2196f3" class="nexus-ring"/>
-    <text x="310" y="100" class="nexus-label">Social</text>
+  <a href="https://rubika.ir/Caffeine95" target="_blank">
+    <circle cx="310" cy="100" r="48" fill="#2196f3" />
+    <text x="310" y="100" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Social</text>
   </a>
 
   <!-- 10. Education -->
-  <a href="https://shoraka.net/register?referral_code=09115682541" target="_blank" class="nexus-link">
-    <circle cx="530" cy="100" r="48" fill="#9c27b0" class="nexus-ring"/>
-    <text x="530" y="100" class="nexus-label">Education</text>
+  <a href="https://shoraka.net/register?referral_code=09115682541" target="_blank">
+    <circle cx="530" cy="100" r="48" fill="#9c27b0" />
+    <text x="530" y="100" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Education</text>
   </a>
 
   <!-- 11. Hosting -->
-  <a href="https://my.mizbanfa.net/aff.php?aff=4738" target="_blank" class="nexus-link">
-    <circle cx="690" cy="310" r="48" fill="#009688" class="nexus-ring"/>
-    <text x="690" y="310" class="nexus-label">Hosting</text>
+  <a href="https://my.mizbanfa.net/aff.php?aff=4738" target="_blank">
+    <circle cx="690" cy="310" r="48" fill="#009688" />
+    <text x="690" y="310" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Hosting</text>
   </a>
 
   <!-- 12. Support -->
-  <a href="https://donito.me/cafepersians" target="_blank" class="nexus-link">
-    <circle cx="690" cy="530" r="48" fill="#ff9800" class="nexus-ring"/>
-    <text x="690" y="530" class="nexus-label">Support</text>
+  <a href="https://donito.me/cafepersians" target="_blank">
+    <circle cx="690" cy="530" r="48" fill="#ff9800" />
+    <text x="690" y="530" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Support</text>
   </a>
 
   <!-- 13. Hubs -->
-  <a href="https://takl.ink/Cafepersians.io/" target="_blank" class="nexus-link">
-    <circle cx="530" cy="780" r="48" fill="#e91e63" class="nexus-ring"/>
-    <text x="530" y="780" class="nexus-label">Hubs</text>
+  <a href="https://takl.ink/Cafepersians.io/" target="_blank">
+    <circle cx="530" cy="780" r="48" fill="#e91e63" />
+    <text x="530" y="780" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Hubs</text>
   </a>
 
   <!-- 14. Marketplaces -->
-  <a href="https://divar.ir/" target="_blank" class="nexus-link">
-    <circle cx="310" cy="780" r="48" fill="#8bc34a" class="nexus-ring"/>
-    <text x="310" y="780" class="nexus-label">Marketplaces</text>
+  <a href="https://divar.ir/" target="_blank">
+    <circle cx="310" cy="780" r="48" fill="#8bc34a" />
+    <text x="310" y="780" font-family="sans-serif" font-size="11" fill="#000" text-anchor="middle" dominant-baseline="middle">Marketplaces</text>
   </a>
 
   <!-- 15. Global AI -->
-  <a href="https://chat.avalai.ir/?ref=FS0PCP2" target="_blank" class="nexus-link">
-    <circle cx="150" cy="310" r="48" fill="#607d8b" class="nexus-ring"/>
-    <text x="150" y="310" class="nexus-label">Global AI</text>
+  <a href="https://chat.avalai.ir/?ref=FS0PCP2" target="_blank">
+    <circle cx="150" cy="310" r="48" fill="#607d8b" />
+    <text x="150" y="310" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">Global AI</text>
   </a>
 
   <!-- 16. SocialFi -->
-  <a href="https://arena.social/termuxisland" target="_blank" class="nexus-link">
-    <circle cx="150" cy="530" r="48" fill="#673ab7" class="nexus-ring"/>
-    <text x="150" y="530" class="nexus-label">SocialFi</text>
+  <a href="https://arena.social/termuxisland" target="_blank">
+    <circle cx="150" cy="530" r="48" fill="#673ab7" />
+    <text x="150" y="530" font-family="sans-serif" font-size="11" fill="white" text-anchor="middle" dominant-baseline="middle">SocialFi</text>
   </a>
 
   <!-- 17. Smart Links -->
-  <a href="https://zaya.io?token=IS5lbSF" target="_blank" class="nexus-link">
-    <circle cx="420" cy="40" r="48" fill="#00bcd4" class="nexus-ring"/>
-    <text x="420" y="40" class="nexus-label">Smart Links</text>
+  <a href="https://zaya.io?token=IS5lbSF" target="_blank">
+    <circle cx="420" cy="40" r="48" fill="#00bcd4" />
+    <text x="420" y="40" font-family="sans-serif" font-size="11" fill="#000" text-anchor="middle" dominant-baseline="middle">Smart Links</text>
   </a>
 
   <!-- 18. Crypto Gifts -->
-  <a href="https://techforall1373.github.io/CryptoDonation-Hub/" target="_blank" class="nexus-link">
-    <circle cx="420" cy="800" r="48" fill="#4caf50" class="nexus-ring"/>
-    <text x="420" y="800" class="nexus-label">Crypto Gifts</text>
+  <a href="https://techforall1373.github.io/CryptoDonation-Hub/" target="_blank">
+    <circle cx="420" cy="800" r="48" fill="#4caf50" />
+    <text x="420" y="800" font-family="sans-serif" font-size="11" fill="#000" text-anchor="middle" dominant-baseline="middle">Crypto Gifts</text>
   </a>
-
 </svg>
 
 <br><br>
@@ -3118,4 +3109,3 @@ Click any circle to explore that ecosystem — built for Persian speakers, power
 Zero dependencies • Fully responsive • GitHub-optimized • All links verified
 
 </div>
-ع
