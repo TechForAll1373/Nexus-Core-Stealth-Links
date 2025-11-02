@@ -2981,4 +2981,37 @@ Join thousands of Iranian businesses and developers who rely on AghayePardakht f
 > ✨ **Every link opens in a new tab. Every click powers the Persian digital future.**  
 > 🔁 **Star this repo. Share this grid. Build the ecosystem together.**
 
+<div align="center">
 
+## 🌍 Join Cafepersian  
+
+☕ **Cafepersian** – a vibrant community of **36+ members** and growing!  
+Connect, collaborate, and stay updated in a space built for creators and professionals.
+
+---
+
+[![Instagram Group – Cafepersian](https://img.shields.io/badge/Cafepersian-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://ig.me/j/AbaAJRHQ8ABcdrKE/)  
+[![More Groups – Instagram](https://img.shields.io/badge/More_Groups-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://ig.me/j/Aba5cz-RkDUoe4eW/)  
+[![Business Chat – Instagram](https://img.shields.io/badge/Business_Chat-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://ig.me/j/AbYA6hRxZbVgVwD2/)  
+
+[![WhatsApp Community](https://img.shields.io/badge/Join_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BLjtKJK3qlQDOh5dTKBAZO?mode=wwt)
+
+---
+
+## 💼 Microsoft Teams Collaboration  
+
+✨ **Become a Microsoft Teams Insider**  
+Get **early access** to upcoming features before they go public.  
+
+🔗 [👉 Join the Insider Program](https://go.microsoft.com/fwlink/?linkid=2199133)
+
+💬 **Chat with me directly on Teams**  
+Let’s connect, brainstorm, and build something great together.  
+
+🔗 [📩 Start a Teams Chat](https://teams.live.com/l/invite/FEAkJRjuroOw0gWVwE?v=g1)
+
+---
+
+> 🌟 **Your presence powers this community — thank you for being part of it.**
+
+</div>
